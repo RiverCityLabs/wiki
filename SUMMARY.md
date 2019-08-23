@@ -24,4 +24,5 @@
 ## Guides
 
 * [Contributing](guides/contributing.md)
+* [POS Terminal Setup](guides/pos-terminal-setup.md)
 
