@@ -1,7 +1,5 @@
 # Lulzbot Taz 6
 
-
-
 ## Useful links
 
 [Right Taz 6 Octoprint](https://taz6-rivercitylabs.malamaker.org/) 
