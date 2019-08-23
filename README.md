@@ -4,7 +4,7 @@ description: >-
   information on things regarding the makerspace!
 ---
 
-# Welcome
+# River City Labs
 
 ## Equipment
 
