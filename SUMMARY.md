@@ -6,6 +6,7 @@
 * [Members](members/README.md)
   * [Social Media](members/social-media.md)
 * [Bureaucracy](untitled/README.md)
+  * [Firearms Policy](untitled/firearms-policy.md)
   * [Code of Conduct](untitled/code-of-conduct.md)
   * [Bylaws](untitled/bylaws.md)
   * [Leadership](untitled/leadership.md)
