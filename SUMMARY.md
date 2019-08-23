@@ -17,7 +17,10 @@
   * [Firearms Policy](operations/firearms-policy.md)
   * [Code of Conduct](operations/code-of-conduct.md)
   * [Bylaws](operations/bylaws.md)
-  * [Leadership](operations/leadership.md)
+  * [Leadership](operations/leadership/README.md)
+    * [2019](operations/leadership/2019.md)
+    * [2018](operations/leadership/2018-officers.md)
+    * [2017](operations/leadership/2017-officers.md)
   * [Marketing](operations/marketing.md)
   * [Legal](operations/legal.md)
 
