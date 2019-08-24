@@ -30,8 +30,8 @@
     * [2017](operations/leadership/2017-officers.md)
   * [Marketing](operations/marketing.md)
   * [Legal](operations/legal.md)
-* [Events](events.md)
-* [NOMCon 2019](nomcon-2019.md)
+* [Events](events/README.md)
+  * [NOMCon 2019](events/nomcon-2019.md)
 
 ## Guides
 
