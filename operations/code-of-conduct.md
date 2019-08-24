@@ -1,7 +1,3 @@
----
-description: Current CoC for River City Labs Makerspace
----
-
 # Code of Conduct
 
 ### Our Pledge
