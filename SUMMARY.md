@@ -23,6 +23,7 @@
   * [CNC Mill](metalshop/cnc-mill.md)
   * [Miller MIG Welder](metalshop/miller-mig-welder.md)
   * [Lathe](metalshop/lathe.md)
+  * [Horizontal Band Saw](metalshop/horizontal-band-saw.md)
 * [Electronics](electronics.md)
 * [Recording Studio](recording-studio.md)
 * [Members](members/README.md)
