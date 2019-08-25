@@ -35,6 +35,8 @@
   * [Vinyl Cutter](miscellaneous-tools/vinyl-cutter.md)
 * [Recording Studio](recording-studio.md)
 * [Members](members/README.md)
+  * [General Safety Rules](members/general-safety-rules.md)
+  * [Lock-up Checklist](members/lock-up-checklist.md)
   * [Social Media](members/social-media.md)
   * [Guest vs. Visitor](members/guest-vs.-visitor.md)
   * [Visitors](members/visitors.md)
