@@ -13,6 +13,7 @@ description: >-
   * Kitchen
   * Large space 
   * Clean space
+* If the "Makerspace Beacon" is lit \(it's by the clean room light switches\), please turn it off
 * Check that the front door is locked and closed
 
 
