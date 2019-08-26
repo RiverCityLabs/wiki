@@ -19,7 +19,7 @@ How to edit:
 1. create a gitbook account via the invite link in the \#wiki slack channel invite \(do not post it here\).
    1. We recommend creating a unique account via email rather than signing in via gmail or github. 
       1. If you're complaining about another password to remember, you should really consider using a [password manager](https://www.lastpass.com) to handle your passwords for everything.
-2. Login to app.gitbook.com/@rivercitylabs/ with the account you created
+2. Login to [app.gitbook.com/@rivercitylabs/](https://app.gitbook.com/@rivercitylabs/) with the account you created
 
 ![Select the Wiki Space](../.gitbook/assets/image%20%284%29.png)
 
