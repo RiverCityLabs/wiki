@@ -2,5 +2,5 @@
 
 ## Powermatic PM1200 AIR FILTRATION SYSTEM
 
-[User Manual](https://drive.google.com/file/d/184HtErccmhWI9fwgCtR0Asoz6BFovcDQ/view?usp=sharing)
+[User Manual](https://drive.google.com/open?id=1hFkLjLUlxyE5kZYSFNQ1Cpzk5_mmMUHC)
 
