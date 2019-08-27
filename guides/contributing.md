@@ -8,7 +8,7 @@ Rough Draft:
 
 1. Any downloadable files should be hosted in our google drive and linked here via a publicly shareable link
 2. Try to limit page heirarchy to a depth of 3 at most. 
-3. If you see a comment, try to implement the suggestion if it makes sense and you have the time, if you need explanation, ask in the \#wiki channel in slack
+3. DO NOT USE COMMENTS. They currently cannot be deleted for whatever reason.
 4. Try to format content as you write it. If you aren't sure, leave a comment asking for formatting help and someone can do it later.
 5. Organize the information on the page from most important at the top less important moving downard, when possible
 
