@@ -2,9 +2,9 @@
 
 ## SawStop Professional Cabinet Saw \(PCS\)
 
-[Getting Started](https://www.sawstop.com/images/uploads/manuals/Getting_Started_With_SawStop_Cast_Iron.pdf)
+[Getting Started](https://drive.google.com/open?id=1uNxufF2D_sIeUUZ9ADy_mIctH4-KHZR4)
 
-[Operators Manual](https://www.sawstop.com/images/uploads/manuals/Manual_PCS_300_2.pdf)
+[Operators Manual](https://drive.google.com/open?id=16iyUeL_b0hr7jvxnpHpZZdD4g2r0IW9j)
 
 [T-Glide Fence System](https://www.sawstop.com/images/uploads/manuals/Manual_PCS_TGP2.pdf)
 
