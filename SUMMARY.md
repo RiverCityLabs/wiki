@@ -24,6 +24,7 @@
   * [Air Filtration System](woodshop/air-filtration-system.md)
   * [Vacuum System](woodshop/vacuum-system.md)
 * [Metalshop](metalshop/README.md)
+  * [Bader III Belt Grinder](metalshop/bader-iii-belt-grinder.md)
   * [Metal Break](metalshop/metal-break.md)
   * [CNC Mill](metalshop/cnc-mill.md)
   * [Miller MIG Welder](metalshop/miller-mig-welder.md)
