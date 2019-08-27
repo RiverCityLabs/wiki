@@ -15,7 +15,7 @@
   * [CNC Router](woodshop/cnc-router.md)
   * [Table Saw](woodshop/table-saw.md)
   * [Drill Press](woodshop/drill-press.md)
-  * [Bandsaw](woodshop/bandsaw.md)
+  * [Band Saw](woodshop/band-saw.md)
   * [Disc Sanding Center](woodshop/disc-sanding-center.md)
   * [Planer](woodshop/planer.md)
   * [Jointer](woodshop/jointer.md)
