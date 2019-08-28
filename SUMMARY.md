@@ -54,6 +54,7 @@
   * [Legal](operations/legal.md)
 * [Events](events/README.md)
   * [NOMCon 2019](events/nomcon-2019.md)
+* [RCLi4](rcli4.md)
 
 ## Guides
 
