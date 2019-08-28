@@ -59,6 +59,9 @@
   * [Legal](operations/legal.md)
 * [Events](events/README.md)
   * [NOMCon 2019](events/nomcon-2019.md)
+* [Administration](administration/README.md)
+  * [RCL Wiki](administration/rcl-wiki.md)
+  * [RCL Website](administration/rcl-website.md)
 
 ## Guides
 
