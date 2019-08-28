@@ -1,6 +1,6 @@
 # Oscillating Spindle Sander
 
-#### Performax Oscillating Spindle Sander
+## Performax Oscillating Spindle Sander
 
 Model: OS1400PF
 

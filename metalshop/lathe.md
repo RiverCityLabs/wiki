@@ -1,6 +1,6 @@
 # Lathe
 
-#### Grizzly GO752 10" x 22" Benchtop Lathe
+## Grizzly GO752 10" x 22" Benchtop Lathe
 
 [User Manual](https://drive.google.com/file/d/1NW3wUazLC2XaAQLUS4HTpMSV0BHnNHsF/view?usp=sharing) 
 

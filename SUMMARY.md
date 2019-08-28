@@ -31,6 +31,7 @@
   * [CNC Mill](metalshop/cnc-mill.md)
   * [MIG Welder](metalshop/mig-welder.md)
   * [TIG-Welder](metalshop/tig-welder.md)
+  * [Stick Welder](metalshop/stick-welder.md)
   * [Lathe](metalshop/lathe.md)
   * [Horizontal Band Saw](metalshop/horizontal-band-saw.md)
   * [Bench Grinder](metalshop/bench-grinder.md)
