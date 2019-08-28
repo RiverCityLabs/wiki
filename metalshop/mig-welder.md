@@ -12,7 +12,8 @@ Model: 94164
 
 We can get the gas bottle refilled with 75% Argon/25% CO2 here.  
   
-1025 W Olympia Dr [\(Directions\)](https://goo.gl/maps/YxWouCqeBWZy4DWVA)  
+ILMO Products Company [\(Directions\)](https://goo.gl/maps/YxWouCqeBWZy4DWVA)  
+1025 W Olympia Dr  
 \# B  
  Peoria, IL 61615  
 309-282-1913
