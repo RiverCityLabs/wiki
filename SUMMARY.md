@@ -1,7 +1,7 @@
 # Table of contents
 
 * [River City Labs](README.md)
-* [RCLi4](equipment/README.md)
+* [3D Printers](equipment/README.md)
   * [Lulzbot Taz 6](equipment/lulzbot-taz-6.md)
   * [Lulzbot Taz 6 - Huber](equipment/lulzbot-taz-6-huber.md)
   * [Wanhao D7](equipment/wanhao-d7.md)
