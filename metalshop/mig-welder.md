@@ -10,3 +10,10 @@ Model: 94164
 
 [Manual](https://drive.google.com/open?id=1sEncS-QVZqNk-edpvJrYu_3Ug3rL3Ajw)
 
+We can get the gas bottle refilled with 75% Argon/25% CO2 here.  
+  
+1025 W Olympia Dr [\(Directions\)](https://goo.gl/maps/YxWouCqeBWZy4DWVA)  
+\# B  
+ Peoria, IL 61615  
+309-282-1913
+
