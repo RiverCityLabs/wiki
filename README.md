@@ -14,5 +14,5 @@ TL;DR version: collaborative editing by the users of a site containing a shared 
 
 ## Contributing
 
-If you'd like to help maintain the wiki or add some content, please consult the [contributing ](https://wiki.rivercitylabs.space/guides/contributing)guide and familiarize yourself with the guidelines.
+If you'd like to help maintain the wiki or add some content, please consult the [contributing ](guides/contributing.md)guide and familiarize yourself with the guidelines.
 
