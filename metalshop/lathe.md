@@ -16,5 +16,11 @@
 
 ## Guides
 
+[Indicating Square Stock in a 4 Jaw Chuck](https://www.youtube.com/watch?v=aA0suYN72SE)
+
+[Lathe Chucks \(This Old Tony\)](https://www.youtube.com/watch?v=K67bZQSETiE)
+
+[A Brief Chat about Carbide Tooling \(This Old Tony\)](https://www.youtube.com/watch?v=rsFFWYo8ugw)
+
 
 
