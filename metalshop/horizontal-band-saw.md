@@ -2,9 +2,9 @@
 
 ## Central Machinery Horizontal/Vertical Metal Cutting Band Saw 
 
-Model 93752
+![](../.gitbook/assets/image%20%288%29.png)
 
-![](../.gitbook/assets/image%20%2812%29.png)
+Model 93752
 
 [Manual](https://drive.google.com/open?id=1eGZIreMYqhyZktEpzvIMgxUBjmFhTsSM)
 
