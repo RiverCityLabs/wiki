@@ -1,6 +1,8 @@
 # Bench Grinder
 
-## Delta 6" Bench Grinder 
+## Equipment
+
+### Delta 6" Bench Grinder 
 
 Model 23-680
 
@@ -9,4 +11,6 @@ Model 23-680
 [Exploded Diagram 1](https://drive.google.com/open?id=1UKK9V7Hlm93JQ1Hx4KgasG8Ib6EijWim)
 
 [Exploded Diagram 2](https://drive.google.com/open?id=1Kt09hwtu-ujOPKFhoOmJpkvgYZSTY7j9)
+
+## Guides
 
