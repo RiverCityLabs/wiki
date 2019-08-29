@@ -14,7 +14,6 @@
 * [Woodshop](woodshop/README.md)
   * [SawStop](woodshop/sawstop.md)
   * [CNC Router](woodshop/cnc-router.md)
-  * [Table Saw](woodshop/table-saw.md)
   * [Drill Press](woodshop/drill-press.md)
   * [Band Saw](woodshop/band-saw.md)
   * [Disc Sanding Center](woodshop/disc-sanding-center.md)
