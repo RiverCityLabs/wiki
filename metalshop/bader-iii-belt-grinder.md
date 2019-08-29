@@ -1,2 +1,0 @@
-# Bader III Belt Grinder
-
