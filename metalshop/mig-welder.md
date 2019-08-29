@@ -4,6 +4,8 @@
 
 ### Chicago Electric Dual MIG Welder
 
+![](../.gitbook/assets/image%20%286%29.png)
+
 Model: 94164
 
 [Manual](https://drive.google.com/open?id=1sEncS-QVZqNk-edpvJrYu_3Ug3rL3Ajw)
