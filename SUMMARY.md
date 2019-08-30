@@ -33,6 +33,7 @@
   * [Stick Welder](metalshop/stick-welder.md)
   * [Lathe](metalshop/lathe.md)
   * [Horizontal Band Saw](metalshop/horizontal-band-saw.md)
+  * [Portable Band Saw](metalshop/portable-band-saw.md)
   * [Bench Grinder](metalshop/bench-grinder.md)
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
