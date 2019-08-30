@@ -21,19 +21,19 @@ How to edit:
       1. If you're complaining about another password to remember, you should really consider using a [password manager](https://www.lastpass.com) to handle your passwords for everything.
 2. Login to [app.gitbook.com/@rivercitylabs/](https://app.gitbook.com/@rivercitylabs/) with the account you created
 
-![Select the Wiki Space](../.gitbook/assets/image%20%286%29.png)
+![Select the Wiki Space](../.gitbook/assets/image%20%289%29.png)
 
 
 
-![either click new page to create a new page,](../.gitbook/assets/image%20%281%29.png)
+![either click new page to create a new page,](../.gitbook/assets/image%20%283%29.png)
 
-![or click the page you want to edit](../.gitbook/assets/image%20%284%29.png)
+![or click the page you want to edit](../.gitbook/assets/image%20%287%29.png)
 
 
 
-![Click the edit button](../.gitbook/assets/image%20%2810%29.png)
+![Click the edit button](../.gitbook/assets/image%20%2813%29.png)
 
-![Click the checkmark to save your changes and add them to the commit. X will cancel your changes.](../.gitbook/assets/image.png)
+![Click the checkmark to save your changes and add them to the commit. X will cancel your changes.](../.gitbook/assets/image%20%282%29.png)
 
-![Click the &apos;A&apos; content button then the &quot;Merge&quot; button to finalize your changes. You can save multiple changes before clicking the Merge button to batch them together.](../.gitbook/assets/image%20%289%29.png)
+![Click the &apos;A&apos; content button then the &quot;Merge&quot; button to finalize your changes. You can save multiple changes before clicking the Merge button to batch them together.](../.gitbook/assets/image%20%2812%29.png)
 
