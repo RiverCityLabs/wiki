@@ -23,7 +23,7 @@
   * [Oscillating Spindle Sander](woodshop/oscillating-spindle-sander.md)
   * [Scroll Saw](woodshop/scroll-saw.md)
   * [Air Filtration System](woodshop/air-filtration-system.md)
-  * [Vacuum System](woodshop/vacuum-system.md)
+  * [Dust Collector](woodshop/dust-collector.md)
 * [Metalshop](metalshop/README.md)
   * [Bader BIII Belt Grinder](metalshop/bader-biii-belt-grinder.md)
   * [Metal Break](metalshop/metal-break.md)
