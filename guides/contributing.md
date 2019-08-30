@@ -31,9 +31,9 @@ How to edit:
 
 
 
-![Click the edit button](../.gitbook/assets/image%20%2819%29.png)
+![Click the edit button](../.gitbook/assets/image%20%2820%29.png)
 
 ![Click the checkmark to save your changes and add them to the commit. X will cancel your changes.](../.gitbook/assets/image%20%284%29.png)
 
-![Click the &apos;A&apos; content button then the &quot;Merge&quot; button to finalize your changes. You can save multiple changes before clicking the Merge button to batch them together.](../.gitbook/assets/image%20%2818%29.png)
+![Click the &apos;A&apos; content button then the &quot;Merge&quot; button to finalize your changes. You can save multiple changes before clicking the Merge button to batch them together.](../.gitbook/assets/image%20%2819%29.png)
 
