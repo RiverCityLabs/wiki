@@ -35,6 +35,7 @@
   * [Horizontal Band Saw](metalshop/horizontal-band-saw.md)
   * [Portable Band Saw](metalshop/portable-band-saw.md)
   * [Bench Grinder](metalshop/bench-grinder.md)
+  * [Small Kiln](metalshop/small-kiln.md)
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
