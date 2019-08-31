@@ -2,7 +2,7 @@
 
 ## Delta Drill Press
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 [User Manual](https://drive.google.com/open?id=1sz_10j7BN1NgQFn7m7HLKfyBoLSE2jkU) 
 

@@ -2,7 +2,7 @@
 
 ## Delta 6" Belt / 12" Disc Sanding Center
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ####  Note: Uses 6" x 48" belt
 

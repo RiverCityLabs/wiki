@@ -4,7 +4,7 @@
 
 ### Dewalt Dee Cut Band Saw
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 Model: DWM120 w/ SWAG V3.0 Portaband Table
 
