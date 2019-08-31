@@ -6,7 +6,7 @@
 
 [Operators Manual](https://drive.google.com/open?id=16iyUeL_b0hr7jvxnpHpZZdD4g2r0IW9j)
 
-T-Glide Fence System
+[T-Glide Fence System](https://drive.google.com/open?id=16iyUeL_b0hr7jvxnpHpZZdD4g2r0IW9j)
 
 [Service Tips and Videos](https://www.sawstop.com/support/service-tips/all-videos)
 
