@@ -8,7 +8,7 @@
   * [Wanhao D7](equipment/wanhao-d7.md)
   * [Printrbot Simple Metal](equipment/printrbot-simple-metal.md)
 * [Lasers](lasers/README.md)
-  * [BFL](lasers/bfl.md)
+  * [BFL Laser](lasers/bfl.md)
   * [K40](lasers/k40.md)
   * [Chiller](lasers/chiller.md)
 * [Woodshop](woodshop/README.md)
