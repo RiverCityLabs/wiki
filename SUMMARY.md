@@ -39,7 +39,7 @@
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
-  * [Vinyl Cutter](miscellaneous-tools/vinyl-cutter.md)
+  * [Redsail Vinyl Cutter](miscellaneous-tools/vinyl-cutter.md)
 * [Recording Studio](recording-studio.md)
 * [Members](members/README.md)
   * [General Safety Rules](members/general-safety-rules.md)
