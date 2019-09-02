@@ -18,4 +18,5 @@ description: 80 watt CO2 Laser
 
 * [**User Manual**](https://drive.google.com/file/d/0BysG132m5sYncWg0Y1Z1M2hjTjA/view?usp=sharing)\*\*\*\*
 * [**Operation Procedure**](https://drive.google.com/file/d/1sn24B9tjyGytF6F1ekgO4wnorJ1aWT33/view?usp=sharing)\*\*\*\*
+* \*\*\*\*[**Lightburn Software**](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)\*\*\*\*
 
