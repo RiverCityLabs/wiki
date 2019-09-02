@@ -8,7 +8,9 @@
 
 ## Software
 
-[Sure Cuts a Lot](http://www.surecutsalot.com/tutorials/tutorials.php)
+We use [Sure Cuts a Lot](http://www.surecutsalot.com/index.php) on the computer near the vinyl cutter to create designs and send them to thte cutter.
+
+[Here](http://www.surecutsalot.com/tutorials/tutorials.php) are some tutorials on how to use it.
 
 ## Specifications
 
