@@ -63,7 +63,6 @@
 * [Administration](administration/README.md)
   * [RCL Wiki](administration/rcl-wiki.md)
   * [RCL Website](administration/rcl-website.md)
-* [User Manual](https://drive.google.com/file/d/0BysG132m5sYncWg0Y1Z1M2hjTjA/view?usp=sharing)
 
 ## Guides
 
