@@ -8,8 +8,6 @@ We use [Lulzbot Cura](https://www.lulzbot.com/cura) at RCL due to it's emphasis 
 
 Each 3D Printer at RCL has a raspberry pi running [Octoprint ](https://octoprint.org/)on it. The URL for accessing the Octoprint server is located on that printers' wiki page. The login info will be physically located near the printer itself.
 
-
-
 ## How to Print
 
 1. load an .STL file onto the printer computer
