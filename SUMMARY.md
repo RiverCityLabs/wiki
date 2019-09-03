@@ -3,6 +3,7 @@
 * [River City Labs](README.md)
 * [3D Printers](equipment/README.md)
   * [Lulzbot Taz 6](equipment/lulzbot-taz-6.md)
+  * [How to Print](equipment/how-to-print.md)
   * [Lulzbot Taz 6 - Huber](equipment/lulzbot-taz-6-huber.md)
   * [RCLi4](equipment/rcli4.md)
   * [Wanhao D7](equipment/wanhao-d7.md)
