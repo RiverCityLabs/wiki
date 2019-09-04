@@ -1,6 +1,10 @@
+---
+description: Professional Cabinet Saw (PCS)
+---
+
 # SawStop
 
-## SawStop Professional Cabinet Saw \(PCS\)
+## Useful Links
 
 [Getting Started](https://drive.google.com/open?id=1uNxufF2D_sIeUUZ9ADy_mIctH4-KHZR4)
 

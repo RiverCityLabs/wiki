@@ -1,14 +1,14 @@
+---
+description: Eastwood TIG 200 AC/DC Welder
+---
+
 # TIG-Welder
-
-## Equipment
-
-### Eastwood TIG 200 AC/DC Welder
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-[Manual](https://drive.google.com/open?id=1ZLkREWRh46expOI14z1Ztg3klk2MtHm_)
+## Useful Links
 
-## Supplies
+[Manual](https://drive.google.com/open?id=1ZLkREWRh46expOI14z1Ztg3klk2MtHm_)
 
 ## Guides
 

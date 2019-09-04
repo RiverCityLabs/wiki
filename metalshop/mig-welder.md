@@ -1,24 +1,26 @@
+---
+description: 'Chicago Electric Dual MIG Welder. Model: 94164'
+---
+
 # MIG Welder
-
-## Equipment
-
-### Chicago Electric Dual MIG Welder
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-Model: 94164
+## Useful Links
 
 [Manual](https://drive.google.com/open?id=1sEncS-QVZqNk-edpvJrYu_3Ug3rL3Ajw)
+
+## Specifications
 
 * Weld current 30 - 110 AMPS
 * Wire size 0.23” to 0.035”
 * Wire spool size: 4"
 
-## Supplies
+## Consumables
 
-We can get the gas bottle refilled with 75% Argon/25% CO2 here.  
+We can get the gas bottle refilled with 75% Argon/25% CO2 here:  
   
-ILMO Products Company [\(Directions\)](https://goo.gl/maps/YxWouCqeBWZy4DWVA)  
+[ILMO Products Company ](https://goo.gl/maps/YxWouCqeBWZy4DWVA)  
 1025 W Olympia Dr  
 \# B  
  Peoria, IL 61615  

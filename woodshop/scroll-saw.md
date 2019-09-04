@@ -1,10 +1,12 @@
-# Scroll Saw
+---
+description: 'Makita Model: SJ401'
+---
 
-## Makita Scroll Saw
+# Scroll Saw
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-Model: SJ401
+## Useful Links
 
 [Manual](https://drive.google.com/open?id=1J8pAApaV-hl8somh_m8QrVlcfQg_8758)
 

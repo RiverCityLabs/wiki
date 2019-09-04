@@ -1,10 +1,8 @@
+---
+description: Lincoln Buzz Box
+---
+
 # Stick Welder
-
-## Equipment
-
-### Lincoln Buzz Box
-
-## Supplies
 
 ## Guides
 

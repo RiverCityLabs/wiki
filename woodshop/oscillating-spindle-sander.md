@@ -1,12 +1,16 @@
-# Oscillating Spindle Sander
+---
+description: 'Performax Model: 240-2978'
+---
 
-## Performax Oscillating Spindle Sander
+# Oscillating Spindle Sander
 
 ![](../.gitbook/assets/image%20%2823%29.png)
 
-Model: 240-2978
+## Useful Links
 
 [Manual](https://drive.google.com/open?id=1QkVxTgXhBsaQOHFnPYz4UHER_HBUJDsO)
+
+## Specifications
 
 * Sand contours, arcs, curves and other irregular shapes faster and easier than traditional hand sanding
 * 14" diameter cast iron table provides a large 360 degree work area around sanding drum

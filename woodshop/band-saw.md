@@ -1,6 +1,10 @@
+---
+description: Delta 14" Band Saw
+---
+
 # Band Saw
 
-## Delta 14" Band Saw
+## Useful Links
 
 [User Manual](https://drive.google.com/open?id=1LqNlsvvPbQqrMd3ugKFhScJeIZd5FEG_) 
 
