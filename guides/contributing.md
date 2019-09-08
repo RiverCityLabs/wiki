@@ -6,11 +6,11 @@ description: Steps for contributing to the wiki
 
 Rough Draft:
 
-1. Any downloadable files should be hosted in our google drive and linked here via a publicly shareable link. Be sure to use a rivercitylabs.space account and not a person account.
+1. Any downloadable files should be hosted in our google drive and linked here via a publicly shareable link. Be sure to upload and share the file via a rivercitylabs.space gmail account and not a personal email account.
 2. Try to limit page heirarchy to a depth of 3 at most. 
 3. DO NOT USE COMMENTS. They currently cannot be deleted for whatever reason.
 4. Try to format content as you write it. If you aren't sure, someone else can do it later.
-5. Organize the information on the page from most important at the top less important moving downard, when possible
+5. Organize the information on the page from most important at the top less important moving downward, when possible
 
 
 
