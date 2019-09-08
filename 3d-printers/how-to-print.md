@@ -2,7 +2,7 @@
 
 ## Slicer
 
-We use [Lulzbot Cura](https://www.lulzbot.com/cura) at RCL due to it's emphasis on stability and robustness. There is a computer setup near the 3D printers that is preconfigured with all the software you need to print on our printers.
+We use [Lulzbot Cura](https://www.lulzbot.com/cura) at RCL due to its emphasis on stability and robustness. There is a computer setup near the 3D printers that is preconfigured with all the software you need to print on our printers.
 
 ## Print Server
 
