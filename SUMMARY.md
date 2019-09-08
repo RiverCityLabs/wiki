@@ -69,4 +69,5 @@
 
 * [Contributing](guides/contributing.md)
 * [POS Terminal Setup](guides/pos-terminal-setup.md)
+* [Caterpillar Foundation Matching](guides/caterpillar-foundation-matching.md)
 
