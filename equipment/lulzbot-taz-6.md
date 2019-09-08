@@ -1,18 +1,24 @@
-# Lulzbot Taz 6
+# Radford - Lulzbot Taz 6
 
-## Useful links
+## Useful Links
 
-[Right Taz 6 Octoprint](https://taz6-rivercitylabs.malamaker.org/) 
+[Radford Taz 6 Octoprint](https://taz6-rivercitylabs.malamaker.org/) 
 
 [Official Taz 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 
-## How to Change Printers in Cura
-
- [Add new tool head in Cura](https://docs.google.com/document/d/1nyYDzpyK3l3T_UjcBV1jdS3qiz0-lCqcjmuJnybP3Zo/edit?usp=sharing)
-
 ## How to Print
 
-coming soon
+Please refer to the [How to Print](how-to-print.md) guide for detailed instructions
+
+## Slicer Setup
+
+1. Open Cura LE
+2. Go to Settings &gt; Printers &gt; Add printer
+3. Configure the printer from the "Add Printer" picture below
+4. Click Add Printer
+5. Accept default Machine Settings
+
+![](../.gitbook/assets/image%20%2848%29.png)
 
 ## Technical Specs
 
@@ -82,14 +88,4 @@ coming soon
 
 * Maximum Tool Head Temperature: 300°C \(572°F\)
 * Maximum Heated Bed Temperature: 120°C \(248°F\) 100 - 240 VAC
-
-## Slicer Setup
-
-1. Open Cura LE
-2. Go to Settings &gt; Printers &gt; Add printer
-3. Configure the printer from the "Add Printer" picture below
-4. Click Add Printer
-5. Accept default Machine Settings
-
-![](../.gitbook/assets/image%20%2839%29.png)
 
