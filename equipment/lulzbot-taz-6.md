@@ -83,3 +83,13 @@ coming soon
 * Maximum Tool Head Temperature: 300°C \(572°F\)
 * Maximum Heated Bed Temperature: 120°C \(248°F\) 100 - 240 VAC
 
+## Slicer Setup
+
+1. Open Cura LE
+2. Go to Settings &gt; Printers &gt; Add printer
+3. Configure the printer from the "Add Printer" picture below
+4. Click Add Printer
+5. Accept default Machine Settings
+
+![](../.gitbook/assets/image%20%2839%29.png)
+
