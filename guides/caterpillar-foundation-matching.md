@@ -49,6 +49,6 @@ If you need us to provide you with your tax-deductible gift information, please 
 
 10. You will be asked how you wish to let the non-profit know about the gift, and offered two choices:
 
-1. **\(recommended\)** Email Match Request to Non-Profit: you will be asked to give a Recipient email address; please type: info@rivercitylabs.space.
+1. **\(recommended\)** Email Match Request to Non-Profit: you will be asked to give a Recipient email address; please type: **info@rivercitylabs.space**.
 2. Print Match Request for Non-Profit, which allows you to print the form and mail it to us
 
