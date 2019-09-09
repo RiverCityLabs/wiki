@@ -19,7 +19,7 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
 4. Click Add Printer
 5. Accept default Machine Settings
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 ## Technical Specs
 
