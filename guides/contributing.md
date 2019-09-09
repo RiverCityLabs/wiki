@@ -2,7 +2,7 @@
 description: Steps for contributing to the wiki
 ---
 
-# Contributing
+# Contributing to the Wiki
 
 Rough Draft:
 
