@@ -16,6 +16,10 @@ If you have any questions, please feel free to contact us at info@rivercitylabs.
 
 ## Request a Donation Match
 
+{% hint style="info" %}
+If you need us to provide you with your tax-deductible gift information, please e-mail us at info@rivercitylabs.space.
+{% endhint %}
+
 1. First, go to the [website](https://www.caterpillar.com/en/company/caterpillar-foundation/matching-gifts.html):
 2. Click `Visit Website`
 
@@ -40,10 +44,6 @@ If you have any questions, please feel free to contact us at info@rivercitylabs.
 ![](../.gitbook/assets/image%20%2814%29.png)
 
 8. Fill in the information on your gift, then click `SAVE AND PROCEED`.
-
-{% hint style="info" %}
-If you need us to provide you with your tax-deductible gift information, please e-mail us at info@rivercitylabs.space.
-{% endhint %}
 
 9. Verify your gift information and click `SUBMIT`.
 
