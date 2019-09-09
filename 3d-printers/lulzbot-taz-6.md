@@ -15,6 +15,7 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
 1. Open Cura LE
 2. Go to Settings &gt; Printers &gt; Add printer
 3. Configure the printer from the "Add Printer" picture below
+   1. Follow the green boxes
 4. Click Add Printer
 5. Accept default Machine Settings
 

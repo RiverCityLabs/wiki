@@ -16,11 +16,12 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
 4. Click "Custom" then "Custom FDM Printer" then click Add Printer \(see figure 2\)
 5. Click Add Printer
 6. Enter Machine Setting config noted below
-   1. Printer Tab
+   1. Follow the Green Boxes
+   2. Printer Tab
       1. Configure Printer \(see figure 3.1\)
       2. Enter custom start Gcode \(see figure 3.2\)
       3. Enter custom end Gcode \(See figure 3.3\)
-   2. Hot End Tab
+   3. Hot End Tab
       1. Configure Hotend \(see figure 4\)
 7. Click Finish
 
