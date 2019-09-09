@@ -1,8 +1,14 @@
 # RCL Website
 
-## Hosting
+## Technology
 
-The new RCL website is hosted on [Gitlab Pages](https://about.gitlab.com/product/pages/) in [this repo](https://gitlab.com/RiverCityLabs/website)
+The website was created in Hugo, a Go based static site generator. We used the Meghna theme and made some modifications for branding. 
+
+The new RCL site is hosted on [Gitlab Pages](https://about.gitlab.com/product/pages/) in [this repo](https://gitlab.com/RiverCityLabs/website).  The repo is owned by the riveritylabs gmail account.
+
+Github pages is a static site hosting service that is free for open source projects.
+
+Static sites have no backend database or services, which means the potential attack surface is vastly reduced which increases security immensely.
 
 ## Updating the Site
 
