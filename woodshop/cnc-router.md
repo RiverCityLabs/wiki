@@ -19,10 +19,23 @@ description: Probotix Asteroid - GX3725
 
 ## Recommended Bits
 
-| Material | Bit | Supplier |
-| :--- | :--- | :--- |
-| Wood | 2 flute up-cut | Freuds \(Home Depot\), Onsruds |
-| Aluminum | 2 flute up-cut | McMaster-Carr, Fastenal |
+### Wood
+
+### Aluminum
+
+#### Square End
+
+* [1/16" Dia x 1/4" LOC x 1-1/2" OAL Carbide 2 Fl Uncoated Single End 30° Hlx Finishing SQ EM](https://www.fastenal.com/products/details/0321346)
+* [1/8" Dia x 1/2" LOC x 1-1/2" OAL Carbide 2 Fl Uncoated Single End 30° Hlx Finishing SQ EM](https://www.fastenal.com/products/details/0321350)
+* [1/4" Dia x 3/4" LOC x 2-1/2" OAL Carbide 2 Fl Uncoated Single End 30° Hlx Finishing SQ EM](https://www.fastenal.com/products/details/0321358)
+* [6 Piece 3/8" Shank 2 Flute HSS FMT® Single End End Mill Set](https://www.fastenal.com/products/details/3335312)
+
+#### Ball End
+
+* [1/4" Dia x 1-1/8" LOC x 3" OAL Carbide 2 Fl Bright Finish 30° Hlx Finishing BN EM](https://www.fastenal.com/products/details/0321512)
+* [1/2" Dia x 1" LOC x 3" OAL Carbide 2 Fl Bright Finish 30° Hlx Finishing BN EM](https://www.fastenal.com/products/details/0321474)
+
+
 
 ## Technical Specifications
 
