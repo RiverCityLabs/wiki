@@ -35,8 +35,6 @@ description: Probotix Asteroid - GX3725
 * [1/4" Dia x 1-1/8" LOC x 3" OAL Carbide 2 Fl Bright Finish 30° Hlx Finishing BN EM](https://www.fastenal.com/products/details/0321512)
 * [1/2" Dia x 1" LOC x 3" OAL Carbide 2 Fl Bright Finish 30° Hlx Finishing BN EM](https://www.fastenal.com/products/details/0321474)
 
-
-
 ## Technical Specifications
 
 | \*\*\*\* |  |
