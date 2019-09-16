@@ -12,10 +12,12 @@ description: Probotix Asteroid - GX3725
 
 [Recommended Maintenance](https://www.probotix.com/wiki/index.php/Maintenance)
 
-## Required Materials
+## Recommended Materials
 
-* Material you want to cut
-* Appropriate cutting bits that fit the router's spindle \(1/8" and 1/4" wide bits\)
+* Wood
+* Aluminum
+* Plastics
+* Foam
 
 ## Recommended Bits
 
