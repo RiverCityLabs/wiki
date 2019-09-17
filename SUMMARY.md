@@ -25,6 +25,7 @@
   * [Scroll Saw](woodshop/scroll-saw.md)
   * [Air Filtration System](woodshop/air-filtration-system.md)
   * [Dust Collector](woodshop/dust-collector.md)
+* [Panel Saw](panel-saw.md)
 * [Metalshop](metalshop/README.md)
   * [Bader BIII Belt Grinder](metalshop/bader-biii-belt-grinder.md)
   * [Metal Break](metalshop/metal-break.md)
