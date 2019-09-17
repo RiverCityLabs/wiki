@@ -38,6 +38,7 @@
   * [Portable Band Saw](metalshop/portable-band-saw.md)
   * [Bench Grinder](metalshop/bench-grinder.md)
   * [Small Kiln](metalshop/small-kiln.md)
+  * [Sand Blasting Cabinet](metalshop/sand-blasting-cabinet.md)
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
