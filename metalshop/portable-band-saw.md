@@ -1,5 +1,5 @@
 ---
-description: 'Dewalt Dee Cut Band Saw. Model: DWM120'
+description: 'DeWALT Deep Cut Band Saw. Model: DWM120'
 ---
 
 # Portable Band Saw
@@ -16,5 +16,5 @@ description: 'Dewalt Dee Cut Band Saw. Model: DWM120'
 
 Model: DWM120 w/ SWAG V3.0 Portaband Table
 
-SWAG Portaband Table Manual
+Blade size: standard 44-7/8"x1/2"x.020" blade
 

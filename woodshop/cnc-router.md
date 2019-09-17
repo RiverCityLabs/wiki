@@ -4,7 +4,7 @@ description: Probotix Asteroid - GX3725
 
 # CNC Router
 
-![](../.gitbook/assets/cnc_router_rotary_axis.jpg)
+![](../.gitbook/assets/cnc_router_rotary_axis%20%281%29.jpg)
 
 ## Useful Links
 
@@ -25,6 +25,8 @@ description: Probotix Asteroid - GX3725
 
 ### Wood
 
+* \*\*\*\*[**Surfacing Planing Tool**](https://www.amazon.com/gp/product/B07BF5ZHD1/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)\*\*\*\*
+
 ### Aluminum
 
 #### Square End
@@ -32,7 +34,6 @@ description: Probotix Asteroid - GX3725
 * [1/16" Dia x 1/4" LOC x 1-1/2" OAL Carbide 2 Fl Uncoated Single End 30° Hlx Finishing SQ EM](https://www.fastenal.com/products/details/0321346)
 * [1/8" Dia x 1/2" LOC x 1-1/2" OAL Carbide 2 Fl Uncoated Single End 30° Hlx Finishing SQ EM](https://www.fastenal.com/products/details/0321350)
 * [1/4" Dia x 3/4" LOC x 2-1/2" OAL Carbide 2 Fl Uncoated Single End 30° Hlx Finishing SQ EM](https://www.fastenal.com/products/details/0321358)
-* [6 Piece 3/8" Shank 2 Flute HSS FMT® Single End End Mill Set](https://www.fastenal.com/products/details/3335312)
 
 #### Ball End
 

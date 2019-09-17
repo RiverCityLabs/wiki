@@ -4,6 +4,8 @@ description: Delta 6" Bench Grinder. Model 23-680
 
 # Bench Grinder
 
+![](../.gitbook/assets/delta-bench-grinder.jpg)
+
 ## Useful Links
 
 [Manual](https://drive.google.com/open?id=14h3djU34A5BD1bPNZ_7KULkHoUBggVJZ)
