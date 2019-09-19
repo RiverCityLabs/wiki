@@ -16,3 +16,5 @@ TL;DR version: collaborative editing by the users of a site containing a shared 
 
 If you'd like to help maintain the wiki or add some content, please consult the [contributing ](guides/contributing.md)guide and familiarize yourself with the guidelines.
 
+If you know what you're doing, go ahead and [login](https://app.gitbook.com/@rivercitylabs/)
+
