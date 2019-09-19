@@ -2,7 +2,7 @@
 description: Neycraft Ceramic Burnout Kiln
 ---
 
-# Small Kiln
+# Kiln
 
 ![](../.gitbook/assets/image%20%2855%29.png)
 
