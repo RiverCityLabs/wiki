@@ -4,6 +4,8 @@
 
 The Caterpillar Foundation supports the River City Labs by matching membership donations made by employees and retirees of Caterpillar, Inc. Thank you for taking a moment to make their donation possible. Simply follow the short and easy instructions listed below to double your support.
 
+**Minimum donation amount to qualify for matching is $50**
+
 {% hint style="info" %}
 If you have any questions, please feel free to contact us at info@rivercitylabs.space.
 {% endhint %}
