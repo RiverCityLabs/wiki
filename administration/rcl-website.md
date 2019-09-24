@@ -31,7 +31,7 @@ DNS for gitlab proved obnoxious. [This thread](https://stackoverflow.com/questio
 
 For the current gitlab pages ip address, go [here](https://docs.gitlab.com/ee/user/gitlab_com/#gitlab-pages). Use this address for the `@` and `www` A-records
 
-For the verification codes, you can get them from the gitlab project under Settings &gt; Pages &gt; click the domain you want the code for. They're difference for `@` and `www`.
+For the verification codes, you can get them from the gitlab project under Settings &gt; Pages &gt; click the domain you want the code for. There are different codes for `@` and `www`.
 
 | Record Name | Record Type | Record Value |
 | :--- | :--- | :--- |
