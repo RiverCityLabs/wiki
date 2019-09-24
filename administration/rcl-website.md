@@ -21,3 +21,7 @@ Any changes to the website must be made through that repo:
 5. One of the site admins will approve it and it will be merged
 6. The site will auto build and publish the new changes
 
+## DNS
+
+DNS for gitlab proved obnoxious. [This thread](https://stackoverflow.com/questions/48913026/gitlab-pages-failed-to-verify-domain-ownership) helped.
+
