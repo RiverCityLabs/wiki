@@ -6,7 +6,7 @@ The website was created in Hugo, a Go based static site generator. We used the M
 
 The new RCL site is hosted on [Gitlab Pages](https://about.gitlab.com/product/pages/) in [this repo](https://gitlab.com/RiverCityLabs/website).  The repo is owned by the riveritylabs gmail account.
 
-Github pages is a static site hosting service that is free for open source projects.
+Gitlab Pages is a static site hosting service that is free for open source projects, which this website is.
 
 Static sites have no backend database or services, which means the potential attack surface is vastly reduced which increases security immensely.
 
