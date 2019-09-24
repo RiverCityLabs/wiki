@@ -39,7 +39,7 @@
   * [Bench Grinder](metalshop/bench-grinder.md)
   * [Kiln](metalshop/kiln.md)
   * [Sand Blasting Cabinet](metalshop/sand-blasting-cabinet.md)
-  * [Blacksnithing](metalshop/blacksnithing.md)
+  * [Blacksmithing](metalshop/blacksmithing.md)
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
