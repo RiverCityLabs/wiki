@@ -12,5 +12,6 @@ description: Delta 6" Belt / 12" Disc Sanding Center
 
 ## Consumables
 
-* Uses 6" x 48" belt
+* 6" x 48" belt
+* 12" diameter sanding disc \(adhesive backed\)
 
