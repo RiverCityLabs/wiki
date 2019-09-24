@@ -146,7 +146,9 @@ River City Labs is led by a group of officers with designated responsibilities a
 
 Nominees will be eligible to hold an officer position if:
 
-● They are a member in good standing for the six consecutive months prior to the election. ○ All officers must be Full Members for the entirety of their term. ● They have not reached the maximum three consecutive term limit for the nominated position.
+* They are a member in good standing for the six consecutive months prior to the election.
+* All officers must be Full Members for the entirety of their term.
+* They have not reached the maximum three consecutive term limit for the nominated position.
 
 ### Nomination
 

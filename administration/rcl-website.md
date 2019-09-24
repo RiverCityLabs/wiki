@@ -25,3 +25,14 @@ Any changes to the website must be made through that repo:
 
 DNS for gitlab proved obnoxious. [This thread](https://stackoverflow.com/questions/48913026/gitlab-pages-failed-to-verify-domain-ownership) helped.
 
+For the current gitlab pages ip address, go [here](https://docs.gitlab.com/ee/user/gitlab_com/#gitlab-pages). Use this address for the `@` and `www` A-records
+
+For the verification codes, you can get them from the gitlab project under Settings &gt; Pages &gt; click the domain you want the code for. They're difference for `@` and `www`.
+
+| Record Name | Record Type | Record Value |
+| :--- | :--- | :--- |
+| @ | A | 35.185.44.232 |
+| www | A | 35.185.44.232 |
+| @ | TXT | gitlab-pages-verification-code=aaabbbcccdddeeefffggg |
+| www | TXT | gitlab-pages-verification-code=aaabbbcccdddeeefffggg |
+
