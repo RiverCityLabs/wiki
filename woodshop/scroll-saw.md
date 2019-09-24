@@ -12,5 +12,9 @@ description: 'Makita Model: SJ401'
 
 [Exploded View](https://drive.google.com/open?id=1HlBM9L5yhVvoCoBp0QdjvFjLorzN6pYE)
 
+## Consumables
+
+
+
 
 

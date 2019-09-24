@@ -1,5 +1,7 @@
 # Huber - Lulzbot Taz 6
 
+![](../.gitbook/assets/lulzbot-taz6.jpg)
+
 ## Useful Links
 
 [Huber Taz 6 Octoprint](https://taz6.huberproxy.rednu.com/) - login info is on the printer

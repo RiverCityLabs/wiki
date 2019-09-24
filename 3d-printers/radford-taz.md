@@ -1,5 +1,7 @@
 # Radford - Lulzbot Taz 6
 
+![](../.gitbook/assets/lulzbot-taz6.jpg)
+
 ## Useful Links
 
 [Radford Taz 6 Octoprint](https://taz6-rivercitylabs.malamaker.org/) 
