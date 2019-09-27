@@ -1,5 +1,5 @@
 ---
-description: Rigid JP06000 6-1/8" Joiner/Planer
+description: 'Rigid 6-1/8" Joiner/Planer Model: JP06000'
 ---
 
 # Jointer
