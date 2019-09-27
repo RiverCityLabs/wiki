@@ -1,5 +1,5 @@
 ---
-description: 'GNC Sligind Compound Miter Saw Model: LSMS10UL'
+description: 'GNC 10"Sliding Compound Miter Saw Model: LSMS10UL'
 ---
 
 # Mitersaw
