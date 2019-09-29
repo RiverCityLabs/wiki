@@ -70,6 +70,7 @@
 * [Administration](administration/README.md)
   * [RCL Wiki](administration/rcl-wiki.md)
   * [RCL Website](administration/rcl-website.md)
+  * [RCL Automation](administration/rcl-automation.md)
 
 ## Guides
 
