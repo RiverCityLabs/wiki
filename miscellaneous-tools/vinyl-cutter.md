@@ -1,4 +1,4 @@
-# Redsail Vinyl Cutter
+# Vinyl Cutter - Redsail
 
 ## Useful Links
 

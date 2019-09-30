@@ -45,7 +45,7 @@
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
-  * [Redsail Vinyl Cutter](miscellaneous-tools/vinyl-cutter.md)
+  * [Vinyl Cutter - Redsail](miscellaneous-tools/vinyl-cutter.md)
   * [Large Format Printer](miscellaneous-tools/large-format-printer.md)
 * [Recording Studio](recording-studio.md)
 * [Members](members/README.md)
