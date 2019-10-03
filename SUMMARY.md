@@ -68,6 +68,7 @@
 * [Events](events/README.md)
   * [NOMCon 2019](events/nomcon-2019.md)
 * [Administration](administration/README.md)
+  * [RCL Cloud Storage](administration/shared-drive.md)
   * [RCL Wiki](administration/rcl-wiki.md)
   * [RCL Website](administration/rcl-website.md)
   * [RCL Automation](administration/rcl-automation.md)
