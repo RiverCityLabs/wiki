@@ -13,6 +13,13 @@ description: >-
 2. Proposed State: 
    1. a daily script is ran that pulls the latest membership data from our membership management site, determines if anyone become members the previous day, determines if anyone needs to be added to the door access channel, and sends out slack invites as necessary.
 
+## Self Service Portal
+
+1. Current State
+   1. creating a new gsuite user is manual
+2. Proposed State
+   1. Some kind of self service google form that allows RCL members to request a Gsuite account, or any other account or service so an officer doesn't need to.
+
 ## Validating payments and memberships
 
 1. Current State:
