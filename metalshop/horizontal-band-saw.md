@@ -6,6 +6,8 @@ description: 'Central Machinery Horizontal/Vertical Metal Cutting Band Saw:  Mod
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
+![](../.gitbook/assets/img_20190827_192024.jpg)
+
 ## Useful Links
 
 [Manual](https://drive.google.com/open?id=1eGZIreMYqhyZktEpzvIMgxUBjmFhTsSM)

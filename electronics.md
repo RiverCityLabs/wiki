@@ -1,5 +1,7 @@
 # Electronics
 
+![](.gitbook/assets/img_20190716_200135.jpg)
+
 ## Electronics made easy
 
 * Voltage \(V\), Resistance \(R\) and Current \(I\). V measured in Volts, R measured in Ohms, I measured in Amps. \(1amp=1000 milliamp or ma\)

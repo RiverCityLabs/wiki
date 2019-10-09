@@ -4,6 +4,8 @@ description: Professional Cabinet Saw (PCS)
 
 # SawStop
 
+![](../.gitbook/assets/img_20190827_191948.jpg)
+
 ![](../.gitbook/assets/professional-cabinet-saw%20%282%29.jpg)
 
 ## Useful Links

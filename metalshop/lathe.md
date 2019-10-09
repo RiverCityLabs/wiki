@@ -4,6 +4,8 @@ description: Grizzly GO752 10" x 22" Benchtop Lathe
 
 # Lathe
 
+![](../.gitbook/assets/img_20190827_192043.jpg)
+
 ![](../.gitbook/assets/image%20%2852%29.png)
 
 ## Useful Links
