@@ -8,6 +8,8 @@
 
 [Redsail site](http://www.hflaser.com/Vinyl-Cutter.html)
 
+[Cutter Blade Reference Guide](http://support.rolanddga.com/Docs/Documents/departments/Technical%20Services/Downloads/CutStudio/Cutter%20Blade%20Reference%20Guide.pdf)
+
 ## Software
 
 We use [Sure Cuts a Lot](http://www.surecutsalot.com/index.php) on the computer near the vinyl cutter to create designs and send them to the cutter.
