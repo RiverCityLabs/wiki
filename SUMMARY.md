@@ -15,6 +15,7 @@
   * [Glowforge](lasers/glowforge.md)
   * [Chiller](lasers/chiller.md)
 * [Woodshop](woodshop/README.md)
+  * [Safety](woodshop/safety.md)
   * [SawStop](woodshop/sawstop.md)
   * [CNC Router](woodshop/cnc-router.md)
   * [Drill Press](woodshop/drill-press.md)
