@@ -75,7 +75,9 @@
   * [RCL Wiki](administration/rcl-wiki.md)
   * [RCL Website](administration/rcl-website.md)
   * [RCL Automation](administration/rcl-automation.md)
-* [Meetings](meetings.md)
+* [Meetings](meetings/README.md)
+  * [Members](meetings/members/README.md)
+    * [10-17-19](meetings/members/10-17-19.md)
 
 ## Guides
 
