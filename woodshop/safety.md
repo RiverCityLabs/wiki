@@ -1,4 +1,4 @@
 # Safety
 
-[Safety Information](https://drive.google.com/open?id=1jVowXxJEMHbSMidGTyYPfLXrRJ7yn5pL1Z0kkAX9NyE)
+[Safety Information](https://docs.google.com/document/d/1jVowXxJEMHbSMidGTyYPfLXrRJ7yn5pL1Z0kkAX9NyE/edit?usp=sharing)
 
