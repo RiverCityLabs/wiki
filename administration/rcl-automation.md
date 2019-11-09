@@ -36,3 +36,7 @@ description: >-
 2. Proposed State:
    1. We should look into web based waiver solutions that can be sent automatically when they expire, eliminating any manual tasks
 
+## Automated Maintenance Reminders
+
+1. slash command to set up new tasks with time intervals, then post to slack when due, and daily reminders when not completed. Completed tasks no longer notified daily and are set for the next time interval
+
