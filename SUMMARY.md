@@ -53,6 +53,7 @@
 * [Recording Studio](recording-studio.md)
 * [Members](members/README.md)
   * [General Safety Rules](members/general-safety-rules.md)
+  * [Onboarding](members/onboarding.md)
   * [Lock-up Checklist](members/lock-up-checklist.md)
   * [Social Media](members/social-media.md)
   * [Guest vs. Visitor](members/guest-vs.-visitor.md)
