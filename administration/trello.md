@@ -1,6 +1,4 @@
 # Trello
 
-{% page-ref page="trello.md" %}
-
-
+[Log in to Trello](https://trello.com/login)
 
