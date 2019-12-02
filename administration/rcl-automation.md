@@ -6,6 +6,10 @@ description: >-
 
 # RCL Automation
 
+## Code Repository
+
+The current iteration of the RCL automation stack is location in this [gitlab repo](https://gitlab.com/RiverCityLabs/serverless-automation)
+
 ## New member invitations to slack.
 
 1. Current State: 
