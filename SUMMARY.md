@@ -69,7 +69,6 @@
     * [2018](operations/leadership/2018-officers.md)
     * [2017](operations/leadership/2017-officers.md)
   * [Marketing](operations/marketing.md)
-  * [Legal](operations/legal.md)
 * [Events](events/README.md)
   * [NOMCon 2019](events/nomcon-2019.md)
 * [Administration](administration/README.md)
