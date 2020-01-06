@@ -19,7 +19,9 @@ River City Labs shall continuously maintain in the State of Illinois a registere
 
 #### Designation of Membership Classes
 
-We have two classes of members: Full Members, Starving Makers. Eligibility for Membership at Any Tier
+We have two classes of members: Full Members, Starving Makers.
+
+**Eligibility for Membership at Any Tier**
 
 In order to be a member of River City Labs, a person must support the purpose and specific goals of the organization and be at least 18 years old. A member must also provide government-issued photo identification to at least two members of the board of directors at the time of payment of the first membership fee, and provide an electronic mail address for receiving official notice of members’ meetings. Any person who does meet these requirements is eligible for membership in River City Labs, as long as that person pays the monthly membership fee, as determined by the board of directors, for their chosen class of membership. Rights and Responsibilities
 
@@ -85,7 +87,9 @@ Any lawful issue may be brought before the membership for a vote. A vote of the 
 
 #### Quorum
 
-Quorum for a vote of the membership of River City Labs shall require at least 51% of the existing voting membership on the day of the vote. For the purposes of calculating the quorum, properly submitted proxy statements by members shall count as attendance. Submitting an Issue for Vote
+Quorum for a vote of the membership of River City Labs shall require at least 51% of the existing voting membership on the day of the vote. For the purposes of calculating the quorum, properly submitted proxy statements by members shall count as attendance.
+
+**Submitting an Issue for Vote**
 
 Any Full Member may submit an issue for vote by the membership, unless the issue is specifically enumerated in the bylaws as something subject to vote by the board of directors. To be properly submitted for a vote, the member must submit a written statement of the issue to be voted on to the board of directors at least ten days before the meeting at which the issue shall be voted on. An e-mailed statement of the issue shall be considered submission in writing for the purpose of this rule.
 
@@ -120,7 +124,9 @@ The board may decide on issues related to:
 
 #### Quorum
 
-Quorum for a vote of the directors of River City Labs shall require at least 50% of the existing directors on the day of the vote. Directors and all Full Members present at the meeting via teleconferencing equipment are considered present. Submitting an Issue for Vote
+Quorum for a vote of the directors of River City Labs shall require at least 50% of the existing directors on the day of the vote. Directors and all Full Members present at the meeting via teleconferencing equipment are considered present.
+
+**Submitting an Issue for Vote**
 
 These bylaws are deemed placed before the Board of Directors for a vote by operation of Illinois law. Other issues may be placed before the Board of Directors for a vote as enumerated in these bylaws. Only issues that these bylaws explicitly state are subject to a vote of the officers shall be resolved by a vote of the officers. Any such issues may be placed for a vote of the board of directors by the process denoted in these bylaws by which such an issue may be considered. Any other issue shall only be placed for a vote of the membership.
 
@@ -212,9 +218,7 @@ An officer’s term shall expire at the Annual Meeting following his election.
 
 #### Resignation
 
-Any officer may resign at any time by written notice delivered to the president or secretary of the corporation. A resignation is effective when the notice is delivered unless the notice specifies a future date. The pending vacancy may be filled before the effective date, but the successor shall not take office until the effective date. In the event that an officer resigns, Full Members shall elect a replacement officer using the membership voting procedure defined in these bylaws. Nominations for people to run to replace the officer who has resigned shall open when the officer tenders his
-
-resignation, and remain open for one week. Members shall elect the replacement officer among the candidates who have been nominated and accepted their nomination, using the Votes of the Membership procedures in these bylaws. The replacement officer’s term shall last until new officers are elected at the next Annual Meeting.
+Any officer may resign at any time by written notice delivered to the president or secretary of the corporation. A resignation is effective when the notice is delivered unless the notice specifies a future date. The pending vacancy may be filled before the effective date, but the successor shall not take office until the effective date. In the event that an officer resigns, Full Members shall elect a replacement officer using the membership voting procedure defined in these bylaws. Nominations for people to run to replace the officer who has resigned shall open when the officer tenders his resignation, and remain open for one week. Members shall elect the replacement officer among the candidates who have been nominated and accepted their nomination, using the Votes of the Membership procedures in these bylaws. The replacement officer’s term shall last until new officers are elected at the next Annual Meeting.
 
 ## Directors
 
@@ -332,7 +336,5 @@ If River City Labs is forced to dissolve due to unfortunate circumstances, court
 
 ## Amendment of Bylaws
 
-These bylaws shall be amended by a majority vote of the membership, using the procedures stated in the Votes of the Membership section of these bylaws. Membership Agreement Amendment All
-
-members and their guests shall abide by the membership agreement while at River City Labs facilities and events. These bylaws are hereby enacted on this day May 1, 2014 by the following signatories as Founding Members of River City Labs, NFP.
+These bylaws shall be amended by a majority vote of the membership, using the procedures stated in the Votes of the Membership section of these bylaws. Membership Agreement Amendment All members and their guests shall abide by the membership agreement while at River City Labs facilities and events. These bylaws are hereby enacted on this day May 1, 2014 by the following signatories as Founding Members of River City Labs, NFP.
 

@@ -1,12 +1,12 @@
-# Huber - Lulzbot TAZ 6
+# Huber - Lulzbot Taz 6
 
 ![](../.gitbook/assets/lulzbot-taz6.jpg)
 
 ## Useful Links
 
-[Huber TAZ 6 Octoprint](https://taz6.huberproxy.rednu.com/) - login info is on the printer
+[Huber Taz 6 Octoprint](https://taz6.huberproxy.rednu.com/) - login info is on the printer
 
-[Official TAZ 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
+[Official Taz 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 
 ## How to Print
 
