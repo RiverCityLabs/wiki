@@ -6,7 +6,7 @@
 
 [RCL TAZ 6 Octoprint](https://taz6-rivercitylabs.malamaker.org/)
 
-[Official Taz 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
+[Official TAZ 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 
 ## How to Print
 
