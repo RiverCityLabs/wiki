@@ -3,7 +3,7 @@
 * [River City Labs](README.md)
 * [3D Printers](3d-printers/README.md)
   * [How to Print](3d-printers/how-to-print.md)
-  * [Radford - Lulzbot Taz 6](3d-printers/radford-taz.md)
+  * [RCL - Lulzbot TAZ 6](3d-printers/rcl-taz.md)
   * [Huber - Lulzbot Taz 6](3d-printers/huber-taz.md)
   * [Bliss - i4](3d-printers/bliss-i4.md)
   * [RCL - Wanhao D7](3d-printers/wanhao-d7.md)
