@@ -52,6 +52,10 @@ We use [Gsuite for non-profits](../administration/shared-drive.md) to handle our
 
 Once your new member 30 day probation period is up, we will invite you to the private door code channel that has the current door code on it.
 
+## Code of Conduct
+
+We want to have a safe and welcoming environment for everyone at RCL. Find our code of conduct at [https://wiki.rivercitylabs.space/operations/code-of-conduct](https://wiki.rivercitylabs.space/operations/code-of-conduct) for more information.
+
 ## Asking for Help
 
 If you aren't sure about something, please ask in the appropriate channel. If you aren't sure, just as in \#chat and someone can help direct you. Better to be safe than sorry.
