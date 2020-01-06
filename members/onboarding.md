@@ -58,7 +58,7 @@ We want to have a safe and welcoming environment for everyone at RCL. Find our c
 
 ## Asking for Help
 
-If you aren't sure about something, please ask in the appropriate channel. If you aren't sure, just as in \#chat and someone can help direct you. Better to be safe than sorry.
+If you aren't sure about something, please ask in the appropriate channel. If you aren't sure, just ask in \#chat and someone can help direct you. Better to be safe than sorry.
 
 
 
