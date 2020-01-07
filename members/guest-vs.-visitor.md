@@ -8,13 +8,13 @@ All Members are required to be 18 or older.
 
 All Members must be trained in the safe and correct use of each machine before they are allowed to use it independently.
 
-For detailed information about the requirements, privileges, and responsibilities of Membership please refer to our [Bylaws](https://rivercitylabs.space/about/#about-bylaws) and [Membership Terms](/RiverCityLabs/wiki/master/membership-terms).
+For detailed information about the requirements, privileges, and responsibilities of Membership please refer to our [Bylaws](https://wiki.rivercitylabs.space/operations/bylaws) and [Membership Terms](https://wiki.rivercitylabs.space/members/membership).
 
 ##  Guests
 
 River City Labs encourages our Members to share the makerspace experience with their friends or family! Members are welcome to host Guests at any time that they themselves have access to the space.
 
-*  **SAFETY FIRST!** All Guests must sign a [Liability Waiver](/RiverCityLabs/wiki/master/waivers) upon entry to River City Labs. Guests may only assist with machine use under the strict direction of their certified Host Member. The Host Member is solely responsible for supervising their Guests.
+*  **SAFETY FIRST!** All Guests must sign a [Liability Waiver](https://wiki.rivercitylabs.space/members/forms) upon entry to River City Labs. Guests may only assist with machine use under the strict direction of their certified Host Member. The Host Member is solely responsible for supervising their Guests.
 
 ##  Visitors
 
