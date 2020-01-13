@@ -46,6 +46,7 @@
   * [Sand Blasting Cabinet](metalshop/sand-blasting-cabinet.md)
   * [Bead Roller](metalshop/bead-roller.md)
   * [Tubing Roller](metalshop/tubing-roller.md)
+  * [Compact Bender](metalshop/compact-bender.md)
   * [Blacksmithing](metalshop/blacksmithing.md)
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)

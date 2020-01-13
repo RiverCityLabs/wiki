@@ -4,7 +4,7 @@ description: Grizzly G1028Z2 - 1-1/2 HP Dust Collector
 
 # Dust Collector
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 ## Useful Links
 
