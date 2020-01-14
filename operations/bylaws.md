@@ -60,7 +60,9 @@ All members must also fulfill the following responsibilities:
 
 ### Regular Meetings
 
-Regular meetings for River City Labs shall be held quarterly. Additional meetings may be held as determined by the board of directors. The meeting shall be held at the registered address or at a location determined by the board of directors. Annual Meetings
+Regular meetings for River City Labs shall be held quarterly. Additional meetings may be held as determined by the board of directors. The meeting shall be held at the registered address or at a location determined by the board of directors.
+
+### Annual Meetings
 
 The annual meeting shall occur at the standard meeting time and the standard meeting place in the first quarter. The date and time can be changed by the procedures for a Vote of the Membership, as defined in these bylaws. 
 
