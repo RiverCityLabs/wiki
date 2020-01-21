@@ -12,6 +12,12 @@ description: 80 watt CO2 Laser
 * \*\*\*\*[**Lightburn Documentation**](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)\*\*\*\*
 * \*\*\*\*[**Lightburn Forum**](https://forum.lightburnsoftware.com/)\*\*\*\*
 
+\*\*\*\*
+
+## **Maintenance**
+
+* [Focus lens Oring 20mm diameter](https://www.amazon.com/dp/B07MY2YBKL/ref=cm_sw_r_cp_apa_i_u9HjEbS4N5DD2)
+
 ## Specifications
 
 * Power: 80 watt CO2
