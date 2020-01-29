@@ -18,6 +18,26 @@ description: 80 watt CO2 Laser
 
 * [Focus lens Oring 20mm diameter](https://www.amazon.com/dp/B07MY2YBKL/ref=cm_sw_r_cp_apa_i_u9HjEbS4N5DD2)
 
+## Exhaust
+
+We use a [Zoom W4L](https://zoomblowers.com/w4l-750-watt-zoom-blower.html) bouncy house fan for the exhaust. It boasts an insane amount of CFM \(around 1300\) in a small and relatively quiet package.
+
+What makes this fan great is that just about every part on this fan is user serviceable with replacement [parts available from the manufacturer](https://zoomblowers.com/air-blowers/res-inflatable-blowers)
+
+Before you question this decision over the obvious static pressure concerns, this decision was based off a [reddit thread](https://www.reddit.com/r/lasercutting/comments/5f0wmn/on_extraction_fans/) which said these fans are engineered to work under static pressure \(kids bouncing in a bouncy house\) and will actually burn out if they don't have that pressure. So far the random internet engineer seems to be correct in his findings!
+
+![Off the shelf HVAC ducting was used to create an input and output adapter for the fan](../.gitbook/assets/image%20%2847%29.png)
+
+We used a [6" Ducting End Cap](https://www.lowes.com/pd/IMPERIAL-6-in-dia-Galvanized-Steel-Round-End-Cap/3711202) for the output. We removed the stock endcap of the fan, cut a similar diameter hold in the hvac endcap, then drilled 4 matching holes to mount the new cap in place of the original one.
+
+![output adapter](../.gitbook/assets/image%20%2843%29.png)
+
+We used a [7.5" to 6" airtight adhesive duct take off ](https://www.lowes.com/pd/IMPERIAL-7-5-in-x-3-25-in-Galvanized-Steel-Airtight-Adhesive-Duct-Take-Off/1000228293) to attach the input side of the fan. We then used a standard 6" to 4" reducer to match our existing exhaust piping.
+
+![input adapter](../.gitbook/assets/image%20%2814%29.png)
+
+
+
 ## Specifications
 
 * Power: 80 watt CO2
