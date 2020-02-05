@@ -82,6 +82,7 @@
   * [Trello](administration/trello.md)
 * [Meetings](meetings/README.md)
   * [Officers](meetings/officers/README.md)
+    * [2-4-2020](meetings/officers/2-4-2020.md)
     * [1-7-2020](meetings/officers/1-7-2020.md)
   * [Members](meetings/members/README.md)
     * [10-17-19](meetings/members/10-17-19.md)
