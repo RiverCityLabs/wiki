@@ -24,7 +24,7 @@ Certain machines at RCL require safety training \(such as the lasers, routers, w
 
 If you are not yet familiar with a tool, you may want some training. Our members are very willing to spend some time with new folks to help familiarize them with our equipment.
 
-Training and certification is currently done on an ad-hoc basis. If you would like to receive training on a certain machine, please ask for training in one of the appropriate Slack channels: \(\#woodworking, \#metalshop, \#3dprinting, \#lasers\) if you aren't sure, just ask in \#chat and someone will direct you!
+Training and certification is currently done on an ad-hoc basis. If you would like to receive training on a certain machine, please ask for training in one of the appropriate Slack channels: \(\#woodworking, \#metalworking, \#3d\_printing, \#laser-cutter\) if you aren't sure, just ask in \#chat and someone will direct you!
 
 ## 30-Day Probationary Period
 
@@ -42,11 +42,11 @@ Once your 30-day probationary period is up, you will have 24/7 access to River C
 
 ## Task Management
 
-We use Trello for organizing officer tasks by focus area
+We use Trello for organizing officer tasks by focus area.
 
 ## Documents and File storage
 
-We use [Gsuite for non-profits](../administration/shared-drive.md) to handle our email, desktop publishing, and file storage needs
+We use [Gsuite for non-profits](../administration/shared-drive.md) to handle our email, desktop publishing, and file storage needs.
 
 ## Door Access
 
@@ -58,7 +58,7 @@ We want to have a safe and welcoming environment for everyone at RCL. Find our c
 
 ## Asking for Help
 
-If you aren't sure about something, please ask in the appropriate channel. If you aren't sure, just ask in \#chat and someone can help direct you. Better to be safe than sorry.
+If you aren't sure about something, please ask in the appropriate channel. If you aren't sure, just ask in \#chat and someone can help direct you.
 
 
 
