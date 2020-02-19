@@ -8,7 +8,7 @@ description: BENCH MODEL
 
 ## Useful Links
 
-Manual
+[Manual](https://drive.google.com/open?id=1bEZxo3JkymePp69c3FGOShT3LotWhUcD)
 
 
 
