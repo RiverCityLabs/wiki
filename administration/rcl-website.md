@@ -25,7 +25,7 @@ Any changes to the website must be made through that repo:
 
 DNS for gitlab proved obnoxious. [This thread](https://stackoverflow.com/questions/48913026/gitlab-pages-failed-to-verify-domain-ownership) helped.
 
-![It required setting up two different domains in gitlab pages to have the site with with and without www.](../.gitbook/assets/image%20%2813%29.png)
+![It required setting up two different domains in gitlab pages to have the site with with and without www.](../.gitbook/assets/image%20%2814%29.png)
 
 
 
