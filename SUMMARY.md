@@ -48,6 +48,7 @@
   * [Tubing Roller](metalshop/tubing-roller.md)
   * [Compact Bender](metalshop/compact-bender.md)
   * [Blacksmithing](metalshop/blacksmithing.md)
+  * [Compressor](metalshop/compressor.md)
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
