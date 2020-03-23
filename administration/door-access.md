@@ -1,6 +1,6 @@
 # Door Access
 
-![Yale Nextouch NTB610-ZW2-626](../.gitbook/assets/image%20%288%29.png)
+![Yale Nextouch NTB610-ZW2-626](../.gitbook/assets/image%20%289%29.png)
 
 ## Door Lock
 

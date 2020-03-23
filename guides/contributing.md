@@ -20,19 +20,19 @@ How to edit:
    1. We recommend signing in with your rivercitylabs.space gsuite \(google\) account. If you don't have one, please reach out in slack.
 2. Login to [app.gitbook.com/@rivercitylabs/](https://app.gitbook.com/@rivercitylabs/) with the account you created
 
-![Select the Wiki Space](../.gitbook/assets/image%20%2837%29.png)
+![Select the Wiki Space](../.gitbook/assets/image%20%2839%29.png)
 
 
 
-![either click new page to create a new page,](../.gitbook/assets/image%20%2816%29.png)
+![either click new page to create a new page,](../.gitbook/assets/image%20%2817%29.png)
 
-![or click the page you want to edit](../.gitbook/assets/image%20%2833%29.png)
+![or click the page you want to edit](../.gitbook/assets/image%20%2835%29.png)
 
 
 
-![Click the edit button](../.gitbook/assets/image%20%2844%29.png)
+![Click the edit button](../.gitbook/assets/image%20%2847%29.png)
 
-![Click the checkmark to save your changes and add them to the commit. X will cancel your changes.](../.gitbook/assets/image%20%2813%29.png)
+![Click the checkmark to save your changes and add them to the commit. X will cancel your changes.](../.gitbook/assets/image%20%2814%29.png)
 
-![Click the &apos;A&apos; content button then the &quot;Merge&quot; button to finalize your changes. You can save multiple changes before clicking the Merge button to batch them together.](../.gitbook/assets/image%20%2843%29.png)
+![Click the &apos;A&apos; content button then the &quot;Merge&quot; button to finalize your changes. You can save multiple changes before clicking the Merge button to batch them together.](../.gitbook/assets/image%20%2846%29.png)
 
