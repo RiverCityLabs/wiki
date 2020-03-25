@@ -6,7 +6,7 @@ description: Information regarding printing filtered masks
 
 ## Overview
 
-This mask design was created by Josh Malavolti of River City Labs. He has put a lot of research into his design and is actively getting it properly tested along with his diy filter media design.
+
 
 This section will grow more convincing over time
 
