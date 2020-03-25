@@ -8,7 +8,7 @@ description: Information regarding printing filtered masks
 
 The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that can meet the N95 requirements as a temporary solution until supply can meet with demand.
 
-We are not coming to you blindly with this project. We are coming to you with research and initial testing complete of filter material combinations that have passed in a proper hospital vapor N95 fit test that is used on traditional N95 masks using "Almond bitrex". 
+We are not coming to you blindly with this project. We are coming to you with research and initial testing complete with filter material combinations that have passed in a proper hospital vapor N95 fit test that is used on traditional N95 masks using "Almond bitrex". 
 
 At this point we are now being asked to have particulate testing done on this filter combination and are currently working with 2 labs in the US to have this filter combination validated on testing equipment designed to test at NIOSH standards. 
 
