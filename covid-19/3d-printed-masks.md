@@ -42,7 +42,7 @@ If your print has some stringing, it is imperative to remove them. The approved 
 
 ## Files
 
-[Here are the files](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing) needed to print the mask.
+Coming Soon
 
 
 

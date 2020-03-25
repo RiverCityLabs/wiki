@@ -1,5 +1,7 @@
 ---
-description: Information on materials and procedures on making cloth masks
+description: >-
+  DIY masks made from common materials that meet NIOSH fit-testing standards.
+  These are not N95-equivalent
 ---
 
 # Cloth Masks
