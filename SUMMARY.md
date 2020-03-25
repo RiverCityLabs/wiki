@@ -90,6 +90,8 @@
     * [1-7-2020](meetings/officers/1-7-2020.md)
   * [Members](meetings/members/README.md)
     * [10-17-19](meetings/members/10-17-19.md)
+* [Covid-19](covid-19/README.md)
+  * [Cloth Masks](covid-19/cloth-masks.md)
 
 ## Guides
 
