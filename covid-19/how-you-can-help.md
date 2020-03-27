@@ -1,5 +1,13 @@
 # How you can help
 
+## What is River City Labs?
+
+We are a community of makers, hackers, tinkerers, and creators who share a physical space, tools, and thoughts.
+
+Our members pay monthly dues that go towards paying rent and maintaining the machines, in return they get access to the makerspace, its tools, and its resources whenever they need it. Tool availability is on a first-come, first-serve basis. Members also get access to our very active, private chat community, where the majority of our ideation and discussions take place. We also host several events throughout the year, our biggest being Midwest Makerfest, part of Ignite Peoria.
+
+No one at River City Labs gets paid. It functions completely off of our members' and officers' volunteered time and effort. We wouldn't be here if it weren't for our volunteers' dedication.
+
 ## Contact us!
 
 If you need to contact RCL for any reason regarding covid-19 mitigation, please reach out to our President, Aaron, at:
