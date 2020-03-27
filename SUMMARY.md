@@ -91,6 +91,7 @@
   * [Members](meetings/members/README.md)
     * [10-17-19](meetings/members/10-17-19.md)
 * [Covid-19](covid-19/README.md)
+  * [How you can help](covid-19/how-you-can-help.md)
   * [Intubation Aerosol Shield](covid-19/intubation-aerosol-shield.md)
   * [3D Printed Masks](covid-19/3d-printed-masks.md)
   * [Cloth Masks](covid-19/cloth-masks.md)
