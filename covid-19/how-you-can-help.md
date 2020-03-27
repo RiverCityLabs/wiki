@@ -8,6 +8,8 @@ Our members pay monthly dues that go towards paying rent and maintaining the mac
 
 No one at River City Labs gets paid. It functions completely off of our members' and officers' volunteered time and effort. We wouldn't be here if it weren't for our volunteers' dedication.
 
+The physical makerspace itself is currently closed to the public due to the lockdown.
+
 ## Contact us!
 
 If you need to contact RCL for any reason regarding covid-19 mitigation, please reach out to our President, Aaron, at:
