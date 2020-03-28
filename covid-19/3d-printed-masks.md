@@ -6,7 +6,7 @@ description: Information regarding the 3D printed Mask Project and filter resear
 
 ## Overview
 
-**Please note this mask project is formally defined as a "Respirator Mask that the filters have been tested at N95 specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.
+**Please note this mask project is formally defined as a "Respirator Mask whose filters have been tested at N95 specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
 
   
 The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements \(0.2 micron tolerance\) as a temporary solution until supply can meet with demand.
