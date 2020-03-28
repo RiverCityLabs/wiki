@@ -8,13 +8,13 @@ description: Information regarding printing filtered masks
 
 This section will grow more convincing over time
 
-The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that can meet the N95 requirements as a temporary solution until supply can meet with demand.
+The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements as a temporary solution until supply can meet with demand.
 
 We are not coming to you blindly with this project. We are coming to you with research and initial testing complete with filter material combinations that have passed in a proper hospital vapor N95 fit test that is used on traditional N95 masks using "Almond bitrex". 
 
-At this point we are now being asked to have particulate testing done on this filter combination and are currently working with 2 labs in the US to have this filter combination validated on testing equipment designed to test at NIOSH standards. 
+At this point we are now being asked to have particulate testing done on this filter combination and are currently waiting on test results for this filter combination validated on testing equipment designed to test at NIOSH standards. 
 
-This project is completely open source, we to share this with the world before more healthcare workers / first responders become the next victims of this virus.
+This project is completely open source \(CC BY-SA\), we to share this with the world before more healthcare workers / first responders become the next victims of this virus.
 
 Check out Josh's twitter feed to see the project progress...  
 [https://twitter.com/malamaker86](https://twitter.com/malamaker86)
@@ -39,13 +39,13 @@ We will be inspecting every printed mask that comes in for Quality Assurance to 
 
 ## Required Print Settings
 
-It is critical that these settings are adhered to. The mask and filter design is undergoing extensive testing and validation under these settings only. If any of these variables are changed, we lose all confidence that we'll acheive the tested and proven performance.
+It is critical that these settings are adhered to. The mask and filter design is undergoing extensive testing and validation under these settings only. If any of these variables are changed, we lose all confidence that we'll achieve the tested and proven performance.
 
-* filament: PETG
-* nozzle temp: 255c
-* nozzle diameter: 0.4mm - 0.5mm
-* infill: 20%
-* layer height: 0.3mm or lower
+* Filament: PETG
+* Nozzle temp: 255c
+* Nozzle diameter: 0.4mm - 0.5mm
+* Infill: 20%
+* Layer height: 0.3mm or lower
 
 ## Post processing
 
@@ -55,7 +55,11 @@ If your print has some stringing, it is imperative to remove them. The approved 
 
 [Mask Design](https://a360.co/33DCSxO)  
 [Project folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)  
-[Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)
+[Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)  
+Mask Sanitation  
+Assembly - Mask and Filter Assembly  
+Assembly - Filter  
+How-To: Replace Filter
 
 ## Justifications
 
