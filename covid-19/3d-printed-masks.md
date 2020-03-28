@@ -8,7 +8,7 @@ description: Information regarding printing filtered masks
 
 This section will grow more convincing over time
 
-The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements as a temporary solution until supply can meet with demand.
+The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements \(0.2 micron tolerance\) as a temporary solution until supply can meet with demand.
 
 We are not coming to you blindly with this project. We are coming to you with research and initial testing complete with filter material combinations that have passed in a proper hospital vapor N95 fit test that is used on traditional N95 masks using "Almond bitrex". 
 
@@ -17,7 +17,9 @@ At this point we are now being asked to have particulate testing done on this fi
 This project is completely open source \(CC BY-SA\), we to share this with the world before more healthcare workers / first responders become the next victims of this virus.
 
 Check out Josh's twitter feed to see the project progress...  
-[https://twitter.com/malamaker86](https://twitter.com/malamaker86)
+[https://twitter.com/malamaker86](https://twitter.com/malamaker86)  
+  
+ **Please note this mask project is being defined as a "Respirator Mask that the filters have been tested at N95 specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.
 
 ## How Can I help?
 
