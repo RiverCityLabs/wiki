@@ -67,5 +67,11 @@ How-To: Replace Filter
 
 [FDA FAQ on 3dprinted ppe](https://www.fda.gov/medical-devices/3d-printing-medical-devices/faqs-3d-printing-medical-devices-accessories-components-and-parts-during-covid-19-pandemic)
 
+## Contacts
 
+Joshua Malavolti \(Lead Design Engineer and Researcher\): joshua@rivercitylabs.space  
+Jared Malavolti \(Researcher\): jared@rivercitylabs.space  
+
+
+River City Labs: info@rivercitylabs.space
 
