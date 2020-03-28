@@ -1,12 +1,10 @@
 ---
-description: Information regarding printing filtered masks
+description: Information regarding the 3D printed Mask Project and filter research
 ---
 
 # 3D Printed Masks
 
 ## Overview
-
-This section will grow more convincing over time
 
 The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements \(0.2 micron tolerance\) as a temporary solution until supply can meet with demand.
 
