@@ -17,11 +17,17 @@ This project is completely open source \(CC BY-SA\), we to share this with the w
 Check out Josh's twitter feed to see the project progress...  
 [https://twitter.com/malamaker86](https://twitter.com/malamaker86)  
   
- **Please note this mask project is being defined as a "Respirator Mask that the filters have been tested at N95 specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.
+ **Please note this mask project is being defined as a "Respirator Mask that the filters have been tested at N95 specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  
+  
+
+
+![](../.gitbook/assets/image%20%2872%29.png)
+
+![](../.gitbook/assets/image%20%2854%29.png)
 
 ## How Can I help?
 
-As we finalize details, we'll update this section on what you can do as an individual with a compatible printer \(see settings below\).
+We are in final design mode so you can test print the mask and fit-up.  Send pictures to Joshua \(@malamaker86\) on twitter or email your photos to his contact below.
 
 For now, the most important thing you can do is make sure your printer works. We know how these things go, and our printers spend most of their time in disrepair due to our irrational need to constantly improve and tweak them.
 
