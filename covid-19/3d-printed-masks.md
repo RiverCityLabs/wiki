@@ -2,7 +2,7 @@
 description: Information regarding the 3D printed Mask Project and filter research
 ---
 
-# 3D Printed Masks
+# 3D Printed Masks \(N95 Alternative\)
 
 ## Overview
 
