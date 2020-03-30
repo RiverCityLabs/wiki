@@ -1,5 +1,5 @@
 ---
-description: Sterilisable and Reusable Cloth. Not an N95 replacement.
+description: Sterilisable and Reusable Cloth Masks. Not an N95 replacement.
 ---
 
 # Midwest Mask
