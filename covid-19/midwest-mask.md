@@ -4,6 +4,8 @@ description: Not an N95 replacement.
 
 # Midwest Mask
 
+![shareable infographic instructions.](../.gitbook/assets/masks-infographic-2.jpg)
+
 **MASK SEWING INSTRUCTIONS**
 
 **Main Fabric:** cut 2 rectangles: 6” by 9”
@@ -85,4 +87,14 @@ Make more masks!!
 [\[4\]]() NWPP doesn’t have sides but cotton does.
 
 [\[5\]]() Alternatively, you can form the pleats as you sew.
+
+## Justification
+
+[The CDC acknowledges there are situations where these masks will be a viable option when all other options are exhausted/unavailable in a crisis/shortage](https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/crisis-alternate-strategies.html)
+
+[Actual testing showing diy masks can offer some protection](https://smartairfilters.com/en/blog/diy-homemade-mask-protect-virus-coronavirus/)
+
+[Actual testing that shows diy mask materials can be effective and better than no mask](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/?fbclid=IwAR0xb7giemOM-f0OmPE_g7DyBizqYqT85ndlod4KXE6XcEpLF2eBqPJd_Wk)
+
+[Scientific study that found Surgical masks are as good as N95 respirators for the purpose of preventing flu and respiratory virus prevention](https://www.sciencedaily.com/releases/2019/09/190903134732.htm)
 
