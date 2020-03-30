@@ -22,9 +22,11 @@ The Midwest Mask is our take on the leading [Deaconess design](https://www.deaco
 
 This is accomplished by eliminating all elastic \(we use cloth ties\) and simplifying the sewing pattern.
 
-The mask is able to withstand the high temperatures of being boiled or autoclaved in order to fully  sterilize.
+The design and assembly are incredibly straightforward and can be made using readily available materials: 100% tightly woven cotten or NWPP \(non-woven polypropelene\) which is used in surgical grade masks and reusable shopping bags. Oly\*Fun fabric from Joanne's Fabric is a perfect NWPP material and is preferrable to cotton for this application
 
-These are purely meant as a way to reduce the spread of airborne pathogens and is not guaranteed or rated in any way to prevent anything from happening to the user.
+The mask is able to withstand the high temperatures of being boiled or autoclaved in order to be fully  sterilized.
+
+These masks are purely meant as a way to reduce the spread of airborne pathogens and is not guaranteed or rated in any way to prevent anything from happening to the user.
 
 ## Assembly
 
