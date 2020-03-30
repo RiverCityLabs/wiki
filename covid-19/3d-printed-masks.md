@@ -73,8 +73,8 @@ If your print has some stringing, it is imperative to remove them. The approved 
 [Mask Design](https://a360.co/33DCSxO)  
 Printable Part \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative)\)  
 Mask Sanitation  
-Assembly - Mask and Filter Assembly  
-Assembly - Filter  
+Assembly: Mask and Filter Assembly  
+Assembly: Filter  
 How-To: Replace Filter  
 
 
