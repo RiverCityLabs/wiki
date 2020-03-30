@@ -33,7 +33,7 @@ For now, the most important thing you can do is make sure your printer works. We
 
 Get your printer working, and keep it in working condition!
 
-## Donation Requirements
+## Part Donation Requirements
 
 There are a few critical criteria we will be strictly monitoring for any donated mask:
 
@@ -47,11 +47,20 @@ We will be inspecting every printed mask that comes in for Quality Assurance to 
 
 It is critical that these settings are adhered to. The mask and filter design is undergoing extensive testing and validation under these settings only. If any of these variables are changed, we lose all confidence that we'll achieve the tested and proven performance.
 
+#### Mask Parts
+
 * Filament: PETG
 * Nozzle temp: 255c
 * Nozzle diameter: 0.4mm - 0.5mm
 * Infill: 20%
 * Layer height: 0.3mm or lower
+
+#### Silicone Mold Parts
+
+* Filament: PETG / PLA
+* Nozzle diameter: 0.4mm - 0.5mm
+* Infill: 20%
+* Layer height: 0.2mm or lower
 
 ## Post processing
 
@@ -59,17 +68,25 @@ If your print has some stringing, it is imperative to remove them. The approved 
 
 ## Files
 
+#### Designs, Assembly and How-To
+
 [Mask Design](https://a360.co/33DCSxO)  
-[Project folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)  
-[Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)  
+Printable Part \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative)\)  
 Mask Sanitation  
 Assembly - Mask and Filter Assembly  
 Assembly - Filter  
-How-To: Replace Filter
+How-To: Replace Filter  
+
+
+#### Supporting Information and Research
+
+[Materials Information](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing)  
+[Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)  
+[Public Project Folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)
 
 ## Justifications
 
-[FDA FAQ on 3dprinted ppe](https://www.fda.gov/medical-devices/3d-printing-medical-devices/faqs-3d-printing-medical-devices-accessories-components-and-parts-during-covid-19-pandemic)
+[FDA FAQ on 3D Printed PPE](https://www.fda.gov/medical-devices/3d-printing-medical-devices/faqs-3d-printing-medical-devices-accessories-components-and-parts-during-covid-19-pandemic)
 
 ## Contacts
 
