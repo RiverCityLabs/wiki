@@ -116,7 +116,7 @@ Make more masks!!
 
 ## Delivery
 
-TBD. We are considering a couple drop off locations around the central illinois area and one of our members can collect them all in one trip. 
+TBD. We are considering a couple drop off locations around the central Illinois area and one of our members can collect them all in one trip. 
 
 ## Footnotes
 
