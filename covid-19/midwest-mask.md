@@ -18,11 +18,11 @@ There is no guarantee you will receive them by signing up. We will do our best a
 
 ## Overview
 
-The Midwest Mask is our take on the leading Deaconess design, but with an emphasis on ease of assembly and the ability to be sterilized and re-used as needed.
+The Midwest Mask is our take on the leading [Deaconess design](https://www.deaconess.com/How-to-make-a-Face-Mask)  by Deaconess Hospital in Evansville, IN but with an emphasis on ease of assembly and the ability to be sterilized and re-used as needed.
 
 This is accomplished by eliminating all elastic \(we use cloth ties\) and simplifying the sewing pattern.
 
-The mask is able to withstand the high temperatures of being boiled or autoclaved in order to fully  sterlize.
+The mask is able to withstand the high temperatures of being boiled or autoclaved in order to fully  sterilize.
 
 These are purely meant as a way to reduce the spread of airborne pathogens and is not guaranteed or rated in any way to prevent anything from happening to the user.
 
@@ -38,7 +38,7 @@ These are purely meant as a way to reduce the spread of airborne pathogens and i
 
 **Main Fabric:** cut 2 rectangles: 6” by 9”
 
-100% cotton \(prewashed and dried for shrinkage\) OR non-woven polypropylene \(NWPP\) \(such as OLY\*FUN, or that used for reusable shopping bags\).[\[1\]]()
+100% cotton \(prewashed and dried for shrinkage\) OR non-woven polypropylene \(NWPP\) \(such as OLY\*FUN, or that used for reusable shopping bags\).\[1\]
 
 **Strap Fabric:** 100% cotton--sewn straps OR use 100% cotton twill tape or bias tape. \(Four 16-18” straps per mask.\)
 
@@ -108,15 +108,17 @@ Description automatically generated](../.gitbook/assets/image11.jpg)
 
 Make more masks!!
 
-[\[1\]]() NWPP is the fabric I prefer, but cotton is much more abundantly found. Surgical masks are made from NWPP that is the same density as OLY\*FUN \(25 gsm\), and are shown to be much more effective at filtration. As for cotton, two layers appears to be the ideal amount as shown by some research studies conducted by Cambridge University in 2009. As for the NWPP, I cannot find evidence that suggests increasing the number of layers past two has any discernable effect on filtration or waterproofing, but rather makes breathing more difficult and sewing the pleats is a nightmare and a half. If you have found evidence to the contrary, please contact me \(pr@rivercitylabs.space\)!
+## Footnotes
 
-[\[2\]]() A rotary cutter is helpful here. Also helpful to note that cotton will rip along the weave in a straight line—simply measure and make small cuts and rip away.
+\[1\] NWPP is the fabric I prefer, but cotton is much more abundantly found. Surgical masks are made from NWPP that is the same density as OLY\*FUN \(25 gsm\), and are shown to be much more effective at filtration. As for cotton, two layers appears to be the ideal amount as shown by some research studies conducted by Cambridge University in 2009. As for the NWPP, I cannot find evidence that suggests increasing the number of layers past two has any discernable effect on filtration or waterproofing, but rather makes breathing more difficult and sewing the pleats is a nightmare and a half. If you have found evidence to the contrary, please contact me \(pr@rivercitylabs.space\)!
 
-[\[3\]]() Ideally, 18”, but optimize the usage of your scrap cotton.
+\[2\] A rotary cutter is helpful here. Also helpful to note that cotton will rip along the weave in a straight line—simply measure and make small cuts and rip away.
 
-[\[4\]]() NWPP doesn’t have sides but cotton does.
+\[3\] Ideally, 18”, but optimize the usage of your scrap cotton.
 
-[\[5\]]() Alternatively, you can form the pleats as you sew.
+\[4\] NWPP doesn’t have sides but cotton does.
+
+\[5\] Alternatively, you can form the pleats as you sew.
 
 ## Justification
 
