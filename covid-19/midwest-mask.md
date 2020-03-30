@@ -6,9 +6,15 @@ description: Not an N95 replacement.
 
 ## Mask Requests
 
-If you are a healthcare organization in need of masks, please fill out our form so we can capture your need and can plan to fill it if possible.
+Does your organization have a need for masks?
 
-{% page-ref page="mask-requests.md" %}
+Please fill out the form below and we'll do our best to get you the masks you need.
+
+Our supply is constantly in flux and dependent on local volunteers making them.
+
+There is no guarantee you will receive them by signing up. We will do our best and will contact you to arrange delivery if we have enough on hand to donate.
+
+[Mask Request Form](https://docs.google.com/forms/d/e/1FAIpQLSd4ZRjCT11ue2HLUsixIadBMptkuXtzpHWXqZMkVfGbQv8kvg/viewform?usp=sf_link)
 
 ## Overview
 
