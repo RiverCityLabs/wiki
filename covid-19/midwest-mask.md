@@ -4,6 +4,8 @@ description: Not an N95 replacement.
 
 # Midwest Mask
 
+Dropoff information: drop box available outside Facet Computers in Pekin IL \(next to Ace Hardware and ValuCheck\). Other dropbox information available by request. Email info@rivercitylabs.space for locations in Peoria, East Peoria, and Morton.
+
 ![shareable infographic instructions.](../.gitbook/assets/masks-infographic-2.jpg)
 
 **MASK SEWING INSTRUCTIONS**
