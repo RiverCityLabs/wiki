@@ -106,7 +106,17 @@ Description automatically generated](../.gitbook/assets/image10.jpg)   ![A pictu
 
 Description automatically generated](../.gitbook/assets/image11.jpg)
 
+### Packaging Instructions
+
+Once assembled, please do a final wash and dry cycle in the clothes washer  to do an initial sterilization of the mask in the dryer.
+
+Once done, immediately put the mask into a ziplock bag and set aside for dropoff. This will keep the mask as clean and germ free as possible during transporation and delivery to the end user.
+
 Make more masks!!
+
+## Delivery
+
+TBD. We are considering a couple drop off locations around the central illinois area and one of our members can collect them all in one trip. 
 
 ## Footnotes
 
