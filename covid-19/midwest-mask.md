@@ -38,11 +38,11 @@ These are purely meant as a way to reduce the spread of airborne pathogens and i
 
 **Main Fabric:** cut 2 rectangles: 6” by 9”
 
-100% cotton \(prewashed and dried for shrinkage\) OR non-woven polypropylene \(NWPP\) \(such as OLY\*FUN, or that used for reusable shopping bags\).\[1\]
+100% cotton \(prewashed and dried for shrinkage\) OR non-woven polypropylene \(NWPP\) \(such as OLY\*FUN, or that used for reusable shopping bags\).[\[1\]](https://wiki.rivercitylabs.space/covid-19/midwest-mask#footnotes)
 
 **Strap Fabric:** 100% cotton--sewn straps OR use 100% cotton twill tape or bias tape. \(Four 16-18” straps per mask.\)
 
-Cut 2” wide strips of fabric for the straps[\[2\]](). Cut them as long as possible; you can shorten them later.
+Cut 2” wide strips of fabric for the straps[\[2\]](https://wiki.rivercitylabs.space/covid-19/midwest-mask#footnotes). Cut them as long as possible; you can shorten them later.
 
 ### **Strap Instructions**
 
@@ -62,13 +62,13 @@ Description automatically generated](../.gitbook/assets/image2.jpg)
 
 Sew along the edge to secure the fold.
 
-Cut to 16”-18” in length.[\[3\]]()
+Cut to 16”-18” in length.[\[3\]](https://wiki.rivercitylabs.space/covid-19/midwest-mask#footnotes)
 
 ### **Mask Instructions**
 
 **sewing machine required, pins optional**
 
-Stack the two 6” by 9” rectangles right sides together.[\[4\]]()
+Stack the two 6” by 9” rectangles right sides together.[\[4\]](https://wiki.rivercitylabs.space/covid-19/midwest-mask#footnotes)
 
 ![A picture containing person, indoor, table, sitting
 
@@ -92,7 +92,7 @@ Turn the mask right side out. Sew up the little gap that’s left open.
 
 ![](../.gitbook/assets/image8.jpg)
 
-Form three pleats on each edge and pin in place.[\[5\]]() It doesn’t matter if they go up or down, but both sides must go the same way.
+Form three pleats on each edge and pin in place.[\[5\]](https://wiki.rivercitylabs.space/covid-19/midwest-mask#footnotes) It doesn’t matter if they go up or down, but both sides must go the same way.
 
 ![A picture containing person, indoor, table, holding
 
