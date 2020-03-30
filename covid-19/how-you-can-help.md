@@ -36,7 +36,7 @@ We have several initiatives in the works. Some will require sewing, some will re
 
 ### Cloth Masks
 
-We anticipate a significant need for simple cloth masks in our community. Please see our [Cloth Masks](cloth-masks/) page on how you can help
+We anticipate a significant need for simple cloth masks in our community. Please see our [Cloth Masks](cloth-masks.md) page on how you can help
 
 ### 3D printed respirators
 
