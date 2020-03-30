@@ -6,10 +6,17 @@ description: Help us identify community needs for NWPP/cloth masks.
 
 Does your organization have a need for masks?
 
-Please email **info@rivercitylabs.space** with the following:
+Please fill out the form below and we'll do our best to get you the masks you need.
 
-* Organization Name
-* Number of Masks Requested
-* Availability for Pickup or Dropoff \(date/time, place\)
-  * Note that River City Labs is closed to the public at this time, so any pickups or dropoffs of materials must be coordinated beforehand.
+Our supply is constantly in flux and dependent on local volunteers making them.
+
+There is no guarantee you will receive them by signing up. We will do our best and will contact you to arrange delivery if we have enough on hand to donate.
+
+Loading…
+
+
+
+
+
+
 
