@@ -95,7 +95,6 @@
   * [How you can help](covid-19/how-you-can-help.md)
   * [Intubation Aerosol Shield](covid-19/intubation-aerosol-shield.md)
   * [3D Printed Masks \(N95 Alternative\)](covid-19/3d-printed-masks.md)
-  * [Cloth Masks](covid-19/cloth-masks.md)
 
 ## Guides
 
