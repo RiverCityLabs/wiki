@@ -4,7 +4,7 @@ description: >-
   mask is being formally called the "MalaMask".
 ---
 
-# Printed Mask and Filter Project \(N95 Alternative\)
+# Printed Mask with Filters \(N95 Alternative\)
 
 ## Overview
 
