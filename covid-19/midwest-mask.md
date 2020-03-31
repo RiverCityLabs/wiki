@@ -1,5 +1,5 @@
 ---
-description: Sterilisable and Reusable Cloth Masks. Not an N95 replacement.
+description: Sterilizable and Reusable Cloth Masks. Not an N95 Replacement.
 ---
 
 # Midwest Mask
@@ -18,15 +18,13 @@ There is no guarantee you will receive them by signing up. We will do our best a
 
 ## Overview
 
-The Midwest Mask is our take on the leading [Deaconess design](https://www.deaconess.com/How-to-make-a-Face-Mask)  by Deaconess Hospital in Evansville, IN but with an emphasis on ease of assembly and the ability to be sterilized and re-used as needed.
+The Midwest Mask is a variation on the [Deaconess design](https://www.deaconess.com/How-to-make-a-Face-Mask) by Deaconess Hospital in Evansville, IN. We chose to modify the pattern with an emphasis on the ability to be sterilized and re-used as needed. To accomplish this, we suggest cloth ties as opposed to elastic.
 
-This is accomplished by eliminating all elastic \(we use cloth ties\) and simplifying the sewing pattern.
+The design and assembly are straightforward and can be made using readily available materials: 100% tightly woven cotton or NWPP \(non-woven polypropylene\), which is used in surgical grade masks and reusable shopping bags. OLY\*fun fabric is a good NWPP fabric with the same density as that used in surgical masks \(25 gsm\).
 
-The design and assembly are incredibly straightforward and can be made using readily available materials: 100% tightly woven cotten or NWPP \(non-woven polypropelene\) which is used in surgical grade masks and reusable shopping bags. Oly\*Fun fabric from Joanne's Fabric is a perfect NWPP material and is preferrable to cotton for this application
+The mask is able to withstand the high temperatures of being boiled or autoclaved in order to be fully sterilized.
 
-The mask is able to withstand the high temperatures of being boiled or autoclaved in order to be fully  sterilized.
-
-These masks are purely meant as a way to reduce the spread of airborne pathogens and is not guaranteed or rated in any way to prevent anything from happening to the user.
+These masks are purely meant as a way to reduce the spread of airborne pathogens and is not guaranteed or rated in any way to prevent infection.
 
 ## Assembly
 
@@ -58,9 +56,7 @@ Description automatically generated](../.gitbook/assets/image3.jpg)
 
 Fold in half again along the center and iron.
 
-![A picture containing food, holding
-
-Description automatically generated](../.gitbook/assets/image2.jpg)
+![](../.gitbook/assets/image2.jpg)
 
 Sew along the edge to secure the fold.
 
@@ -72,9 +68,7 @@ Cut to 16”-18” in length. [\[3\]](midwest-mask.md#footnotes)
 
 Stack the two 6” by 9” rectangles right sides together. [\[4\]](midwest-mask.md#footnotes)
 
-![A picture containing person, indoor, table, sitting
-
-Description automatically generated](../.gitbook/assets/image5.jpg)
+![](../.gitbook/assets/image5.jpg)
 
 Sew along the top starting about 2” from the corner. Insert the end of one strap in the corner and sew in place. As long as it’s secured, you’re good. We’re looking for efficiency and effectiveness, not beauty.
 
@@ -96,11 +90,9 @@ Turn the mask right side out. Sew up the little gap that’s left open.
 
 Form three pleats on each edge and pin in place. [\[5\]](midwest-mask.md#footnotes) It doesn’t matter if they go up or down, but both sides must go the same way.
 
-![A picture containing person, indoor, table, holding
+![](../.gitbook/assets/image12.jpg)
 
-Description automatically generated](../.gitbook/assets/image12.jpg)
-
-Sew around the whole thing to secure.
+Sew \(topstitch\) around the whole mask once more to secure pleats and seal.
 
 ![A picture containing indoor, person, table, sitting
 
@@ -110,19 +102,19 @@ Description automatically generated](../.gitbook/assets/image11.jpg)
 
 ### Packaging Instructions
 
-Once assembled, please do a final wash and dry cycle in the clothes washer  to do an initial sterilization of the mask in the dryer.
+Once assembled, please do a final wash and dry cycle on high heat to begin the sterilization process.
 
-Once done, immediately put the mask into a ziplock bag and set aside for dropoff. This will keep the mask as clean and germ free as possible during transportation and delivery to the end user.
+Once done, immediately put the mask into a ziplock bag and set aside for drop-off. This will keep the mask as clean and germ free as possible during transportation and delivery to the end user.
 
 Make more masks!!
 
 ## Delivery
 
-TBD. We are considering a couple drop off locations around the central Illinois area and one of our members can collect them all in one trip. 
+Masks can be dropped off at a dropbox located in front of Facet Computers in Pekin \(next to ValuCheck and Ace Hardware\) from 9-5 Monday-Friday. Look for a black and yellow tote. For drop-off locations in Peoria, East Peoria, and Morton, contact info@rivercitylabs.space.
 
 ## Footnotes
 
-\[1\] NWPP is the fabric I prefer, but cotton is much more abundantly found. Surgical masks are made from NWPP that is the same density as OLY\*FUN \(25 gsm\), and are shown to be much more effective at filtration. As for cotton, two layers appears to be the ideal amount as shown by some research studies conducted by Cambridge University in 2009. As for the NWPP, I cannot find evidence that suggests increasing the number of layers past two has any discernable effect on filtration or waterproofing, but rather makes breathing more difficult and sewing the pleats is a nightmare and a half. If you have found evidence to the contrary, please contact me \(pr@rivercitylabs.space\)!
+\[1\] NWPP is the fabric I prefer, but cotton is much more abundantly found. Surgical masks are made from NWPP that is the same density as OLY\*fun \(25 gsm\), and are shown to be much more effective at filtration. As for cotton, two layers appears to be the ideal amount as shown by some research studies conducted by Cambridge University in 2009. As for the NWPP, I cannot find evidence that suggests increasing the number of layers past two has any discernable effect on filtration or waterproofing, but rather makes breathing more difficult and sewing the pleats is a nightmare and a half. If you have found evidence to the contrary, please contact me \(pr@rivercitylabs.space\)!
 
 \[2\] A rotary cutter is helpful here. Also helpful to note that cotton will rip along the weave in a straight line—simply measure and make small cuts and rip away.
 
