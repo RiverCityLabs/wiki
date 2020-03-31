@@ -94,7 +94,7 @@
   * [Midwest Mask](covid-19/midwest-mask.md)
   * [How you can help](covid-19/how-you-can-help.md)
   * [Intubation Aerosol Shield](covid-19/intubation-aerosol-shield.md)
-  * [3D Printed Masks \(N95 Alternative\)](covid-19/3d-printed-masks.md)
+  * [Printed Mask and Filter Project \(N95 Alternative\)](covid-19/3d-printed-masks.md)
 
 ## Guides
 
