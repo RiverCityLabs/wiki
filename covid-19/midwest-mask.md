@@ -24,6 +24,8 @@ The design and assembly are straightforward and can be made using readily availa
 
 The mask is able to withstand the high temperatures of being boiled or autoclaved in order to be fully sterilized.
 
+Please include the printed form found under Packaging Instructions with each mask.
+
 These masks are purely meant as a way to reduce the spread of airborne pathogens and is not guaranteed or rated in any way to prevent infection.
 
 ## Assembly
@@ -104,7 +106,9 @@ Description automatically generated](../.gitbook/assets/image11.jpg)
 
 Once assembled, please do a final wash and dry cycle on high heat to begin the sterilization process.
 
-Once done, immediately put the mask into a ziplock bag and set aside for drop-off. This will keep the mask as clean and germ free as possible during transportation and delivery to the end user.
+Once done, immediately put the mask into a ziplock bag and set aside for drop-off. This will keep the mask as clean and germ-free as possible during transportation and delivery to the end user.
+
+Print and fill the following form to include with each mask \(6 per page\): [https://drive.google.com/file/d/1fXmhSVE7Mpc0MfD9XOfmKfG8CWuWmlIb/view?usp=sharing](https://drive.google.com/file/d/1fXmhSVE7Mpc0MfD9XOfmKfG8CWuWmlIb/view?usp=sharing)
 
 Make more masks!!
 
