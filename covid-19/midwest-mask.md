@@ -108,7 +108,7 @@ Once assembled, please do a final wash and dry cycle on high heat to begin the s
 
 Once done, immediately put the mask into a ziplock bag and set aside for drop-off. This will keep the mask as clean and germ-free as possible during transportation and delivery to the end user.
 
-Print and fill the following form to include with each mask \(6 per page\): [https://drive.google.com/file/d/1fXmhSVE7Mpc0MfD9XOfmKfG8CWuWmlIb/view?usp=sharing](https://drive.google.com/file/d/1fXmhSVE7Mpc0MfD9XOfmKfG8CWuWmlIb/view?usp=sharing)
+Print and fill the [following form](https://drive.google.com/file/d/1fXmhSVE7Mpc0MfD9XOfmKfG8CWuWmlIb/view?usp=sharing) to include with each mask \(6 per page\): 
 
 Make more masks!!
 
