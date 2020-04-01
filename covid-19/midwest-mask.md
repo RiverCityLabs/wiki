@@ -32,6 +32,8 @@ These masks are purely meant as a way to reduce the spread of airborne pathogens
 
 ### Overview
 
+[Printable Instructions Available Here](https://drive.google.com/file/d/1ukfH8wKdKXp9abZJC_FFVxrq1VGjvsKY/view?usp=sharing) \(5 page Google Doc\)
+
 ![shareable infographic instructions.](../.gitbook/assets/masks-infographic-2.jpg)
 
 \*\*\*\*
@@ -40,9 +42,9 @@ These masks are purely meant as a way to reduce the spread of airborne pathogens
 
 **Main Fabric:** cut 2 rectangles: 6” by 9”
 
-100% cotton \(prewashed and dried for shrinkage\) OR non-woven polypropylene \(NWPP\) \(such as OLY\*FUN, or that used for reusable shopping bags\). [\[1\]](midwest-mask.md#footnotes)
+100% cotton \(prewashed and dried for shrinkage\) _OR non-woven polypropylene \(NWPP\) \(such as OLY\*FUN, or that used for reusable shopping bags\)._ [\[1\]](midwest-mask.md#footnotes)
 
-**Strap Fabric:** 100% cotton--sewn straps OR use 100% cotton twill tape or bias tape. \(Four 16-18” straps per mask.\)
+**Strap Fabric:** 100% cotton--sewn straps _OR use 100% cotton twill tape or bias tape. OR use NWPP folded in half and sewn down the side \(Four 16-18” straps per mask.\)_ 
 
 Cut 2” wide strips of fabric for the straps[ \[2\]](midwest-mask.md#footnotes). Cut them as long as possible; you can shorten them later.
 
