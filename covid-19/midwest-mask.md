@@ -118,7 +118,15 @@ Make more masks!!
 
 ## Delivery
 
-Masks can be dropped off at a dropbox located in front of Facet Computers in Pekin \(next to ValuCheck and Ace Hardware\) from 9-5 Monday-Friday. Look for a black and yellow tote. For drop-off locations in Peoria, East Peoria, and Morton, contact info@rivercitylabs.space.
+ For drop-off locations in Peoria and Morton, contact info@rivercitylabs.space.
+
+### East Peoria
+
+Masks can be dropped off at 2114 Fondulac Dr, East Peoria IL 61611. There is a clear tote on the front porch.
+
+### Pekin
+
+Masks can be dropped off at a dropbox located in front of Facet Computers in Pekin \(next to ValuCheck and Ace Hardware\) from 9-5 Monday-Friday. Look for a black and yellow tote.
 
 ## Footnotes
 
