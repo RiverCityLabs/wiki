@@ -1,10 +1,10 @@
 ---
 description: >-
-  Information regarding the 3D printed Mask Project and filter research.  The
-  mask is being formally called the "MalaMask".
+  Information regarding the "Reusable Mask with one time use filters, tested at
+  N95 specs".
 ---
 
-# Printed Mask with Filters \(N95 Alternative\)
+# The "MalaMask" Project \(N95 Alternative Mask and Filter\)
 
 ## Overview
 
