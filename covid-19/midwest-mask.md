@@ -50,6 +50,8 @@ Cut 2” wide strips of fabric for the straps[ \[2\]](midwest-mask.md#footnotes)
 
 ### **Strap Instructions**
 
+**If you are using twill tape, skip this step. If you are using NWPP, do not iron! Just cut a 1/2"-1" wide strip, fold in half, and sew it down the side. NWPP does not fray at the edges like cotton. If you are using bias tape, just sew it closed up the side as well.**
+
 If you are familiar with making bias tape, this is the same process, with the only notable difference being that your strips do not need to be cut on the bias. Fold the long edges of the strap inward towards the middle, creating a windowpane fold. Iron down.
 
 ![A close up of a hand
@@ -108,9 +110,9 @@ Description automatically generated](../.gitbook/assets/image11.jpg)
 
 Once assembled, please do a final wash and dry cycle on high heat to begin the sterilization process.
 
-Once done, immediately put the mask into a ziplock bag and set aside for drop-off. This will keep the mask as clean and germ-free as possible during transportation and delivery to the end user.
+Print and fill [this form](https://drive.google.com/file/d/1fXmhSVE7Mpc0MfD9XOfmKfG8CWuWmlIb/view?usp=sharing) to include with each mask \(6 per page\). 
 
-Print and fill the [following form](https://drive.google.com/file/d/1fXmhSVE7Mpc0MfD9XOfmKfG8CWuWmlIb/view?usp=sharing) to include with each mask \(6 per page\): 
+Once done, immediately put each mask into its own ziplock bag with a filled out information sheet and set aside for drop-off. This will keep the mask as clean and germ-free as possible during transportation and delivery to the end user.
 
 Make more masks!!
 
