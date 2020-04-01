@@ -4,7 +4,7 @@ description: >-
   N95 specs".
 ---
 
-# The "MalaMask" Project \(N95 Alternative Mask and Filter\)
+# The "MalaMask" Project \(N95 Alternative Filter\)
 
 ## Overview
 
