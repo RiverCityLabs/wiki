@@ -40,17 +40,23 @@ These masks are purely meant as a way to reduce the spread of airborne pathogens
 
 ### **Materials**
 
+**You can make this pattern using entirely cotton fabric, entirely NWPP \(non-woven polypropylene, such as OLY\*FUN or that used in reusable shopping bags**[\[1\]](midwest-mask.md#footnotes)**\), or a mix of both.**
+
 **Main Fabric:** cut 2 rectangles: 6” by 9”
 
-100% cotton \(prewashed and dried for shrinkage\) _OR non-woven polypropylene \(NWPP\) \(such as OLY\*FUN, or that used for reusable shopping bags\)._ [\[1\]](midwest-mask.md#footnotes)
+100% cotton \(prewashed and dried for shrinkage\) _OR NWPP_
 
-**Strap Fabric:** 100% cotton--sewn straps _OR use 100% cotton twill tape or bias tape. OR use NWPP folded in half and sewn down the side \(Four 16-18” straps per mask.\)_ 
+**Strap Fabric:** 4 straps, each 16"-18" in length
 
-Cut 2” wide strips of fabric for the straps[ \[2\]](midwest-mask.md#footnotes). Cut them as long as possible; you can shorten them later.
+100% cotton sewn using the instructions below _OR use 100% cotton twill tape OR bias tape OR use NWPP folded in half and sewn down the side._
+
+_I_[_nformation on why we don't suggest elastic ties here._](midwest-mask.md#elastic)\_\_
 
 ### **Strap Instructions**
 
-**If you are using twill tape, skip this step. If you are using NWPP, do not iron! Just cut a 1/2"-1" wide strip, fold in half, and sew it down the side. NWPP does not fray at the edges like cotton. If you are using bias tape, just sew it closed up the side as well.**
+**If you are using twill tape, skip this step. If you are using NWPP for the straps, do not iron! Just cut a 1/2"-1" wide strip, fold in half, and sew it down the side. NWPP does not fray at the edges like cotton. If you are using bias tape, just sew it closed up the side as well.**
+
+Cut 2” wide strips of fabric for the straps[ \[2\]](midwest-mask.md#footnotes). Cut them as long as possible; you can shorten them later.
 
 If you are familiar with making bias tape, this is the same process, with the only notable difference being that your strips do not need to be cut on the bias. Fold the long edges of the strap inward towards the middle, creating a windowpane fold. Iron down.
 
@@ -139,6 +145,10 @@ Masks can be dropped off at a dropbox located in front of Facet Computers in Pek
 \[4\] NWPP doesn’t have sides but cotton does.
 
 \[5\] Alternatively, you can form the pleats as you sew.
+
+## Why don't we suggest sewing straps from elastic? <a id="elastic"></a>
+
+Most patterns suggest sewing straps from elastic for DIY face masks. While I absolutely agree that elastic is more comfortable and easier to sew than the cotton straps, it's not quite as hardy when it comes to sterilization, and right now it's very hard to source! If you have elastic you would like to use, please make sure it's latex free \(sometimes hard to tell\), and know that it may not be able to be reused. Thanks!
 
 ## Justification
 
