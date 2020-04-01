@@ -17,7 +17,7 @@ We are not coming to you blindly with this project. We are coming to you with re
 
 At this point we are now being asked to have particulate testing done on this filter combination and are currently waiting on test results for this filter combination validated on testing equipment designed to test at NIOSH standards. 
 
-This project is completely open source \(CC BY-SA\), we to share this with the world before more healthcare workers / first responders become the next victims of this virus.
+This project is completely open source \(CC BY-SA\), we want to share this with the world before more healthcare workers / first responders become the next victims of this virus.
 
 Check out Josh's twitter feed to see the project progress...  
 [https://twitter.com/malamaker86](https://twitter.com/malamaker86)  
