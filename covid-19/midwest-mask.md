@@ -4,6 +4,14 @@ description: Sterilizable and Reusable Cloth Masks. Not an N95 Replacement.
 
 # Midwest Mask
 
+## Current Mask Requests
+
+This total will get updated once per day
+
+We currently have identified a need for **526 masks**
+
+We have currently delivered **3 masks**
+
 ## Mask Requests
 
 Does your organization have a need for reusable cloth masks?
