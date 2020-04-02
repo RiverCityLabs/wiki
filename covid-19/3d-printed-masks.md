@@ -79,6 +79,7 @@ Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Yo
 Assembly: Mask and Filter Assembly  
 Assembly: Filter  
 How-To: Replace Filter  
+How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)  
 
 
 #### Supporting Information and Research
