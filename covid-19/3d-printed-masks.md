@@ -90,7 +90,7 @@ If your 3D print has some stringing, it is imperative to remove them. The approv
 Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative)\)  
 [Information: Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)  
 Assembly: Mask and Filter Assembly \(Video, Document\)  
-Assembly: Filter \(Video, Document\)  
+Assembly: Filter Layering \(Video, Document\)  
 How-To: Replace Filter \(Video, Document\)  
 How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)  
 
