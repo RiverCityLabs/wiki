@@ -85,14 +85,15 @@ If your 3D print has some stringing, it is imperative to remove them. The approv
 
 #### Designs, Assembly and How-To
 
-[Information: MalaMask 1 Pager](https://docs.google.com/document/d/144z2IpcBqnYqKVOC5pZi9Bc7wqQG7yLJFlZRnw7-oZM/edit?usp=sharing)  
+Information: [MalaMask 1 Pager](https://docs.google.com/document/d/144z2IpcBqnYqKVOC5pZi9Bc7wqQG7yLJFlZRnw7-oZM/edit?usp=sharing)  
 [Mask Design](https://a360.co/33DCSxO)  
 Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative)\)  
-[Information: Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)  
+Information: [Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)  
 Assembly: Mask and Filter Assembly \(Video, Document\)  
 Assembly: Layering the Filter \(Video, Document\)  
 How-To: Install / Replace Filter \(Video, Document\)  
 How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)  
+How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)  
 
 
 #### Supporting Information and Research
