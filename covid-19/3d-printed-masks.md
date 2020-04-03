@@ -99,7 +99,8 @@ How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)
 
 [Materials Information](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing)  
 [Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)  
-[Public Project Folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)
+[Public Project Folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)  
+[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf)
 
 ## Justifications
 
@@ -112,4 +113,9 @@ Jared Malavolti \(Researcher\): jared@rivercitylabs.space
 
 
 River City Labs: info@rivercitylabs.space
+
+## License
+
+**Open Source Licensed under CC BY-SA  
+Project License can be found at** [**https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs\_NAjh6ygaVKa2f**](https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs_NAjh6ygaVKa2f)
 
