@@ -14,7 +14,7 @@ There is no guarantee you will receive all supplies by making a request. We will
 
 ## Overview
 
-**Please note this mask project is formally defined as a "Reusable Mask with one time use filters, tested at N95 specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
+**Please note this mask project is formally defined as a "Reusable Mask with one time use filters, tested at N95 specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together in coordination with the CDC to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
 
 The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements \(0.2 micron tolerance\) as a temporary solution until supply can meet with demand.
 
@@ -90,8 +90,8 @@ If your 3D print has some stringing, it is imperative to remove them. The approv
 Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative)\)  
 [Information: Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)  
 Assembly: Mask and Filter Assembly \(Video, Document\)  
-Assembly: Filter Layering \(Video, Document\)  
-How-To: Replace Filter \(Video, Document\)  
+Assembly: Layering the Filter \(Video, Document\)  
+How-To: Install / Replace Filter \(Video, Document\)  
 How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)  
 
 
