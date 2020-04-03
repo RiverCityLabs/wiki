@@ -138,6 +138,7 @@ Contributors:
    **-** Lulzbot \(@lulzbot\)  
    **-** Joe Mozzwald \(@mozzwald\)  
    **-** Roger Wheeler  
+   **-** Alec Randazzo \(@AlecRandazzo\)  
   
 Mask Name Contributed by... Alec Randazzo \(@AlecRandazzo\)   
     Thanks for helping nailing down a name!!!  
