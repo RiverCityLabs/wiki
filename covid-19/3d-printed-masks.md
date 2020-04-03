@@ -114,7 +114,7 @@ Jared Malavolti \(Researcher\): jared@rivercitylabs.space
 
 River City Labs: info@rivercitylabs.space
 
-## License
+## Project License
 
 **Open Source Licensed under CC BY-SA  
 Project License can be found at** [**https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs\_NAjh6ygaVKa2f**](https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs_NAjh6ygaVKa2f)
