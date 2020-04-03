@@ -27,7 +27,7 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
 
 ![figure 1](../.gitbook/assets/image%20%2843%29.png)
 
-![Figure 2](../.gitbook/assets/image%20%2852%29.png)
+![Figure 2](../.gitbook/assets/image%20%2853%29.png)
 
 ![Figure 3.1](../.gitbook/assets/image%20%2834%29.png)
 

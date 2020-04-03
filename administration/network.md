@@ -2,11 +2,11 @@
 
 
 
-![Unifi Cloud Key](../.gitbook/assets/image%20%2853%29.png)
+![Unifi Cloud Key](../.gitbook/assets/image%20%2854%29.png)
 
 
 
-![Unifi Security Gateway](../.gitbook/assets/image%20%2856%29.png)
+![Unifi Security Gateway](../.gitbook/assets/image%20%2857%29.png)
 
 
 
