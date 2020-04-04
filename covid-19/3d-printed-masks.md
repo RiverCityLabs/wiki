@@ -92,7 +92,7 @@ Information: [MalaMask 1 Pager](https://docs.google.com/document/d/144z2IpcBqnYq
 Information: [Material Sourcing](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing)  
 Information: [Manufacturing Resources](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing)  
 Information: [Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)  
-Assembly: Mask and Filter Assembly \(Video, Document\)  
+Assembly: Mask and Filter Assembly \([Video](https://youtu.be/YwvNQjdSqFs), Document\)  
 Assembly: Layering the Filter \(Video, Document\)  
 How-To: Install / Replace Filter \(Video, Document\)  
 How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)  
