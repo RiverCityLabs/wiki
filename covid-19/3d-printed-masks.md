@@ -24,7 +24,7 @@ Currently we are having particulate testing done on testing equipment designed t
 
 This project is completely open source \(CC BY-SA\), we want to share this with the world before more healthcare workers / first responders become the next victims of this virus.
 
-See "The Playbook!" section below for all research, documents, videos, and how-to's pertaining to this project.
+See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
 
 Check out Josh's twitter feed to see the project progress...  
 [https://twitter.com/malamaker86](https://twitter.com/malamaker86)  
