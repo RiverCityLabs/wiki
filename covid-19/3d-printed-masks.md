@@ -89,7 +89,8 @@ If your 3D print has some stringing, it is imperative to remove them. The approv
 Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative)\)
 
 Information: [MalaMask 1 Pager](https://docs.google.com/document/d/144z2IpcBqnYqKVOC5pZi9Bc7wqQG7yLJFlZRnw7-oZM/edit?usp=sharing)  
-Information: [Material and Manufacturing Resources](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing)  
+Information: [Material Sourcing](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing)  
+Information: [Manufacturing Resources](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing)  
 Information: [Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)  
 Assembly: Mask and Filter Assembly \(Video, Document\)  
 Assembly: Layering the Filter \(Video, Document\)  
@@ -100,7 +101,6 @@ How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 
 #### Supporting Information and Research
 
-[Materials Information](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing)  
 [Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)  
 [Public Project Folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)  
 [Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf)
