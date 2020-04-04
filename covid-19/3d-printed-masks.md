@@ -6,7 +6,7 @@ description: >-
 
 # The "MalaMask" Project \(N95 Alternative Filter\)
 
-## Submit a Supplies Request
+## Submit a Mask Request
 
 _\*\*\*\*_[_**Mask Request Form can be found Here.**_](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)_\*\*\*\*_
 
