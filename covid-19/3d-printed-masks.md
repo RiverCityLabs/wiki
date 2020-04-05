@@ -30,9 +30,9 @@ Check out Josh's twitter feed to see the project progress...
 [https://twitter.com/malamaker86](https://twitter.com/malamaker86)  
 
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 ## How Can I help?
 
