@@ -36,7 +36,7 @@ Check out Josh's twitter feed to see the project progress...
 
 ## How Can I help?
 
-The Design is final for 3D Printing.  3D Printing masks isn't going to meet high demand in every situation so we are now moving to offset demand by looking at alternative manufacturing processes.  Things like vacuum forming, CNC fabric cutting, CNC machining, and CNC laser cutting. 
+The Design is final for 3D Printing.  3D Printing masks isn't going to meet high demand in every situation so we are now moving to offset demand by looking at alternative manufacturing processes.  Things like vacuum forming, CNC fabric cutting, CNC machining, CNC laser cutting, and Silicone Casting. 
 
 If you have services to offer in any of these areas and would like to be a manufacturing supplier email joshua@rivercitylabs.space
 
