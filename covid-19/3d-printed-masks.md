@@ -95,6 +95,7 @@ Information: [Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0
 Assembly: Mask and Filter Housing \([Video](https://youtu.be/YwvNQjdSqFs), [Document](https://docs.google.com/document/d/1SpCyWQBgHfW2ePIzmhA3BqtUgzyOQMz8X0SAy0sHsE8/edit?usp=sharing)\)  
 Assembly: Layering the Filter \(Video, Document\)  
 How-To: Install / Replace Filter \(Video, Document\)  
+How-To: Cut Mask Straps \(Video, Document\)  
 How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)  
 How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)  
 
