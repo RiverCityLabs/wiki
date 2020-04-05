@@ -24,11 +24,11 @@ We are not coming to you blindly with this project. We are coming to you with re
 
 Currently we are having particulate testing done on testing equipment designed to test at NIOSH standards.  These test are being performed on the filter combinations we have found and are waiting on test results. 
 
-![](../.gitbook/assets/image%20%2866%29.png)
-
 This project is completely open source \(CC BY-SA\), we want to share this with the world before more healthcare workers / first responders become the next victims of this virus.
 
 See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
+
+![](../.gitbook/assets/image%20%2866%29.png)
 
 Check out Josh's twitter feed to see the project progress...  
 [https://twitter.com/malamaker86](https://twitter.com/malamaker86)  
