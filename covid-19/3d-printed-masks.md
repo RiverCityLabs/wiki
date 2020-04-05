@@ -103,7 +103,9 @@ How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 
 [Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)  
 [Public Project Folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)  
-[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf)
+[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf)  
+  
+[_Release, Waiver of Liability, Defense, Indemnification and Hold Harmless Agreement_](https://drive.google.com/file/d/1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp/view?usp=sharing)\_\_
 
 ## Justifications
 
@@ -142,7 +144,7 @@ Contributors:
    **-** Roger Wheeler  
    **-** Alec Randazzo \(@AlecRandazzo\)  
   
-Mask Name Contributed by... Alec Randazzo \(@AlecRandazzo\)   
+Mask Name Contributed by... Alec Randazzo \(@AlecRandazzo\) @ Nova Labs MakerSpace in Virginia.  
     Thanks for helping nailing down a name!!!  
   
 Special Thanks to all Financial Contributors. This project would not be what it is without your support! Thank you.  
