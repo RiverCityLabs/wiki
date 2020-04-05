@@ -4,7 +4,7 @@ description: 'Chicago Electric Dual MIG Welder. Model: 94164'
 
 # MIG Welder
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 ## Useful Links
 

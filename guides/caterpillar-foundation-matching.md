@@ -25,11 +25,11 @@ If you need us to provide you with your tax-deductible gift information, please 
 1. First, go to the [website](https://www.caterpillar.com/en/company/caterpillar-foundation/matching-gifts.html):
 2. Click `Visit Website`
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 3. If it's your first time submitting a request, you'll need to create a password. If not, type in your PeopleSoft ID and password then click `Login`
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 4. Read through and `ACCEPT` that you understand the terms of the program guidelines.
 
@@ -39,11 +39,11 @@ If you need us to provide you with your tax-deductible gift information, please 
 
 6. Enter the following info and click `Search`
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 7. Find "RIVER CITY LABS" and click `SELECT` on the right
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 8. Fill in the information on your gift, then click `SAVE AND PROCEED`.
 
