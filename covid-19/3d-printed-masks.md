@@ -16,7 +16,7 @@ There is no guarantee you will receive all supplies by making a request. We will
 
 **Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together in coordination with the CDC to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements \(0.3 micron tolerance\) as a temporary solution until supply can meet with demand.
 
@@ -28,11 +28,24 @@ This project is completely open source \(CC BY-SA\), we want to share this with 
 
 See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 Check out Josh's twitter feed to see the project progress...  
-[https://twitter.com/malamaker86](https://twitter.com/malamaker86)  
+[https://twitter.com/malamaker86](https://twitter.com/malamaker86)
 
+## The Filter
+
+The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a density of 1.45mm @ 1lb 9oz of pressure over a 3mm by 10mm area.
+
+![Layering Order](../.gitbook/assets/image%20%2832%29.png)
+
+**Have you had this filter professionally tested?** YES! See the results.
+
+**How efficient is this filter when lab tested?** Pending. See the results.
+
+**What is the best efficiency you have found?** Average of 97.66% efficient over 5 samples at the 0.3 micron spec.  Average of 93.067% efficient over 3 samples at the 0.3 micron spec over 80 minutes.  Efficiency Range of 92.5% - 98.1% over all 8 samples. 5 of the 5 samples were at or above 95% for initial efficiency. Then why not this combination... well you have to balance breath-ability.  [See the results](https://drive.google.com/open?id=1yupGFIhwD8AysjFTFQhwAgz6Ek0EjDfb) and [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+
+Where can I find the supplied needed to make this filter? [See our Material Sourcing doc](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing).
 
 ## How Can I help?
 
