@@ -14,11 +14,9 @@ Due to high demand of PPE at this time we will do our best to fulfill the orders
 
 ## Overview
 
-**Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together in coordination with the CDC to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
+The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements \(0.3 micron tolerance\) as a temporary solution until supply can meet with demand.
 
 ![](../.gitbook/assets/image%20%2877%29.png)
-
-The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements \(0.3 micron tolerance\) as a temporary solution until supply can meet with demand.
 
 We are not coming to you blindly with this project. We are coming to you with research and initial testing complete with filter material combinations that have passed in a proper hospital vapor N95 fit test that is used on traditional N95 masks using "Almond bitrex". We have also been interviewing experts in the N95 mask industry and gathering their information for you to use. [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
@@ -32,6 +30,8 @@ See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#
 
 Check out Josh's twitter feed to see the project progress...  
 [https://twitter.com/malamaker86](https://twitter.com/malamaker86)
+
+**Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together in coordination with the CDC to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
 
 ## The Filter
 
