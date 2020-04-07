@@ -45,7 +45,7 @@ The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a dens
 
 **What is the best efficiency you have found?** Average of 97.66% efficient over 5 samples at the 0.3 micron spec.  Average of 93.067% efficient over 3 samples at the 0.3 micron spec over 80 minutes.  Efficiency Range of 92.5% - 98.1% over all 8 samples. 5 of the 5 samples were at or above 95% for initial efficiency. Then why not this combination... well you have to balance breath-ability.  [See the results](https://drive.google.com/open?id=1yupGFIhwD8AysjFTFQhwAgz6Ek0EjDfb) and [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
-Where can I find the supplied needed to make this filter? [See our Material Sourcing doc](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing) or you can request filter media through our "[Request Product and Supplies](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)" form.
+**Where can I find the supplied needed to make this filter?** [See our Material Sourcing doc](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing) or you can request filter media through our "[Request Product and Supplies](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)" form.  We also have a DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing) where you can make these yourself.
 
 ## How Can I help?
 
