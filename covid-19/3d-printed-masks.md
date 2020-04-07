@@ -10,7 +10,7 @@ description: >-
 
 [Click Here to Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
 
-There is no guarantee you will receive all supplies by making a request. We will do our best and are ramping up manufacturers to meet demand. We will contact you regarding fulfillment and arrange delivery.
+Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
 
 ## Overview
 
