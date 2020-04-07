@@ -49,7 +49,7 @@ Where can I find the supplied needed to make this filter? [See our Material Sour
 
 ## How Can I help?
 
-The Design is final for 3D Printing.  3D Printing masks isn't going to meet high demand in every situation so we are now moving to offset demand by looking at alternative manufacturing processes.  Things like vacuum forming, CNC fabric cutting, CNC machining, CNC laser cutting, and Silicone Casting. 
+The Design is final for 3D Printing.  See our DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing).  3D Printing masks isn't going to meet high demand in every situation so we are now moving to offset demand by looking at alternative manufacturing processes.  Things like vacuum forming, CNC fabric cutting, CNC machining, CNC laser cutting, and Silicone Casting.
 
 If you have services to offer in any of these areas and would like to be a manufacturing supplier email joshua@rivercitylabs.space
 
