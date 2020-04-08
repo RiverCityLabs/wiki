@@ -1,16 +1,14 @@
 ---
-description: >-
-  Information regarding the "Reusable Mask with one time use filters, tested at
-  N95 specs".
+description: The "Reusable Mask with one time use filters tested at N95 filter specs".
 ---
 
 # The "MalaMask" Project \(N95 Alternative Filter\)
 
 ## Request Product and Supplies
 
-[See the Product Catalog for details on product and supplies.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
+[See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
 
-[Click Here to Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
+[Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
 
 Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
 
