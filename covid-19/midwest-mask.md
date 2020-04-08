@@ -8,9 +8,9 @@ description: Sterilizable and Reusable Cloth Masks. Not an N95 Replacement.
 
 This total will get updated once per day
 
-We currently have identified a need for **526 masks**
+We currently have identified a need for **592 masks**
 
-We have currently delivered **3 masks**
+We have currently delivered 18 **masks**
 
 ## Mask Requests
 
