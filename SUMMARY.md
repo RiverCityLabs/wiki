@@ -10,6 +10,7 @@
   * [RCL - Printrbot Simple Metal](3d-printers/printrbot-simple-metal.md)
   * [Photos](3d-printers/photos.md)
 * [Lasers](lasers/README.md)
+  * [LightBurn](lasers/lightburn.md)
   * [BFL Laser](lasers/bfl.md)
   * [K40](lasers/k40.md)
   * [Glowforge](lasers/glowforge.md)
