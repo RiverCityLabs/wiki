@@ -8,7 +8,7 @@ description: The "Reusable Mask with one time use filters tested at N95 filter s
 
 _**A mask is only as good as the filter that it uses... Filter First, mask second!**_
 
-#### _**IT PASSED!  We have filters that have passed the 95% efficiency at the 0.3 micron spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+#### _**IT PASSED!  We have found filters that have passed the 95% efficiency at the 0.3 micron spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
 Welcome to the "MalaMask" project, a project focused on giving healthcare and first responder systems information to make a informed decision when choosing N95 alternative PPE. This project has been focused on researching filter media, testing combinations and providing factual data and results. We have been working with mask and filter industry experts to validate our research and findings, honing in on filter combinations that can meet the N95 filter spec. Once we had the filter figured out we have been designing a mask that can be either 3D printed and mass manufactured. In our design efforts we have worked with hospitals, safety officers and human faces to get you a mask that provides the proper seal to keep the outside air flowing only through the filter! Help us in spreading the word and getting PPE to the people who need it most and if you are a person or organization that needs N95 alternative options, you are in the right place!
 
@@ -27,6 +27,8 @@ See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#
 ## Request Product and Supplies
 
 [See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
+
+#### _**Are you a critical care facility and short N95 PPE?  Submit a request for product and put in the "Comments" section "I would like a free sample sent to me".**_
 
 [Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
 
