@@ -6,7 +6,7 @@ description: The "Reusable Mask with one time use filters tested at N95 filter s
 
 ## About
 
-_**A mask is only as good as the filter that it uses. Filter First, mask second!**_
+_**A mask is only as good as the filter that it uses... Filter First, mask second!**_
 
 #### _**IT PASSED!  We have filters that have passed the 95% efficiency at the 0.3 micron spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
