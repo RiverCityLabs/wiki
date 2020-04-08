@@ -4,6 +4,26 @@ description: The "Reusable Mask with one time use filters tested at N95 filter s
 
 # The "MalaMask" Project \(N95 Alternative Filter\)
 
+## About
+
+_**A mask is only as good as the filter that it uses. Filter First, mask second!**_
+
+#### _**IT PASSED!  We have filters that have passed the 95% efficiency at the 0.3 micron spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+
+Welcome to the "MalaMask" project, a project focused on giving healthcare and first responder systems information to make a informed decision when choosing N95 alternative PPE. This project has been focused on researching filter media, testing combinations and providing factual data and results. We have been working with mask and filter industry experts to validate our research and findings, honing in on filter combinations that can meet the N95 filter spec. Once we had the filter figured out we have been designing a mask that can be either 3D printed and mass manufactured. In our design efforts we have worked with hospitals, safety officers and human faces to get you a mask that provides the proper seal to keep the outside air flowing only through the filter! Help us in spreading the word and getting PPE to the people who need it most and if you are a person or organization that needs N95 alternative options, you are in the right place!
+
+![](../.gitbook/assets/image%20%2877%29.png)
+
+We have wrapped up hospital vapor N95 fit testing and professional particulate testing on testing equipment designed to test at NIOSH standards.  We have filters that have passed the 95% efficiency at the 0.3 micron spec. [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+
+This project is completely open source, we want to share this with the world to help protect the  healthcare workers and first responders that are taking care of the people with this horrible virus.
+
+See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
+
+![](../.gitbook/assets/image%20%2869%29.png)
+
+**Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask filter specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together in coordination with the CDC to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
+
 ## Request Product and Supplies
 
 [See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
@@ -11,27 +31,6 @@ description: The "Reusable Mask with one time use filters tested at N95 filter s
 [Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
 
 Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
-
-## Overview
-
-The project does not just involve 3D printing masks but also using commonly found materials to create a respirator filter that is tested at the N95 requirements \(0.3 micron tolerance\) as a temporary solution until supply can meet with demand.
-
-![](../.gitbook/assets/image%20%2877%29.png)
-
-We are not coming to you blindly with this project. We are coming to you with research and initial testing complete with filter material combinations that have passed in a proper hospital vapor N95 fit test that is used on traditional N95 masks using "Almond bitrex". We have also been interviewing experts in the N95 mask industry and gathering their information for you to use. [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
-
-Currently we are having particulate testing done on testing equipment designed to test at NIOSH standards.  These test are being performed on the filter combinations we have found and are waiting on test results. 
-
-This project is completely open source \(CC BY-SA\), we want to share this with the world before more healthcare workers / first responders become the next victims of this virus.
-
-See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
-
-![](../.gitbook/assets/image%20%2869%29.png)
-
-Check out Josh's twitter feed to see the project progress...  
-[https://twitter.com/malamaker86](https://twitter.com/malamaker86)
-
-**Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together in coordination with the CDC to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
 
 ## The Filter
 
