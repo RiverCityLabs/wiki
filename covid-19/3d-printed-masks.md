@@ -10,7 +10,7 @@ _**A mask is only as good as the filter that it uses... Filter First, mask secon
 
 #### _**IT PASSED!  We have found filters that have passed the 95% efficiency at the 0.3 micron spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
-Welcome to the "MalaMask" project, a project focused on giving healthcare and first responder systems information to make a informed decision when choosing N95 alternative PPE. This project has been focused on researching filter media, testing combinations and providing factual data and results. We have been working with mask and filter industry experts to validate our research and findings, honing in on filter combinations that can meet the N95 filter spec. Once we had the filter figured out we have been designing a mask that can be either 3D printed and mass manufactured. In our design efforts we have worked with hospitals, safety officers and human faces to get you a mask that provides the proper seal to keep the outside air flowing only through the filter! Help us in spreading the word and getting PPE to the people who need it most and if you are a person or organization that needs N95 alternative options, you are in the right place!
+Welcome to the "MalaMask" project, a project focused on giving healthcare and first responder systems information to make an informed decision when choosing N95 alternative PPE. This project has been focused on researching filter media, testing combinations and providing factual data and results. We have been working with mask and filter industry experts to validate our research and findings, honing in on filter combinations that can meet the N95 filter spec. Once we had the filter figured out we have been designing a mask that can be either 3D printed and mass manufactured. In our design efforts we have worked with hospitals, safety officers and human faces to get you a mask that provides the proper seal to keep the outside air flowing only through the filter! Help us in spreading the word and getting PPE to the people who need it most and if you are a person or organization that needs N95 alternative options, you are in the right place!
 
 ![](../.gitbook/assets/image%20%2877%29.png)
 
@@ -40,9 +40,9 @@ The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a dens
 
 ![Layering Order](../.gitbook/assets/image%20%2832%29.png)
 
-**Have you had this filter professionally tested?** YES! See the results.
+**Have you had this filter professionally tested?** YES! [See the results](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
-**How efficient is this filter when lab tested?** Pending. See the results.
+**How efficient is this filter when lab tested?** Average of 99.9697% efficient over 3 samples at the 0.3 micron spec @ 32 liters/minute. [See the results](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
 **What is the best efficiency you have found?** Average of 97.66% efficient over 5 samples at the 0.3 micron spec.  Average of 93.067% efficient over 3 samples at the 0.3 micron spec over 80 minutes.  Efficiency Range of 92.5% - 98.1% over all 8 samples. 5 of the 5 samples were at or above 95% for initial efficiency. Then why not this combination... well you have to balance breath-ability.  [See the results](https://drive.google.com/open?id=1yupGFIhwD8AysjFTFQhwAgz6Ek0EjDfb) and [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
@@ -50,7 +50,7 @@ The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a dens
 
 ## How Can I help?
 
-The Design is final for 3D Printing.  See our DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing).  3D Printing masks isn't going to meet high demand in every situation so we are now moving to offset demand by looking at alternative manufacturing processes.  Things like vacuum forming, CNC fabric cutting, CNC machining, CNC laser cutting, and Silicone Casting.
+The Design is final for 3D Printing.  See our DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing).  3D Printing masks aren't going to meet high demand in every situation so we are now moving to offset demand by looking at alternative manufacturing processes.  Things like vacuum forming, CNC fabric cutting, CNC machining, CNC laser cutting, and Silicone Casting.
 
 If you have services to offer in any of these areas and would like to be a manufacturing supplier email joshua@rivercitylabs.space
 
