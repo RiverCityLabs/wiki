@@ -157,10 +157,11 @@ Contributors:
    **-** Lulzbot \(@lulzbot\)  
    **-** Joe Mozzwald \(@mozzwald\)  
    **-** Roger Wheeler  
-   **-** Alec Randazzo \(@AlecRandazzo / Virginia\)  
+   **-** Alec Randazzo \(@AlecRandazzo / Northern Virginia\)  
    **-** Kurt Lippert \(Austin, TX\)  
+   - Nova Labs \(@nova\_labs / Northern Virginia\)  
   
-Mask Name Contributed by... Alec Randazzo \(@AlecRandazzo\) @ Nova Labs MakerSpace in Virginia.  
+Mask Name Contributed by... Alec Randazzo \(@AlecRandazzo\) @ Nova Labs MakerSpace in Northern Virginia.  
     Thanks for helping nailing down a name!!!  
   
 Special Thanks to all Financial Contributors. This project would not be what it is without your support! Thank you.  
