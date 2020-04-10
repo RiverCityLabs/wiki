@@ -93,7 +93,7 @@ It is critical that these settings are adhered to. The mask and filter design is
 
 ## Post processing
 
-If your 3D print has some stringing, it is imperative to remove them. The approved way to remove the strings is **light sanding** with at least P500 grit sand paper.
+If your 3D print has some stringing, it is imperative to remove them. The approved way to remove the strings is **light sanding** with at least P220 - P500 grit sand paper.
 
 ## The Playbook!
 
