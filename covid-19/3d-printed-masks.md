@@ -143,7 +143,7 @@ Project License can be found at** [**https://drive.google.com/open?id=121YNJ0pGx
 
 Project Lead, Lead Designer, Lead Researcher:  
     **-** Joshua Malavolti \(@malamaker86\)  
-            Awestruck by this project and glad to be a part of history.
+            Awestruck by this project and glad to be on the right side of history.
 
 Contributors:  
    **-** Angie Malavolti \(@malavo9\)  
