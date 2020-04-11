@@ -14,7 +14,7 @@ Welcome to the "MalaMask" project, a project focused on giving healthcare and fi
 
 ![](../.gitbook/assets/image%20%2877%29.png)
 
-We have wrapped up hospital "almond bittrex" vapor N95 fit testing and professional particulate testing on certified equipment designed to test at NIOSH standards.  As a results, we have filters that have passed the N95 fit testing and the lab tests &gt;= 95% efficiency at the 0.3 micron spec. [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+We have wrapped up hospital "almond bitrex" vapor N95 fit testing and professional particulate testing on certified equipment designed to test at NIOSH standards.  As a results, we have filters that have passed the N95 fit testing and the lab tests &gt;= 95% efficiency at the 0.3 micron spec. [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
 This project is completely open source, we want to share this with the world to help protect the  healthcare workers and first responders that are taking care of the people with this horrible virus.
 
