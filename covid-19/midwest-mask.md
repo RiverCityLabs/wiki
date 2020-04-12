@@ -132,7 +132,9 @@ Make more masks!!
 
 ## Delivery
 
- For drop-off locations in Peoria and Morton, contact info@rivercitylabs.space.
+ For drop-off locations in Peoria and Morton, contact info@rivercitylabs.space. 
+
+Roger Wheeler at 7008 N Mt Hawley Road Peoria,IL 61614 can take masks. Text my cell to let me know you are coming. 
 
 ### East Peoria
 
