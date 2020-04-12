@@ -109,7 +109,7 @@ Information: [Material Sourcing](https://docs.google.com/document/d/1D2JJbhaYfgd
 Information: [Manufacturing Resources](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing)  
 Information: [Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)  
 Assembly: Mask and Filter Housing \([Video](https://youtu.be/YwvNQjdSqFs), [Document](https://docs.google.com/document/d/1SpCyWQBgHfW2ePIzmhA3BqtUgzyOQMz8X0SAy0sHsE8/edit?usp=sharing)\)  
-How-To: Layer, Install, and Replace the Filter \([Video](https://youtu.be/1FXvWiC53C4), Document\)  
+How-To: Layer, Install, and Replace the Filter \([Video](https://youtu.be/1FXvWiC53C4), [Document](https://docs.google.com/document/d/1yKOHnSMgm-e6Z8X17Z6A7H6JHU2vfUYysx4Voldt6K0/edit?usp=sharing)\)  
 How-To: Cut Mask Straps \(Video, Document\)  
 How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)  
 How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
