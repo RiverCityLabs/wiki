@@ -104,7 +104,7 @@ Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Yo
 
 ![Silicone Seal Sizing Chart](../.gitbook/assets/image%20%2819%29.png)
 
-Information: [MalaMask 1 Pager](https://docs.google.com/document/d/144z2IpcBqnYqKVOC5pZi9Bc7wqQG7yLJFlZRnw7-oZM/edit?usp=sharing)  
+Information: [MalaMask 1 Pager](https://drive.google.com/open?id=11IRQGlzJXB24tk5LriO70lpKRo6jtcAE)  
 Information: [Material Sourcing](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing)  
 Information: [Manufacturing Resources](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing)  
 Information: [Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)  
