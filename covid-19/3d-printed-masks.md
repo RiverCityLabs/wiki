@@ -36,7 +36,7 @@ Due to high demand of PPE at this time we will do our best to fulfill the orders
 
 ## The Filter
 
-The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a density of 1.45mm @ 1lb 9oz of pressure over a 3mm by 10mm area.
+The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a density of 0.6mm-0.85mm thick @ 1lb 9oz of pressure over a 3mm by 10mm area.
 
 ![Layering Order](../.gitbook/assets/image%20%2832%29.png)
 
