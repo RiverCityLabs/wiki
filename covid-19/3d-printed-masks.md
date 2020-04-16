@@ -12,7 +12,7 @@ _**A mask is only as good as the filter that it uses... Filter First, mask secon
 
 Welcome to the "MalaMask" project, a project focused on giving healthcare and first responder systems information to make an informed decision when choosing N95 alternative PPE. This project has been focused on researching filter media, testing combinations and providing factual data and results. We have been working with mask and filter industry experts to validate our research and findings, honing in on filter combinations that can meet the N95 filter spec. Once we had the filter figured out we have been designing a mask that can be either 3D printed and mass manufactured. In our design efforts we have worked with hospitals, safety officers and human faces to get you a mask that provides the proper seal to keep the outside air flowing only through the filter! Help us in spreading the word and getting PPE to the people who need it most and if you are a person or organization that needs N95 alternative options, you are in the right place!
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 We have wrapped up hospital "Almond Bitrex" N95 vapor fit testing and professional particulate testing on certified equipment designed to test at NIOSH standards.  As a result, we have filters that have passed the N95 fit testing and the lab tests &gt;= 95% efficiency at the 0.3 micron spec. [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
@@ -20,7 +20,7 @@ This project is completely open source, we want to share this with the world to 
 
 See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 **Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask filter specs".**  Be aware, to be full NIOSH approved a full mask + filter must be tested together in coordination with the CDC to get the rating.  We are focused on getting masks to the people who need them ASAP and are putting resources toward the aspects that are needed short term for someone to make an informed safety decision.  Our main focus is filters that could be put in any mask that seals to the face and only allows air flow in and out through the filter.
 
@@ -38,7 +38,7 @@ Due to high demand of PPE at this time we will do our best to fulfill the orders
 
 The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a density of 0.6mm-0.85mm thick @ 1lb 9oz of pressure over a 3mm by 10mm area.
 
-![Layering Order](../.gitbook/assets/image%20%2832%29.png)
+![Layering Order](../.gitbook/assets/image%20%2834%29.png)
 
 **Have you had this filter professionally tested?** YES! [See the results](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 

@@ -4,7 +4,7 @@ description: Delta Model 17-900
 
 # Drill Press
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## Useful Links
 

@@ -50,6 +50,7 @@
   * [Compact Bender](metalshop/compact-bender.md)
   * [Blacksmithing](metalshop/blacksmithing.md)
   * [Compressor](metalshop/compressor.md)
+  * [2 Ton Capacity Foldable Shop Crane](metalshop/2-ton-capacity-foldable-shop-crane.md)
 * [Electronics](electronics.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
