@@ -14,7 +14,7 @@ Welcome to the "MalaMask" project, a project focused on giving healthcare provid
 
 ![](../.gitbook/assets/image%20%2880%29.png)
 
-This mask project is completely open source \([CC BY-NC license](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)\). We want to share this with the world to help protect the healthcare workers and first responders that are taking care of the people with this horrible virus. Feel free to distribute, share, and print your own under the MalaMask legal agreement \([see link here](https://drive.google.com/open?id=1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp)\). If you share this, please link back to RCL wiki.
+This mask project is completely open source \([CC BY-NC license](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)\). We want to share this with the world to help protect the healthcare workers and first responders that are taking care of the people with this horrible virus. Feel free to distribute, share, and print your own under the MalaMask legal agreement \([see link here](https://drive.google.com/open?id=1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp)\). If you share this, please link back to the River City Labs wiki.
 
 See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
 
