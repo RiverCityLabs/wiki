@@ -32,6 +32,8 @@ See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#
 
 Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
 
+[Donate to support River City Labs COVID PPE efforts.](https://www.paypal.me/rivercitylabs)
+
 ## The Filter
 
 The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a density of 0.6mm-0.85mm thick @ 1lb 9oz of pressure over a 3mm by 10mm area.
