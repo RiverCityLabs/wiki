@@ -12,13 +12,13 @@ _**A mask is only as good as the filter that it uses... Filter First, mask secon
 
 Welcome to the "MalaMask" project, a project focused on giving healthcare providers and first responders access to alternative PPE when N95 masks are not available. The reusable MalaMask holds a one time use filter \(not included\).
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 This mask project is completely open source \([CC BY-NC license](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)\). We want to share this with the world to help protect the healthcare workers and first responders that are taking care of the people with this horrible virus. Feel free to distribute, share, and print your own under the MalaMask legal agreement \([see link here](https://drive.google.com/open?id=1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp)\). If you share this, please link back to the River City Labs wiki.
 
 See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 **Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask filter specs".**  Disclaimer: River City Labs is a MakerSpace organization that is 100% volunteer run and operated. We are filling a need in the community. The MalaMask is not medical grade. We have done testing \([see link here](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)\) and believe it will help when no other medical equipment is available. We do not certify the design or components will operate properly or satisfy any regulatory requirements.
 
@@ -45,6 +45,10 @@ The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a dens
 **What is the best efficiency you have found?** Average of 97.66% efficient over 5 samples at the 0.3 micron spec.  Average of 93.067% efficient over 3 samples at the 0.3 micron spec over 80 minutes.  Efficiency Range of 92.5% - 98.1% over all 8 samples. 5 of the 5 samples were at or above 95% for initial efficiency. Then why not this combination... well you have to balance breath-ability.  [See the results](https://drive.google.com/open?id=1yupGFIhwD8AysjFTFQhwAgz6Ek0EjDfb) and [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
 **Where can I find the supplies needed to make this filter?** [See our Material Sourcing doc](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing) or you can request filter media through our "[Request Product and Supplies](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)" form.  We also have a DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing) where you can make these yourself.
+
+**Is this the right filter and mask for me?** 99.9% of people do not need this level of filtering and a sealed mask.  If you are exposed to an aerosol environment where a "Maximum Filtration" mask and filter is appropriate.  Typically people that are exposed to these conditions are going to be in emergent or ICU healthcare and first responders \(Fire and EMT\).  For the majority of people who are not exposed to these conditions a "ASTM Level 1" surgical mask would be appropriate.  [See River City Labs "Midwest Mask"](https://wiki.rivercitylabs.space/covid-19/midwest-mask).
+
+![Ref: Guide to Face Mask Selection \(produced by CrossTex\)](../.gitbook/assets/image%20%2838%29.png)
 
 ## How Can I help?
 
@@ -116,7 +120,7 @@ How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 
 [Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)  
 [Public Project Folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)  
-[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf)
+[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf) \(produced by CrossTex\)
 
 #### Supporting Videos
 
