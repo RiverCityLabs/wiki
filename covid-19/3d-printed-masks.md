@@ -24,15 +24,15 @@ See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#
 
 ## Request Product and Supplies
 
-[See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
+### [See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
 
 #### _**Are you a critical care facility and short N95 PPE?  Submit a request for product and put in the "Comments" section "I would like a free sample sent to me".**_
 
-[Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
+### [Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
 
 Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
 
-[Donate to support River City Labs COVID PPE efforts.](https://www.paypal.me/rivercitylabs)
+### [Donate to support River City Labs COVID PPE efforts.](https://www.paypal.me/rivercitylabs)
 
 ## The Filter
 
