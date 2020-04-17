@@ -118,7 +118,12 @@ How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 
 [Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)  
 [Public Project Folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)  
-[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf)  
+[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf)
+
+#### Supporting Videos
+
+[Part Fit-up Guidance](https://www.youtube.com/watch?v=6mm9OmD3Bnk)  
+  
   
 [_Release, Waiver of Liability, Defense, Indemnification and Hold Harmless Agreement_](https://drive.google.com/file/d/1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp/view?usp=sharing)\_\_
 
@@ -136,7 +141,7 @@ River City Labs: info@rivercitylabs.space
 
 ## Project License
 
-**Open Source Licensed under CC BY-SA  
+**Open Source Licensed under CC BY-NC  
 Project License can be found at** [**https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs\_NAjh6ygaVKa2f**](https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs_NAjh6ygaVKa2f)
 
 ## Project Contributors
