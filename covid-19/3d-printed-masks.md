@@ -8,7 +8,7 @@ description: The "Reusable Mask with one time use filters tested at N95 filter s
 
 _**A mask is only as good as the filter that it uses... Filter First, mask second!**_
 
-#### _**IT PASSED!  We have found filters that have passed the 95% efficiency at the 0.3 micron spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+#### _**IT PASSED!  We have found filters that have passed the**_ [_**95% efficiency at the 0.3 micron**_](https://www.ncbi.nlm.nih.gov/pubmed/9487666) _**spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
 Welcome to the "MalaMask" project, a project focused on giving healthcare providers and first responders access to alternative PPE when N95 masks are not available. The reusable MalaMask holds a one time use filter \(not included\).
 
