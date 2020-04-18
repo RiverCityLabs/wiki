@@ -104,7 +104,7 @@ If your 3D print has some stringing, it is imperative to remove them. The approv
 #### Designs, Assembly and How-To
 
 [Mask Design](https://a360.co/33DCSxO)  
-Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative)\)
+Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative) / [cult3D ](https://cults3d.com/en/3d-model/various/reusable-mask-ppe-alternative-malamask)/ [PrusaPrinters](https://www.prusaprinters.org/prints/29309-reusable-mask-ppe-alternative-malamask)\)
 
 ![Silicone Seal Sizing Chart](../.gitbook/assets/image%20%2819%29.png)
 
@@ -115,7 +115,7 @@ Information: [Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0
 Assembly: Mask and Filter Housing \([Video](https://youtu.be/YwvNQjdSqFs), [Document](https://docs.google.com/document/d/1SpCyWQBgHfW2ePIzmhA3BqtUgzyOQMz8X0SAy0sHsE8/edit?usp=sharing)\)  
 How-To: Layer, Install, and Replace the Filter \([Video](https://youtu.be/1FXvWiC53C4), [Document](https://docs.google.com/document/d/1yKOHnSMgm-e6Z8X17Z6A7H6JHU2vfUYysx4Voldt6K0/edit?usp=sharing)\)  
 How-To: Cut Mask Straps \(Video, Document\)  
-How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), Document\)  
+How-To: Silicone Cast \([Video](https://youtu.be/L90IB3giH6Y), [Document](https://drive.google.com/open?id=1bBn6we59EhEJGxuu8Jw91gFQSqiNRVyPfK25RIz3c6E)\)  
 How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 
 #### Supporting Information and Research
