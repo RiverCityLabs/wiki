@@ -26,9 +26,13 @@ Too many online efforts are focused on what they \*think\* the community needs. 
 
 Our rapid design, prototype, and iteration efforts cost money. So far that money is coming out of our members' own pockets as they care so much about the causes they're contributing to, but that can only take us so far.
 
-If you like what we're doing and want to help out monetarily, [here's a link to our paypal account](https://www.paypal.me/rivercitylabs). Please put "covid efforts" into the note field so we know to dedicate that money to our covid efforts.Be sure to send as a "friend" to avoid excessive paypal fees.
+If you like what we're doing and want to help out monetarily, [here's a link to our paypal account](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGVSQCSW872VL&source=url). Please put "covid efforts" into the note field so we know to dedicate that money to our covid efforts.Be sure to send as a "friend" to avoid excessive paypal fees.
 
 We're a 501c\(3\) registered non-profit with the state of Illinois and the federal US government. If you would like a receipt for your donation, please put that in the note as well and we'll send you a donation receipt!
+
+
+
+
 
 ## We need volunteers!
 
