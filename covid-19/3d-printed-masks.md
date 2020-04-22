@@ -30,7 +30,7 @@ See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#
 
 Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
 
-### [Donate to support River City Labs COVID efforts.](https://www.paypal.me/rivercitylabs)
+### [Donate to support River City Labs COVID efforts.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGVSQCSW872VL&source=url)
 
 ## The Filter
 
