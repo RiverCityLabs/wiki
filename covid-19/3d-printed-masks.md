@@ -4,6 +4,16 @@ description: The "Reusable Mask with one time use filters tested at N95 filter s
 
 # The "MalaMask" Project \(N95 Alternative Filter\)
 
+##  Request Product and Supplies
+
+### [See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
+
+### [Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
+
+Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
+
+### [Donate to support River City Labs COVID efforts.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGVSQCSW872VL&source=url)
+
 ## About
 
 _**A mask is only as good as the filter that it uses... Filter First, mask second!**_
@@ -21,16 +31,6 @@ See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#
 ![](../.gitbook/assets/image%20%2873%29.png)
 
 **Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask filter specs".**  Disclaimer: River City Labs is a MakerSpace organization that is 100% volunteer run and operated. We are filling a need in the community. The MalaMask is not medical grade. We have done testing \([see link here](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)\) and believe it will help when no other medical equipment is available. We do not certify the design or components will operate properly or satisfy any regulatory requirements.
-
-## Request Product and Supplies
-
-### [See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
-
-### [Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
-
-Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
-
-### [Donate to support River City Labs COVID efforts.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGVSQCSW872VL&source=url)
 
 ## The Filter
 
