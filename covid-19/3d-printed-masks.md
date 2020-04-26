@@ -12,9 +12,9 @@ _**\*\*\* 134 Mask and 763 Filters Requested \*\*\***_
 
 ### [Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
 
-Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
-
 ### [Donate to support River City Labs COVID efforts.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGVSQCSW872VL&source=url)
+
+Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
 
 ## About
 
