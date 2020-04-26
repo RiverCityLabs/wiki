@@ -10,7 +10,7 @@ This total will get updated once per day
 
 We currently have identified a need for **592 masks**
 
-We have currently delivered 18 **masks**
+We have currently delivered **283 masks**
 
 ## Mask Requests
 
