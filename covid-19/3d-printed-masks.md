@@ -54,9 +54,9 @@ The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a dens
 
 ## How Can I help?
 
-The Design is final for 3D Printing.  See our DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing).  3D Printing masks aren't going to meet high demand in every situation so we are now moving to offset demand by looking at alternative manufacturing processes.  Things like vacuum forming, CNC fabric cutting, CNC machining, CNC laser cutting, and Silicone Casting.
+The Design is final for 3D Printing.  See our DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing).  3D Printing masks aren't going to meet high demand in every situation so we are now moving to offset demand by looking at alternative manufacturing processes.  Things like vacuum forming, CNC fabric cutting, CNC machining, CNC laser cutting, Resin Casting and Silicone Casting.
 
-If you have services to offer in any of these areas and would like to be a manufacturing supplier email joshua@rivercitylabs.space
+If you have services to offer in any of these areas and would like to be a manufacturing resource email joshua@rivercitylabs.space
 
 ## Part Donation Requirements
 
@@ -83,15 +83,15 @@ It is critical that these settings are adhered to. The mask and filter design is
 #### Mask Parts
 
 * Filament: PETG
-* Nozzle temp: 255c
+* Minimum Nozzle temp: 255c
 * Nozzle diameter: 0.4mm - 0.5mm
-* Infill: 20%
+* Infill: &gt;= 20%
 * Layer height: 0.3mm or lower
 
-#### Silicone Mold Parts
+#### Silicone Molds
 
 * Filament: PETG / PLA / ABS
-* Nozzle diameter: 0.4mm - 0.5mm
+* Nozzle diameter: 0.4mm - 0.6mm
 * Infill: 30% \(mold will last longer\)
 * Layer height: 0.3mm or lower
 
@@ -146,7 +146,7 @@ River City Labs: info@rivercitylabs.space
 ## Project License
 
 **Open Source Licensed under CC BY-NC  
-Project License can be found at** [**https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs\_NAjh6ygaVKa2f**](https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs_NAjh6ygaVKa2f)
+Project License can be found at** [**https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs\_NAjh6ygaVKa2f**](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)\*\*\*\*
 
 ## Project Contributors
 
