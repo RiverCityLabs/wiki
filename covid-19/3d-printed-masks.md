@@ -6,7 +6,8 @@ description: The "Reusable Mask with one time use filters tested at N95 filter s
 
 ##  Request Product and Supplies
 
-_**\*\*\* 134 Mask and 763 Filters Requested \*\*\***_
+_**\*\*\* 155 Masks and 811 Filters Requested \*\*\*  
+\*\*\* 89 Masks and 240 Filters Delivered \*\*\***_
 
 ### [See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
 
