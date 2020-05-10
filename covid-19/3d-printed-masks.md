@@ -25,13 +25,13 @@ _**A mask is only as good as the filter that it uses... Filter First, mask secon
 
 Welcome to the "MalaMask" project, a project focused on giving healthcare providers and first responders access to alternative PPE when N95 masks are not available. The reusable MalaMask holds a one time use filter \(not included\).
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 This mask project is completely open source \([CC BY-NC license](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)\). We want to share this with the world to help protect the healthcare workers and first responders that are taking care of the people with this horrible virus. Feel free to distribute, share, and print your own under the MalaMask legal agreement \([see link here](https://drive.google.com/open?id=1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp)\). If you share this, please link back to the River City Labs wiki.
 
 See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#the-playbook)" section below for all research, documents, videos, and how-to's pertaining to this project.
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 **Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask filter specs".**  Disclaimer: River City Labs is a MakerSpace organization that is 100% volunteer run and operated. We are filling a need in the community. The MalaMask is not medical grade. We have done testing \([see link here](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)\) and believe it will help when no other medical equipment is available. We do not certify the design or components will operate properly or satisfy any regulatory requirements.
 
@@ -39,7 +39,7 @@ See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#
 
 The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a density of 0.6mm-0.85mm thick @ 1lb 9oz of pressure over a 3mm by 10mm area.
 
-![Layering Order](../.gitbook/assets/image%20%2834%29.png)
+![Layering Order](../.gitbook/assets/image%20%2835%29.png)
 
 **Have you had this filter professionally tested?** YES! [See the results](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
@@ -51,7 +51,7 @@ The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a dens
 
 **Is this the right filter and mask for me?** A majority of people do not need this level of filtering and a sealed mask.  If you are exposed to an aerosol environment, a "Maximum Filtration" mask and filter is appropriate.  Typically people that are exposed to these conditions are going to be in emergent healthcare, ICU healthcare and first responders \(Fire and EMT\).  For the majority of people who are not exposed to these conditions, a "ASTM Level... \[1-3\]" mask / alternative would be appropriate.  [See River City Labs "Midwest Mask"](https://wiki.rivercitylabs.space/covid-19/midwest-mask).
 
-![Ref: Guide to Face Mask Selection \(produced by CrossTex\)](../.gitbook/assets/image%20%2838%29.png)
+![Ref: Guide to Face Mask Selection \(produced by CrossTex\)](../.gitbook/assets/image%20%2839%29.png)
 
 ## How Can I help?
 
@@ -107,7 +107,7 @@ If your 3D print has some stringing, it is imperative to remove them. The approv
 [Mask Design](https://a360.co/33DCSxO)  
 Printable Parts \([Thingiverse](https://www.thingiverse.com/thing:4247401) / [Youmagine](https://www.youmagine.com/designs/respirator-mask-ppe-alternative) / [cult3D ](https://cults3d.com/en/3d-model/various/reusable-mask-ppe-alternative-malamask)/ [PrusaPrinters](https://www.prusaprinters.org/prints/29309-reusable-mask-ppe-alternative-malamask)\)
 
-![Silicone Seal Sizing Chart](../.gitbook/assets/image%20%2819%29.png)
+![Silicone Seal Sizing Chart](../.gitbook/assets/image%20%2820%29.png)
 
 Information: [MalaMask 1 Pager](https://drive.google.com/open?id=11IRQGlzJXB24tk5LriO70lpKRo6jtcAE)  
 Information: [Material Sourcing](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing)  

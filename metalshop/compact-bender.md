@@ -1,6 +1,6 @@
 # Compact Bender
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 Bends round or square bar stock up to 5/8 in. thick with a maximum width up to 1-15/16 in.
 

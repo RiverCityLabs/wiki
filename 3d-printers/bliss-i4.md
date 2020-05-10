@@ -25,11 +25,11 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
       1. Configure Hotend \(see figure 4\)
 7. Click Finish
 
-![figure 1](../.gitbook/assets/image%20%2848%29.png)
+![figure 1](../.gitbook/assets/image%20%2849%29.png)
 
-![Figure 2](../.gitbook/assets/image%20%2859%29.png)
+![Figure 2](../.gitbook/assets/image%20%2860%29.png)
 
-![Figure 3.1](../.gitbook/assets/image%20%2839%29.png)
+![Figure 3.1](../.gitbook/assets/image%20%2840%29.png)
 
 Custom Start Gcode - Figure 3.2
 
