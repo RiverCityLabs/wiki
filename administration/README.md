@@ -16,6 +16,8 @@ description: 'Here are the articles in this section:'
 
 {% page-ref page="rcl-automation.md" %}
 
+{% page-ref page="youtube-upload-process.md" %}
+
 {% page-ref page="trello.md" %}
 
 
