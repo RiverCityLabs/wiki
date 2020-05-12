@@ -84,6 +84,7 @@
   * [RCL Wiki](administration/rcl-wiki.md)
   * [RCL Website](administration/rcl-website.md)
   * [RCL Automation](administration/rcl-automation.md)
+  * [YouTube Upload Process](administration/youtube-upload-process.md)
   * [Trello](administration/trello.md)
 * [Meetings](meetings/README.md)
   * [Officers](meetings/officers/README.md)

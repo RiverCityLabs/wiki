@@ -1,10 +1,22 @@
 ---
-description: YouTube Upload Process
+description: 'Here are the articles in this section:'
 ---
 
 # Administration
 
-```text
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H37Yqtpsufo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+{% page-ref page="network.md" %}
+
+{% page-ref page="door-access.md" %}
+
+{% page-ref page="shared-drive.md" %}
+
+{% page-ref page="rcl-wiki.md" %}
+
+{% page-ref page="rcl-website.md" %}
+
+{% page-ref page="rcl-automation.md" %}
+
+{% page-ref page="trello.md" %}
+
+
 
