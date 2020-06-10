@@ -49,7 +49,10 @@ These steps will ensure all makerspace POS terminals will provide the same inter
 
 ### Touchscreen
 
-[Download](https://drive.google.com/open?id=1PVsa7Y1Hx73PfP8g3j6lGAY13vjxcRs9) the Linux \(Single Touch\)\(64-bit\) Driver from 3M website
+[Download](https://drive.google.com/open?id=1PVsa7Y1Hx73PfP8g3j6lGAY13vjxcRs9) the Linux \(Single Touch\)\(64-bit\) Driver from the RCL cloud drive.  
+[Here ](https://www.3m.com/3M/en_US/touch-systems-us/resources/3m-touch-drivers-and-kernel-patches/)is the official 3M download link  
+[Here ](https://multimedia.3m.com/mws/media/1436608O/linux-readme-text-file.txt)is the official 3M README link for the driver  
+[Here ](https://multimedia.3m.com/mws/media/719216O/mt7-13-3-software-user-guide-for-wince.pdf)is the official 3M driver manual
 
 Open a terminal and enter the following commands one at a time:
 
