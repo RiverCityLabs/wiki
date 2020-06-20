@@ -31,12 +31,12 @@ Panel D - Located at rear of clean space
 
 | **Circuit / Description** | **Circuit / Description** |
 | :--- | :--- |
-| 1 | 2 Wood shop  |
-| 3 Fan / Outlet in metal area | 4 Wood shop |
-| 5 | 6 Wood shop |
-| 7 | 8 Wood shop |
-| 9 | 10 Welder |
-| 11 | 12 Welder |
+| 1 -  | 2 - Wood shop 220 volt outlet A |
+| 3 - Fan / Outlet in metal area | 4 - Wood shop 220 volt outlet A |
+| 5 -  | 6 - Wood shop 220 volt outlet B |
+| 7 -  | 8 - Wood shop 220 volt outlet B |
+| 9 - CNC, VAC | 10 - Welder 220 volt outlet |
+| 11 -  | 12 - Welder 220 volt outlet |
 
 Panel D
 
