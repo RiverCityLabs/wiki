@@ -66,6 +66,7 @@
   * [Visitors](members/visitors.md)
   * [Membership](members/membership.md)
 * [Operations](operations/README.md)
+  * [Electrical Panels](operations/electrical-panels.md)
   * [Firearms Policy](operations/firearms-policy.md)
   * [Code of Conduct](operations/code-of-conduct.md)
   * [Bylaws](operations/bylaws.md)
