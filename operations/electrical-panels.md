@@ -11,13 +11,13 @@ Panel D - Located at rear of clean space
 
 **Panel A**
 
-|  |  |
+| **Circuit / Description** | **Circuit / Description** |
 | :--- | :--- |
 |  |  |
 
 **Panel B** 
 
-|  |  |
+| **Circuit / Description** | **Circuit / Description** |
 | :--- | :--- |
 | 1 | 2 |
 | 3 | 4 |
@@ -29,10 +29,10 @@ Panel D - Located at rear of clean space
 
 **Panel C**
 
-|  |  |
+| **Circuit / Description** | **Circuit / Description** |
 | :--- | :--- |
 | 1 | 2 Wood shop  |
-| 3 Fan / Outler in metal area | 4 Wood shop |
+| 3 Fan / Outlet in metal area | 4 Wood shop |
 | 5 | 6 Wood shop |
 | 7 | 8 Wood shop |
 | 9 | 10 Welder |
