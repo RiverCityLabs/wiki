@@ -22,9 +22,9 @@ Panel D - Located at rear of clean space
 | 1  | 2 |
 | 3 | 4 |
 | 5 | 6 |
-| 7 | 8a                                               8b |
-| 9 | 10a                             \|    10b    LASER BFL |
-| 11                   | 12 Laser K40 |
+| 7 | 8a                               \|     8b |
+| 9 | 10a                             \|    10b    BFL |
+| 11                   | 12 K40, Glowforge, Lightburn computer |
 | 13 | 14 |
 | 15 | 16 |
 | 17 | 18 |
@@ -33,12 +33,12 @@ Panel D - Located at rear of clean space
 
 | **Circuit / Description** | **Circuit / Description** |
 | :--- | :--- |
-| 1 -  | 2 - Wood shop 208 volt outlet A |
-| 3 - Fan / Outlet in metal area | 4 - Wood shop 208 volt outlet A |
-| 5 -  | 6 - Wood shop 208 volt outlet B |
-| 7 -  | 8 - Wood shop 208 volt outlet B |
-| 9 - CNC, VAC | 10 - Welder 208 volt outlet |
-| 11 -  | 12 - Welder 208 volt outlet |
+| 1 -  | 2 - Wood shop 208 volt 20 amp outlet A |
+| 3 - Fan / Outlet in metal area | 4 - Wood shop 208 volt 20 amp outlet A |
+| 5 -  | 6 - Wood shop 208 volt 20 amp outlet B |
+| 7 -  | 8 - Wood shop 208 volt 20 amp outlet B |
+| 9 - CNC, VAC | 10 - Welder 208 volt 50 amp outlet |
+| 11 -  | 12 - Welder 208 volt 50 amp outlet |
 
 Panel D
 
