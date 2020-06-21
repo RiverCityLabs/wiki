@@ -13,7 +13,9 @@ Panel D - Located at rear of clean space
 
 | **Circuit / Description** | **Circuit / Description** |
 | :--- | :--- |
-|  |  |
+| 1 | 2 |
+| 3 | 4 |
+| 5 | 6 |
 
 **Panel B** 
 
