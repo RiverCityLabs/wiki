@@ -17,13 +17,13 @@ Panel D - Located at rear of clean space
 
 **Panel B** 
 
-| **Circuit / Description** | **Circuit / Description** |
+| **Circuit / Description**                 |  **Circuit / Description** |
 | :--- | :--- |
 | 1 | 2 |
 | 3 | 4 |
 | 5 | 6 |
 | 7 | 8a                                               8b |
-| 9 | 10a                        \| 10b    LASER BFL |
+| 9 | 10a                             \|    10b    LASER BFL |
 | 11                   | 12 Laser K40 |
 | 13 | 14 |
 
