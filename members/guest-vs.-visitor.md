@@ -20,7 +20,8 @@ River City Labs encourages our Members to share the makerspace experience with t
 
 Visitors are welcome to check out the space during our Thursday community nights between 7 PM and 9 PM. These nights are primarily social, so they are a great opportunity to meet some of our amazing members and get a sense of the community. For a more detailed tour and information about becoming a Member please plan to attend one of our monthly Intro to RCL meetings. \(Schedule TBD\)
 
-*  **SAFETY FIRST!** Visitors may **NOT** use any machines, tools, or equipment in the makerspace. Visitors may be restricted from entering certain areas of the space due to safety concerns. Visitors don't need to sign a Liability Waiver, but may do so if they would like their info added to our contact list.
+*  **SAFETY FIRST!** Visitors may **NOT** use any machines, tools, or equipment in the makerspace. Visitors may be restricted from entering certain areas of the space due to safety concerns. 
+  * All Visitors must sign a [Liability Waiver](https://wiki.rivercitylabs.space/members/forms) upon entry to River City Labs.
 
 ##  Children
 
