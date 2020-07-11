@@ -30,7 +30,7 @@
   * [Air Filtration System](woodshop/air-filtration-system.md)
   * [Panel Saw](woodshop/panel-saw.md)
   * [Mitersaw](woodshop/mitersaw.md)
-  * [Plate Joiner](woodshop/plate-joiner.md)
+  * [Biscuit Joiner](woodshop/biscuit-joiner.md)
   * [Panel Saw](woodshop/panel-saw-1.md)
   * [Dust Collector](woodshop/dust-collector.md)
 * [Metalshop](metalshop/README.md)
