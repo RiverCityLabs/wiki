@@ -8,7 +8,7 @@ There is a 10A 250V fast acting fuse inside the power socket. There is a space f
 
 ## Useful Links
 
-[Manual](https://drive.google.com/open?id=1Jof2Do8vmVJm1ZrZEwuOgQ0B-mArA3jt)
+[Manual](https://drive.google.com/file/d/1Jof2Do8vmVJm1ZrZEwuOgQ0B-mArA3jt/view?usp=sharing)
 
 [Quick Start Guide](https://drive.google.com/open?id=19k9Gs7ne4wrSUq2_x1pxwlwmF7vBXS7R)
 
