@@ -8,5 +8,5 @@ description: 'Ryobi Biscuit Joiner Model: JM82'
 
 ## Useful Links
 
-Manual
+[Manual](https://drive.google.com/file/d/1yA3MuL8K1v2VYqX1pSoISxn78DW3yG9p/view?usp=sharing)
 
