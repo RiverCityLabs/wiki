@@ -2,6 +2,10 @@
 
 ![](../.gitbook/assets/chiller.jpg)
 
+_**Periodic Maintenance** - the air_ inlet filters on the left and right side of the chiller need to be cleaned monthly or when they appear dirty. The radiator inside the chiller behind the rear air outlet exhaust fans must also be cleaned monthly. This can be accomplished by using the compressor to blow out the inside of the chiller.
+
+There is a 10A 250V fast acting fuse inside the power socket. There is a space fuse in the socket as well.
+
 ## Useful Links
 
 [Manual](https://drive.google.com/open?id=1Jof2Do8vmVJm1ZrZEwuOgQ0B-mArA3jt)
