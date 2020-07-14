@@ -16,6 +16,8 @@ description: 80 watt CO2 Laser
 
 ## **Maintenance**
 
+![](../.gitbook/assets/image%20%28100%29.png)
+
 * [Focus lens Oring 20mm diameter](https://www.amazon.com/dp/B07MY2YBKL/ref=cm_sw_r_cp_apa_i_u9HjEbS4N5DD2)
 
 ## Exhaust
