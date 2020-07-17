@@ -2,7 +2,7 @@
 description: 'Central Machinery Horizontal/Vertical Metal Cutting Band Saw:  Model 93752'
 ---
 
-# Horizontal Band Saw
+# Horizontal Band Saw-old
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
