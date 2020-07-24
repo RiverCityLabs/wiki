@@ -4,13 +4,13 @@
 
 ## Useful Links
 
-[Manual](https://drive.google.com/open?id=1eGZIreMYqhyZktEpzvIMgxUBjmFhTsSM)
+[Manual](https://drive.google.com/file/d/14DXBlqPkTmGi6kOAMW0xSNy_B63gMWGA/view?usp=sharing)
 
 ## Specifications
 
-Model 93752
+Model 63469
 
-Blade: 64-1/2" L x 1/2" W x 0.025′′ Thick
+Blade: 93.5" L x 0.75" W x 0.031′′ Thick  
 
 ## Consumables
 
