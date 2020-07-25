@@ -6,6 +6,8 @@
 
 [Manual](https://drive.google.com/file/d/14DXBlqPkTmGi6kOAMW0xSNy_B63gMWGA/view?usp=sharing)
 
+[Lenox Guide To Band Sawing](https://drive.google.com/file/d/1p_9JqR9OFz8xZYHSjjRZ2iETGOe7NFr4/view?usp=sharing)
+
 ## Specifications
 
 Model 63469
