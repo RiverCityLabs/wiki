@@ -31,6 +31,7 @@
   * [Panel Saw](woodshop/panel-saw.md)
   * [Mitersaw](woodshop/mitersaw.md)
   * [Biscuit Joiner](woodshop/biscuit-joiner.md)
+  * [Router Table](woodshop/router-table.md)
   * [Panel Saw](woodshop/panel-saw-1.md)
   * [Dust Collector](woodshop/dust-collector.md)
 * [Metalshop](metalshop/README.md)
