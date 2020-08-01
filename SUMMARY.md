@@ -52,6 +52,7 @@
   * [Tubing Roller](metalshop/tubing-roller.md)
   * [Compact Bender](metalshop/compact-bender.md)
   * [Blacksmithing](metalshop/blacksmithing.md)
+  * [Metal Casting](metalshop/metal-casting.md)
   * [2 Ton Capacity Foldable Shop Crane](metalshop/2-ton-capacity-foldable-shop-crane.md)
   * [Compressor](metalshop/compressor.md)
   * [Miscellaneous Air Tools](metalshop/miscellaneous-air-tools.md)
