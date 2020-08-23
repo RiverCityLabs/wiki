@@ -99,6 +99,7 @@
     * [2-4-2020](meetings/officers/2-4-2020.md)
     * [1-7-2020](meetings/officers/1-7-2020.md)
   * [Members](meetings/members/README.md)
+    * [10-20-20](meetings/members/10-20-20.md)
     * [10-17-19](meetings/members/10-17-19.md)
 * [Covid-19](covid-19/README.md)
   * [Midwest Mask](covid-19/midwest-mask.md)
