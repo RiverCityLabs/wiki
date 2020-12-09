@@ -76,6 +76,7 @@
   * [Code of Conduct](operations/code-of-conduct.md)
   * [Bylaws](operations/bylaws.md)
   * [Leadership](operations/leadership/README.md)
+    * [2021](operations/leadership/2021.md)
     * [2020](operations/leadership/2020.md)
     * [2019](operations/leadership/2019.md)
     * [2018](operations/leadership/2018-officers.md)
