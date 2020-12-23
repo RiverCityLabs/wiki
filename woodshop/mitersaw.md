@@ -8,7 +8,7 @@ description: 'DEWALT 12" Double-Bevel Sliding Compound Miter Saw Model: DWS779'
 
 ## Useful Links
 
-User Manual
+[User Manual](https://drive.google.com/file/d/1JZVLOpWuK7NPNecYSSBpmBxRK6gmBRfU/view?usp=sharing)
 
 
 
