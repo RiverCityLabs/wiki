@@ -1,10 +1,10 @@
 ---
-description: 'GNC 10"Sliding Compound Miter Saw Model: LSMS10UL'
+description: 'DEWALT 12" Double-Bevel Sliding Compound Miter Saw Model: DWS779'
 ---
 
 # Mitersaw
 
-![](../.gitbook/assets/gnc-sliding-compound-saw.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 ## Useful Links
 
