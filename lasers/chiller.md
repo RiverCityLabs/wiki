@@ -14,3 +14,5 @@ There is a 10A 250V fast acting fuse inside the power socket. There is a space f
 
 [Chiller Setup](https://youtu.be/w0soQMapbIU)
 
+[Coolant Recipe](https://lasergods.com/laser-water-coolants-additives/#The_Secret_Recipe)
+
