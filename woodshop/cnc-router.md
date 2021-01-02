@@ -16,6 +16,8 @@ description: Probotix Asteroid - GX3725
 
 [Recommended Maintenance](https://www.probotix.com/wiki/index.php/Maintenance)
 
+[RCL Router Training Videos on Youtube](https://www.youtube.com/playlist?list=PLcwu5-Mumv-a1A_1BLDorSAILYLmQ7sUR)
+
 ## Recommended Materials
 
 * Wood
