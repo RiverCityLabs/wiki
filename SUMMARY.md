@@ -33,6 +33,7 @@
   * [Router Table](woodshop/router-table.md)
   * [Panel Saw](woodshop/panel-saw-1.md)
   * [Dust Collector](woodshop/dust-collector.md)
+  * [Dust Collector \(old\)](woodshop/dust-collector-old.md)
 * [Metalshop](metalshop/README.md)
   * [Bader BIII Belt Grinder](metalshop/bader-biii-belt-grinder.md)
   * [Metal Break](metalshop/metal-break.md)
