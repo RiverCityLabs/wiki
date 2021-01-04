@@ -1,5 +1,7 @@
 ---
-description: 4 Color 1 Station Screen Printing Machine
+description: >-
+  4 Color 1 Station Screen Printing Machine, Flash Dryer and Stage Light for
+  Developing Screens
 ---
 
 # Screen Printing
