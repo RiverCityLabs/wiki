@@ -1,7 +1,5 @@
 # Dust Collector
 
-Dust Collector
-
 ![](../.gitbook/assets/image%20%28109%29.png)
 
 The BFV dust collector at River City Labs is a modified Harbor Freight 70 Gallon 2 HP Heavy Duty High Flow High Capacity Dust Collector based on plans from DIY Tyler. You can access the plans [here](https://drive.google.com/file/d/1Ufq6Z3pv9MAMnpdfJRBBJafRhNlMXdPl/view?usp=sharing) and a video on the build [here](https://www.youtube.com/watch?v=0RAoj4urS-Y&t=673s).
