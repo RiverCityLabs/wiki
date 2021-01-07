@@ -23,7 +23,10 @@ Super Dust Deputy 5" Cyclone
 [https://wynnenv.com/products-page/woodworking-filter-pricing/13f230nano/](https://wynnenv.com/products-page/woodworking-filter-pricing/13f230nano/)  
 13F230NANO  
   
-To clean the filter 
-
+**Manometer**  
+Video on building the manometer can be access [here](https://www.youtube.com/watch?v=a9l9e8PwgEs).  
+1 1/4" PVC cap  
+3/8" OD hose barb  
+1/2" OD x 3/8" ID clear plastic hose  
 
 
