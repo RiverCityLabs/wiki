@@ -2,7 +2,7 @@
 
 Dust Collector
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 The BFV dust collector at River City Labs is a modified Harbor Freight 70 Gallon 2 HP Heavy Duty High Flow High Capacity Dust Collector based on plans from DIY Tyler. You can access the plans [here](https://drive.google.com/file/d/1Ufq6Z3pv9MAMnpdfJRBBJafRhNlMXdPl/view?usp=sharing) and a video on the build [here](https://www.youtube.com/watch?v=0RAoj4urS-Y&t=673s).
 
@@ -25,6 +25,7 @@ Super Dust Deputy 5" Cyclone
 Video on building the manometer can be access [here](https://www.youtube.com/watch?v=a9l9e8PwgEs).  
 1 1/4" PVC cap  
 3/8" OD hose barb  
-1/2" OD x 3/8" ID clear plastic hose  
+1/2" OD x 3/8" ID clear plastic hose
 
+![](../.gitbook/assets/image%20%28106%29.png)
 
