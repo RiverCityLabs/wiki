@@ -1,6 +1,7 @@
 # Kreg Pocket-Hole Jig
 
-Kreg Pocket-Hole Jig K4 Master System is stored in a bin in cabinet \#1 in the back room
+Kreg Pocket-Hole Jig K4 Master System  
+\* Stored in a bin in cabinet \#1 in the back room
 
 ![](../.gitbook/assets/image%20%28112%29.png)
 
