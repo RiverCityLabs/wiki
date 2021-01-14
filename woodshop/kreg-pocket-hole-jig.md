@@ -10,5 +10,5 @@ Kreg Pocket-Hole Jig K4 Master System
 
 [How to use the Kreg Pocket-Hole Jig](https://youtu.be/ebCb70dcynA)
 
- [How to select the correct pocket-hole screw](https://learn.kregtool.com/learn/how-to-select-right-pocket-hole-screw/)
+[How to select the correct pocket-hole screw](https://learn.kregtool.com/learn/how-to-select-right-pocket-hole-screw/)
 
