@@ -10,6 +10,8 @@ description: Grizzly G0794
 
 [Manual](https://drive.google.com/file/d/1ugijrJbTJ6xL7cI6AJdM4XCdyn13UwDp/view?usp=sharing)
 
+[Specs](https://drive.google.com/file/d/1OgEu6Z53OMu2ozl_onwDVhtvIWdLNl2x/view?usp=sharing)
+
 ## Specifications
 
 * Motor size: 1 HP
