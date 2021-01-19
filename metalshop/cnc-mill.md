@@ -1,5 +1,5 @@
 ---
-description: Grizzly G0794
+description: Grizzly G0704
 ---
 
 # CNC Mill
