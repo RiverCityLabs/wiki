@@ -40,6 +40,7 @@
   * [Bader BIII Belt Grinder](metalshop/bader-biii-belt-grinder.md)
   * [Metal Break](metalshop/metal-break.md)
   * [CNC Mill](metalshop/cnc-mill.md)
+  * [Pocket NC V2-50](metalshop/pocket-nc-v2-50.md)
   * [MIG Welder](metalshop/mig-welder.md)
   * [TIG-Welder](metalshop/tig-welder.md)
   * [Stick Welder](metalshop/stick-welder.md)
