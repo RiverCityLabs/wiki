@@ -6,6 +6,8 @@ description: >-
 
 # Screen Printing
 
+**Stored in the back room**
+
 ![](../.gitbook/assets/img_20190827_192101.jpg)
 
 ![](../.gitbook/assets/4colorscreenprintingmachine.png)

@@ -4,6 +4,8 @@ description: 'Performax Model: 240-2978'
 
 # Oscillating Spindle Sander
 
+**\*\*\*\*\*\* Stored in a bin in cabinet \#1 in the back room \*\*\*\*\***
+
 ![](../.gitbook/assets/image%20%2847%29.png)
 
 ## Useful Links
