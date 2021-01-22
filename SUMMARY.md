@@ -63,6 +63,7 @@
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
   * [Vinyl Cutter - Redsail](miscellaneous-tools/vinyl-cutter.md)
   * [Sewing Machines](miscellaneous-tools/sewing-machines.md)
+  * [Dremel](miscellaneous-tools/dremel.md)
 * [Recording Studio](recording-studio.md)
 * [Members](members/README.md)
   * [Forms](members/forms.md)
