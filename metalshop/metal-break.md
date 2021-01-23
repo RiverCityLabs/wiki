@@ -4,7 +4,7 @@ description: Central Machinery 36" Metal Break with Stand
 
 # Metal Break
 
-**Stored in the back room**
+\*\*\*\*\* **Stored in the back room \*\*\*\*\***
 
 ![](../.gitbook/assets/break.png)
 

@@ -4,6 +4,8 @@ description: Delta 6" Belt / 12" Disc Sanding Center
 
 # Disc Sanding Center
 
+**\*\*\*\*\*\* Sanding disks and belts are stored in cabinet \#1 in the back room \*\*\*\*\***
+
 ![](../.gitbook/assets/image%20%2844%29.png)
 
 ## Useful Links

@@ -1,6 +1,6 @@
 # Compact Bender
 
-**Stored in the back room**
+\*\*\*\*\* **Stored in the back room \*\*\*\*\***
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 

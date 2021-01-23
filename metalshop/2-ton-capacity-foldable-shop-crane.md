@@ -1,6 +1,6 @@
 # 2 Ton Capacity Foldable Shop Crane
 
-**Stored in the back room**
+\*\*\*\*\* **Stored in the back room \*\*\*\*\***
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
