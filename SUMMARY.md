@@ -14,7 +14,7 @@
   * [Probotix CNC Router](cnc/probotix-cnc-router.md)
   * [Shapeoko XXL CNC Router](cnc/shapeoko-xxl-cnc-router.md)
   * [Pocket NC V2-50](cnc/pocket-nc-v2-50.md)
-  * [CNC Mill](cnc/cnc-mill.md)
+  * [Grizzly CNC Mill](cnc/grizzly-cnc-mill.md)
 * [Lasers](lasers/README.md)
   * [LightBurn](lasers/lightburn.md)
   * [BFL Laser](lasers/bfl.md)

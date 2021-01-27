@@ -2,7 +2,7 @@
 description: Grizzly G0704
 ---
 
-# CNC Mill
+# Grizzly CNC Mill
 
 ![](../.gitbook/assets/image%20%28117%29.png)
 
