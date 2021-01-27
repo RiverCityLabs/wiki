@@ -1,8 +1,8 @@
 # Power Tools
 
+![](../.gitbook/assets/image%20%28119%29.png)
 
-
-Porter Cable Power Tools
+**Porter Cable Power Tools**
 
 * Jigsaw \(PCC650\)
 *  Palm Sander \(PCCW250\)
