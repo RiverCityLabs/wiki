@@ -23,6 +23,7 @@
   * [Chiller](lasers/chiller.md)
 * [Woodshop](woodshop/README.md)
   * [Safety](woodshop/safety.md)
+  * [Power Tools](woodshop/power-tools.md)
   * [SawStop](woodshop/sawstop.md)
   * [Sliding Compound Miter Saw](woodshop/sliding-compound-miter-saw.md)
   * [Drill Press](woodshop/drill-press.md)
