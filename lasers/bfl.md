@@ -12,6 +12,8 @@ description: 80 watt CO2 Laser
 * \*\*\*\*[**Lightburn Documentation**](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)\*\*\*\*
 * \*\*\*\*[**Lightburn Forum**](https://forum.lightburnsoftware.com/)\*\*\*\*
 
+{% page-ref page="bfl.md" %}
+
 \*\*\*\*
 
 ## **Maintenance**
