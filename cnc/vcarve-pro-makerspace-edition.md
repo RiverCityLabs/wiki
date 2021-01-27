@@ -4,6 +4,12 @@
 
 
 
+## Installing the Desktop Client
+
+1. Install the free VCarve Pro Trial Edition. When prompter for your email use your rivercitylabs.space email. This email is usually in the format first_name.last_name@rivercitylabs.space
+2. Go to Help \| About VCarve Pro Trial Edition and click on "Enter Makerspace ID"
+3. Enter our Makerspace ID \(provided later\)
+
 ## Useful Links
 
 [Take the tour](https://youtu.be/q_Or6ELVc4Q)
