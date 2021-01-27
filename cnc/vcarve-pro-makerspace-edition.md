@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/image%20%28123%29.png)
 
-
+RCL owns a license of VCarve Pro Makerspace Edition. This license entitles RCL to install the full version of VCarve Pro on up to five computers at our facility. It also entitles members to a free copy of VCarve Pro Makerspace Edition Desktop Client to load on their computer. The desktop client allows you to have an almost fully working copy of VCarve Pro on your computer so you can work on your projects at home without having to come to the space. The only limitation of the desktop client is that it can not export your designs in a way that you can use on a CNC machine. To use your design you will need to come into the space and use one of the full copies of VCarve Pro to export your design and cut it on a CNC machine.
 
 ## Installing the Desktop Client
 
