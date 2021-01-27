@@ -1,6 +1,6 @@
 # VCarve Pro Makerspace Edition
 
-
+![](../.gitbook/assets/image%20%28119%29.png)
 
 ## Useful Links
 
