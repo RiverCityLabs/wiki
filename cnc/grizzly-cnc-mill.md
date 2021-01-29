@@ -16,8 +16,9 @@ description: Grizzly G0704
 
 * Motor size: 1 HP
 * Table size: 26-5/8" x 7-1/16"
-* Longitudinal travel: 18-7/8"
-* Cross travel: 6-7/8"
+* Longitudinal travel: 450mm \(17.71"\)
+* Cross travel: 120mm \(4.72"\)
+* T-Nut Size: 7/16"
 * Spindle taper: R-8
 * Number of speeds: Variable
 * Max spindle to table distance: 13"
