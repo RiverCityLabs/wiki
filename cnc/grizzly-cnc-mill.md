@@ -24,5 +24,10 @@ description: Grizzly G0704
 * Max spindle to table distance: 13"
 * Max spindle to column distance: 7-1/2"
 
+## Tooling
 
-
+* R-8 collet set
+* Titanium nitride coated end mill set, 20 Pc.
+* Dial gauges and magnetic base
+* T-slot clamping set
+* 
