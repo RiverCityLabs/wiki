@@ -1,6 +1,6 @@
 ---
 description: >-
-  a description of the proposed automations at the space to reduce the effort
+  A description of the proposed automations at the space to reduce the effort
   involved in running it
 ---
 
@@ -13,14 +13,14 @@ The current iteration of the RCL automation stack is location in this [gitlab re
 ## New member invitations to slack.
 
 1. Current State: 
-   1. when a new member registers and pays for a membership, the officers look for the payment received email, then send the slack invite \(maybe type a nice welcome message\), set a reminder for 30 days to add them to the door access channel \(1 month probation\), then follow up a month later to add them to the door access channel.
+   1. When a new member registers and pays for a membership, the officers look for the payment received email, then send the slack invite \(maybe type a nice welcome message\), set a reminder for 30 days to add them to the door access channel \(1 month probation\), then follow up a month later to add them to the door access channel.
 2. Proposed State: 
-   1. a daily script is ran that pulls the latest membership data from our membership management site, determines if anyone become members the previous day, determines if anyone needs to be added to the door access channel, and sends out slack invites as necessary.
+   1. A daily script is ran that pulls the latest membership data from our membership management site, determines if anyone become members the previous day, determines if anyone needs to be added to the door access channel, and sends out slack invites as necessary.
 
 ## Self Service Portal
 
 1. Current State
-   1. creating a new gsuite user is manual
+   1. Creating a new Gsuite user is manual
 2. Proposed State
    1. Some kind of self service google form that allows RCL members to request a Gsuite account, or any other account or service so an officer doesn't need to.
 
@@ -42,5 +42,5 @@ The current iteration of the RCL automation stack is location in this [gitlab re
 
 ## Automated Maintenance Reminders
 
-1. slash command to set up new tasks with time intervals, then post to slack when due, and daily reminders when not completed. Completed tasks no longer notified daily and are set for the next time interval
+1. Slash command to set up new tasks with time intervals, then post to slack when due, and daily reminders when not completed. Completed tasks no longer notified daily and are set for the next time interval
 
