@@ -9,6 +9,8 @@ If you're the last one out of the space, you'll need to lock it up. Below are th
   * Kitchen
   * Large space 
   * Clean space
+  * Back room
 * If the "Makerspace Beacon" is lit \(it's by the clean room light switches\), please turn it off
 * Check that the front door is locked and closed
+* Check that the door to the back room is locked and closed
 
