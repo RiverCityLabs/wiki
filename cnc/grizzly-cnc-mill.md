@@ -31,3 +31,13 @@ description: Grizzly G0704
 * Dial gauges and magnetic base
 * T-slot clamping set
 * 
+#### How to use a Strap Clamp Kit 
+
+Tormach machinist Mike Corliss demonstrates how to use the Strap Clamp Kit for basic workholding. Using a combination of nuts, t-nuts, studs, extended studs, and step blocks, Corliss shows how to strap a part to the table and at [4:57](https://www.youtube.com/watch?v=cS_KkHOe8dc&t=297s)​ how to support a long workpiece that is hanging out of a vice.  
+  
+[Howto use a strap clamp set](https://www.youtube.com/watch?v=cS_KkHOe8dc)
+
+![Combination Step Block And Clamp Set](../.gitbook/assets/image%20%28131%29.png)
+
+
+
