@@ -6,12 +6,6 @@ description: Grizzly G0704
 
 ![](../.gitbook/assets/image%20%28117%29.png)
 
-## Useful Links
-
-[Manual](https://drive.google.com/file/d/1ugijrJbTJ6xL7cI6AJdM4XCdyn13UwDp/view?usp=sharing)
-
-[Specs](https://drive.google.com/file/d/1OgEu6Z53OMu2ozl_onwDVhtvIWdLNl2x/view?usp=sharing)
-
 ## Specifications
 
 * Motor size: 1 HP
@@ -23,6 +17,14 @@ description: Grizzly G0704
 * Number of speeds: Variable
 * Max spindle to table distance: 13"
 * Max spindle to column distance: 7-1/2"
+
+## Useful Links
+
+[Manual](https://drive.google.com/file/d/1ugijrJbTJ6xL7cI6AJdM4XCdyn13UwDp/view?usp=sharing)
+
+[Specs](https://drive.google.com/file/d/1OgEu6Z53OMu2ozl_onwDVhtvIWdLNl2x/view?usp=sharing)
+
+[Tormach Machining Tips and How To's](https://www.youtube.com/playlist?list=PLD30BEC599D6128AE)
 
 ## Tooling
 
