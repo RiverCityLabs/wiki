@@ -28,16 +28,26 @@ description: Grizzly G0704
 
 * R-8 collet set
 * Titanium nitride coated end mill set, 20 Pc.
-* Dial gauges and magnetic base
-* T-slot clamping set
+* Dial indicators and magnetic base
+* T-slot Strap Clamp Kit
 * 
-#### How to use a Strap Clamp Kit 
+#### How to use an R-8 Collet
 
-Tormach machinist Mike Corliss demonstrates how to use the Strap Clamp Kit for basic workholding. Using a combination of nuts, t-nuts, studs, extended studs, and step blocks, Corliss shows how to strap a part to the table and at [4:57](https://www.youtube.com/watch?v=cS_KkHOe8dc&t=297s)​ how to support a long workpiece that is hanging out of a vice.  
+add links on using R-8 collet set
+
+#### How to use dial indicators
+
+add links on using dial indicators
+
+#### How to use a T-slot Strap Clamp Kit 
+
+[In this video](https://www.youtube.com/watch?v=cS_KkHOe8dc), Tormach machinist Mike Corliss demonstrates how to use the Strap Clamp Kit for basic workholding. Using a combination of nuts, t-nuts, studs, extended studs, and step blocks, Corliss shows how to strap a part to the table and at [4:57](https://www.youtube.com/watch?v=cS_KkHOe8dc&t=297s)​ how to support a long workpiece that is hanging out of a vice.  
   
-[Howto use a strap clamp set](https://www.youtube.com/watch?v=cS_KkHOe8dc)
+[In this video](https://www.youtube.com/watch?v=lCJyCT_Tqo8), Tormach machinist, Scott Johnson, provides some insight about one of the most important, yet under-emphasized, elements of machining - workholding.
 
-![Combination Step Block And Clamp Set](../.gitbook/assets/image%20%28131%29.png)
+![](../.gitbook/assets/image%20%28132%29.png)
+
+
 
 
 
