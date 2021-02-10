@@ -26,6 +26,8 @@ description: Grizzly G0704
 
 [Tormach Machining Tips and How To's](https://www.youtube.com/playlist?list=PLD30BEC599D6128AE)
 
+[Quinn Dunki from Blondihacks has a great set of videos on various machining topics](https://www.youtube.com/c/Blondihacks/featured)
+
 ## Tooling
 
 * R-8 collet set
