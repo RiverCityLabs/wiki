@@ -12,6 +12,8 @@ RCL owns a license of VCarve Pro Makerspace Edition. This license entitles RCL t
 
 ## Useful Links
 
+[Introduction to CNC](https://archive.vectric.com/support/introduction-to-cnc.html)
+
 [Take the tour](https://youtu.be/q_Or6ELVc4Q)
 
 [Tutorials](https://www.vectric.com/support/tutorials/vcarve-pro)
