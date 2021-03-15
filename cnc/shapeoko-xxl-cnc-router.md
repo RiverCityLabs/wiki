@@ -8,13 +8,9 @@ description: Shapeoko XXL
 
 ## Useful Links
 
-[Shapeoko Support Pages](https://docs.carbide3d.com/support/)
-
-[Tightening Eccentric Nuts](https://docs.carbide3d.com/support/tensioning-eccentrics/)
-
-[Shapeoko XXL Wasteboard layout](https://docs.carbide3d.com/support/supportfiles/S3_XXL_Wasteboard.pdf)
-
-[Carbide Updater](https://docs.carbide3d.com/support/carbideupdater/)
-
-
+* [Shapeoko Support Pages](https://docs.carbide3d.com/support/)
+* [Tightening Eccentric Nuts](https://docs.carbide3d.com/support/tensioning-eccentrics/)
+* [Shapeoko XXL Wasteboard layout](https://docs.carbide3d.com/support/supportfiles/S3_XXL_Wasteboard.pdf)
+* [Carbide Updater](https://docs.carbide3d.com/support/carbideupdater/)
+* [Carbide Motion User Guide](https://docs.carbide3d.com/assembly/carbidemotion/userguide/)
 
