@@ -103,7 +103,6 @@
   * [RCL Automation](administration/rcl-automation.md)
   * [YouTube Upload Process](administration/youtube-upload-process.md)
   * [Trello](administration/trello.md)
-  * [Treasurer](administration/treasurer.md)
 * [Meetings](meetings/README.md)
   * [Officers](meetings/officers/README.md)
     * [2021](meetings/officers/2021/README.md)
