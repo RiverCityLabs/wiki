@@ -1,6 +1,10 @@
 # Table of contents
 
 * [River City Labs](README.md)
+* [Electronics Bench](electronics-bench/README.md)
+  * [Analog Scope](electronics-bench/analog-scope.md)
+  * [Mixed Signal Scope](electronics-bench/mixed-signal-scope.md)
+  * [Digital Oscilloscope](electronics-bench/digital-oscilloscope.md)
 * [3D Printers](3d-printers/README.md)
   * [How to Print](3d-printers/how-to-print.md)
   * [RCL - Lulzbot TAZ 6](3d-printers/rcl-taz.md)
@@ -61,10 +65,6 @@
   * [2 Ton Capacity Foldable Shop Crane](metalshop/2-ton-capacity-foldable-shop-crane.md)
   * [Compressor](metalshop/compressor.md)
   * [Miscellaneous Air Tools](metalshop/miscellaneous-air-tools.md)
-* [Electronics](electronics/README.md)
-  * [Madell CA8016B Oscilloscope](electronics/madell-ca8016b-oscilloscope.md)
-  * [Leader 3100A Oscilloscope](electronics/leader-3100a-oscilloscope.md)
-  * [Agilent 54621D Oscilloscope](electronics/agilent-54621d-oscilloscope.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
   * [Vinyl Cutter - Redsail](miscellaneous-tools/vinyl-cutter.md)
