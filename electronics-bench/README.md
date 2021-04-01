@@ -1,4 +1,2 @@
 # Electronics Bench
 
-Electronics
-
