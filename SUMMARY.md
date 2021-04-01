@@ -1,10 +1,6 @@
 # Table of contents
 
 * [River City Labs](README.md)
-* [Electronics Bench](electronics-bench/README.md)
-  * [Analog Scope](electronics-bench/analog-scope.md)
-  * [Mixed Signal Scope](electronics-bench/mixed-signal-scope.md)
-  * [Digital Oscilloscope](electronics-bench/digital-oscilloscope.md)
 * [3D Printers](3d-printers/README.md)
   * [How to Print](3d-printers/how-to-print.md)
   * [RCL - Lulzbot TAZ 6](3d-printers/rcl-taz.md)
@@ -19,6 +15,10 @@
   * [Shapeoko XXL CNC Router](cnc/shapeoko-xxl-cnc-router.md)
   * [Pocket NC V2-50](cnc/pocket-nc-v2-50.md)
   * [Grizzly CNC Mill](cnc/grizzly-cnc-mill.md)
+* [Electronics Bench](electronics-bench/README.md)
+  * [Analog Scope](electronics-bench/analog-scope.md)
+  * [Mixed Signal Scope](electronics-bench/mixed-signal-scope.md)
+  * [Digital Scope](electronics-bench/digital-oscilloscope.md)
 * [Lasers](lasers/README.md)
   * [LightBurn](lasers/lightburn.md)
   * [BFL Laser](lasers/bfl.md)
