@@ -6,7 +6,7 @@ RCL owns a license of VCarve Pro Makerspace Edition. This license entitles RCL t
 
 ## Installing the Desktop Client
 
-1. Install the free VCarve Pro Trial Edition. **When prompted for your email use must use your rivercitylabs.space email.** This email is usually in the format first\__name.last\__name@rivercitylabs.space. If you don't have your RCL email please post to the slack maintenance channel.
+1. Install the free VCarve Pro Trial Edition from [https://www.vectric.com/free-trial/vcarve-pro](https://www.vectric.com/free-trial/vcarve-pro). 
 2. Go to Help \| About VCarve Pro Trial Edition and click on "Enter Makerspace ID"
 3. Enter our Makerspace ID \(provided later\)
 
