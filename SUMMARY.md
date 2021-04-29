@@ -43,7 +43,6 @@
   * [Oscillating Spindle Sander](woodshop/oscillating-spindle-sander.md)
   * [Scroll Saw](woodshop/scroll-saw.md)
   * [Air Filtration System](woodshop/air-filtration-system.md)
-  * [Panel Saw](woodshop/panel-saw.md)
   * [Biscuit Joiner](woodshop/biscuit-joiner.md)
   * [Router Table](woodshop/router-table.md)
   * [Panel Saw](woodshop/panel-saw-1.md)
