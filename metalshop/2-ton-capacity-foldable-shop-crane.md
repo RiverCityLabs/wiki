@@ -1,3 +1,7 @@
+---
+description: Pittsburgh Automotive 2 Ton Capacity Foldable Shop Crane
+---
+
 # 2 Ton Capacity Foldable Shop Crane
 
 \*\*\*\*\* **Stored in the back room \*\*\*\*\***

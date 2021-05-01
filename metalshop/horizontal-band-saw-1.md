@@ -1,3 +1,7 @@
+---
+description: Harbor Freight Horizontal Band Saw Model 63469
+---
+
 # Horizontal Band Saw
 
 ![](../.gitbook/assets/image%20%28101%29.png)
