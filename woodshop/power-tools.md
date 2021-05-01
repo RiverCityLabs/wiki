@@ -1,5 +1,7 @@
 # Power Tools
 
+**\*\*\* These tools were generously donated to the space by Joe Spanier**
+
 ![](../.gitbook/assets/image%20%28120%29.png)
 
 **Porter Cable Power Tools**
