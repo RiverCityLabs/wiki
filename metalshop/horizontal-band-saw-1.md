@@ -14,6 +14,8 @@ Model 63469
 
 Blade: 93.5" L x 0.75" W x 0.031′′ Thick
 
+Coolant reservoir is filled with about 2 gallons of Xtreme Cut 251C coolant at a 10:1 ratio.
+
 ## Consumables
 
 [Blade](https://www.mcmaster.com/1997A209/) - Anti-Vibration Long-Life, .075" Wide x 0.035" Thick, 93.5" Long, 10-14 teeth/inch
