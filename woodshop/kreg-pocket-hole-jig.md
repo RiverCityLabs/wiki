@@ -2,6 +2,8 @@
 
 **\*\*\*\*\*\* Stored in a bin in cabinet \#1 in the back room \*\*\*\*\***
 
+**\*\*\* This tool was purchased with a donation from Fred Bliss**
+
 Kreg Pocket-Hole Jig K4 Master System  
 
 
