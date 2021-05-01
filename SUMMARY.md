@@ -8,7 +8,6 @@
   * [Bliss - i4](3d-printers/bliss-i4.md)
   * [RCL - Wanhao D7](3d-printers/wanhao-d7.md)
   * [RCL - Printrbot Simple Metal](3d-printers/printrbot-simple-metal.md)
-  * [Photos](3d-printers/photos.md)
 * [CNC](cnc/README.md)
   * [VCarve Pro Makerspace Edition](cnc/vcarve-pro-makerspace-edition.md)
   * [Probotix CNC Router](cnc/probotix-cnc-router.md)
