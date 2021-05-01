@@ -4,6 +4,8 @@ description: Shapeoko XXL
 
 # Shapeoko XXL CNC Router
 
+**\*\*\* The Shapeoko XXL CNC router is a donation to the space from** 
+
 ![](../.gitbook/assets/image%20%28114%29.png)
 
 ## Useful Links
