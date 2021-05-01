@@ -27,3 +27,9 @@ Video on building the manometer can be access [here](https://www.youtube.com/wat
 
 ![](../.gitbook/assets/image%20%28106%29.png)
 
+
+
+This is the original dust collection system from Harbor Freight
+
+![](../.gitbook/assets/image%20%28133%29.png)
+
