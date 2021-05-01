@@ -4,6 +4,8 @@ description: BENCH MODEL
 
 # Bader BIII Belt Grinder
 
+**\*\*\* The Bader belt grinder is on loan to the space from Patrick Black**
+
 ![](../.gitbook/assets/image%20%2834%29.png)
 
 ## Useful Links

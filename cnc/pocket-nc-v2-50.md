@@ -2,6 +2,8 @@
 
 **\*\*\*\*\* The Pocket NC V2-50 REQUITES AN AIR COMPRESSOR TO OPERATE. NEVER OPERATE IT WITHOUT THE AIR COMPRESSOR ATTACHED!!! THIS WILL DESTROY THE AIR BEARING!!! \*\*\*\*\***
 
+**\*\*\* The Pocket NC V2-50 is on loan to the space from William Staple**s
+
 ![](../.gitbook/assets/image%20%28116%29.png)
 
 

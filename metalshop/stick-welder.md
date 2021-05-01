@@ -4,6 +4,8 @@ description: Lincoln Buzz Box
 
 # Stick Welder
 
+**\*\*\* The stick welder is on load to the space from Alan Hennis**
+
 ![](../.gitbook/assets/lincolnbuzzbox.png)
 
 ## Guides
