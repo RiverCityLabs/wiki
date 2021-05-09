@@ -8,6 +8,12 @@
 
 [Official TAZ 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 
+[Titan Aero assembly](https://e3d-online.dozuki.com/Guide/Titan+Aero+Assembly/23?lang=en)
+
+[Hot end tool assembly ](https://ohai.lulzbot.com/project/dual-extruder-v3/hot-end-tool-head-assembly/)
+
+
+
 ## How to Print
 
 Please refer to the [How to Print](how-to-print.md) guide for detailed instructions
