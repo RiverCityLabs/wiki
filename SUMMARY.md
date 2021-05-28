@@ -116,7 +116,7 @@
       * [2-4-2020](meetings/officers/2020/2-4-2020.md)
       * [3-4-2020](meetings/officers/2020/3-4-2020.md)
       * [7-9-2020](meetings/officers/2020/7-9-2020.md)
-  * [Members](meetings/members/README.md)
+  * [River city labs Voting Meeting](meetings/members/README.md)
     * [2021](meetings/members/2021/README.md)
       * [05-20-2021](meetings/members/2021/05-20-2021.md)
       * [04-21-2021](meetings/members/2021/04-21-2021.md)
