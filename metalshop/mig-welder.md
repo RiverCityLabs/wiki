@@ -8,7 +8,9 @@ description: Everlast Power i-MIG 200
 
 ## Useful Links
 
-Manual
+[Manual](https://drive.google.com/file/d/1hVSEWdR_c4G5G67je7SYSmlv4JCDpSMw/view?usp=sharing)
+
+[Quick Adjustment Guide](https://drive.google.com/file/d/18Gtr1K74MjmGCXqpJdKfGpsiv-fv7k_q/view?usp=sharing)
 
 ## Specifications
 
