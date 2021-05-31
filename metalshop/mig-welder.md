@@ -12,7 +12,11 @@ Manual
 
 ## Specifications
 
-
+* Weld up to a maximum of 5/16"  Steel/Stainless single pass weld\* 240V
+* Weld up to a maximum of 1/2"  Steel/Stainless multiple pass weld 240V
+* Weld a minimum of 24 gauge Steel/Stainless\*\* 120/240V
+* Weld a maximum of 1/8" Steel/Stainless single pass weld 120V
+* Weld a maximum of 1/4"  Steel/Stainless multi-pass weld 120V
 
 ## Consumables
 
