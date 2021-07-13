@@ -1,10 +1,12 @@
-# RCL - Lulzbot TAZ 6
+# Radford Lulzbot TAZ 6
 
-![](../.gitbook/assets/lulzbot-taz6.jpg)
+![Radford Lulzbot TAZ 6](../.gitbook/assets/lulzbot-taz6.jpg)
+
+
 
 ## Useful Links
 
-[RCL TAZ 6 Octoprint](https://taz6-rivercitylabs.malamaker.org/)
+[Radford Taz 6 Octoprint](http://rivercitylabs.zapto.org:13080)
 
 [Official TAZ 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 

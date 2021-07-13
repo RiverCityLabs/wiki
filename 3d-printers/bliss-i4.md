@@ -1,8 +1,8 @@
-# Bliss - i4
+# Fred's RCL i4
 
 ## Useful Links
 
-needs a link to Octoprint
+[Fred's RCLi4 Octoprint](http://rivercitylabs.zapto.org:12080)
 
 ## How to Print
 
