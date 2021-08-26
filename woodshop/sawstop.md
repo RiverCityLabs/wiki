@@ -8,6 +8,10 @@ description: Professional Cabinet Saw (PCS)
 
 ![](../.gitbook/assets/professional-cabinet-saw%20%282%29.jpg)
 
+## Miscelanous Info
+
+There is an extension cord for the SawStop. It should be hanging on the wall by the 220 volt outlet.
+
 ## Useful Links
 
 [Getting Started](https://drive.google.com/open?id=1uNxufF2D_sIeUUZ9ADy_mIctH4-KHZR4)
