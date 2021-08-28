@@ -49,7 +49,6 @@
   * [Dust Collector](woodshop/dust-collector.md)
 * [Metalshop](metalshop/README.md)
   * [Blacksmith Shop](metalshop/blacksmith-shop/README.md)
-    * [Bader BIII Belt Grinder](metalshop/blacksmith-shop/bader-biii-belt-grinder.md)
     * [Forge](metalshop/blacksmith-shop/forge.md)
     * [Forge Press](metalshop/blacksmith-shop/forge-press.md)
   * [Bader BIII Belt Grinder](metalshop/bader-biii-belt-grinder.md)
