@@ -70,6 +70,7 @@
   * [Compressor](metalshop/compressor.md)
   * [Miscellaneous Air Tools](metalshop/miscellaneous-air-tools.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
+  * [Circut Maker](miscellaneous-tools/circut-maker.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
   * [Vinyl Cutter - Redsail](miscellaneous-tools/vinyl-cutter.md)
   * [Sewing Machines](miscellaneous-tools/sewing-machines.md)

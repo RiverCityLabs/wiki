@@ -8,7 +8,7 @@ description: CENTRAL MACHINERY 20 Ton H-Frame Floor Shop Press
 
 **\*\*\* The shop crane was donated to the space by Alan Hennis**
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../.gitbook/assets/image%20%28150%29.png)
 
 \*\*\*\*
 
