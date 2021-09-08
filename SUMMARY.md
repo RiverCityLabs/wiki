@@ -114,6 +114,7 @@
 * [Meetings](meetings/README.md)
   * [Officers](meetings/officers/README.md)
     * [2021](meetings/officers/2021/README.md)
+      * [09/07/2021](meetings/officers/2021/09-07-2021.md)
       * [08/10/2021](meetings/officers/2021/08-10-2021.md)
       * [07/14/2021](meetings/officers/2021/07-14-2021.md)
       * [06/08/2021](meetings/officers/2021/06-08-2021.md)
