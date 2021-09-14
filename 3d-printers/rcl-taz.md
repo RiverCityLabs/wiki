@@ -6,7 +6,7 @@
 
 ## Useful Links
 
-[Radford Taz 6 Octoprint](http://rivercitylabs.zapto.org:13080)
+[Radford Taz 6 Octoprint](https://3dprinter1.rivercitylabs.space) - login info is on the printer
 
 [Official TAZ 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 

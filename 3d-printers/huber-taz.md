@@ -4,7 +4,7 @@
 
 ## Useful Links
 
-[Huber TAZ 6 Octoprint](http://rivercitylabs.zapto.org:11080) - login info is on the printer
+[Huber TAZ 6 Octoprint](https://3dprinter2.rivercitylabs.space) - login info is on the printer
 
 [Official TAZ 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 

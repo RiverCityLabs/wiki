@@ -2,7 +2,7 @@
 
 ## Useful Links
 
-[Fred's RCLi4 Octoprint](http://rivercitylabs.zapto.org:12080)
+[Fred's RCLi4 Octoprint](https://3dprinter3.rivercitylabs.space)
 
 ## How to Print
 
