@@ -1,22 +1,2 @@
 # 2021
 
-Attendees: Jeep, Alan, Fred, Sam, Don
-
-Agenda:
-
-* What's happening new in the space
-  * Forge Press
-  * Cricut
-  * Fred contributed to mblock's repo  as a developer representing RCL
-  * Gas for the mig refilled and setup \(5year lease\). Joey to be pick up the old bottle
-  * Top shelf bracket installed, light moved outside of the shelf for better lighting \(3d printer room\)
-* Show intel
-  * None Showed up
-* Bathroom Door
-  * To get a different door stop, that comes with all the assembly item necessary \(Fred to order it\)
-  * Keep it closed when in use or otherwise
-* Regular housekeeping request
-  * Beer as a token of appreciation \(on yourself :P \)
-
-Please refer to the [officer's meeting minutes](https://wiki.rivercitylabs.space/meetings/officers/2021/09-07-2021) for more details
-

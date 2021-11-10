@@ -54,7 +54,7 @@
   * [Bader BIII Belt Grinder](metalshop/bader-biii-belt-grinder.md)
   * [Metal Break](metalshop/metal-break.md)
   * [MIG Welder](metalshop/mig-welder.md)
-  * [MIG Welder \(old\)](metalshop/mig-welder-old.md)
+  * [MIG Welder (old)](metalshop/mig-welder-old.md)
   * [TIG-Welder](metalshop/tig-welder.md)
   * [Stick Welder](metalshop/stick-welder.md)
   * [Lathe](metalshop/lathe.md)
@@ -114,11 +114,14 @@
 * [Meetings](meetings/README.md)
   * [Officers](meetings/officers/README.md)
     * [2021](meetings/officers/2021/README.md)
+      * [11/09/2021](meetings/officers/2021/11-09-2021.md)
+      * [10/05/2021](meetings/officers/2021/10-05-2021.md)
       * [09/07/2021](meetings/officers/2021/09-07-2021.md)
       * [08/10/2021](meetings/officers/2021/08-10-2021.md)
       * [07/14/2021](meetings/officers/2021/07-14-2021.md)
       * [06/08/2021](meetings/officers/2021/06-08-2021.md)
       * [05/11/2021](meetings/officers/2021/05-11-2021.md)
+      * [04/12/2021](meetings/officers/2021/04-12-2021.md)
       * [03/09/2021](meetings/officers/2021/03-09-2021.md)
       * [01/12/2021](meetings/officers/2021/01-12-2021.md)
     * [2020](meetings/officers/2020/README.md)
@@ -145,11 +148,10 @@
   * [Midwest Mask](covid-19/midwest-mask.md)
   * [How you can help](covid-19/how-you-can-help.md)
   * [Intubation Aerosol Shield](covid-19/intubation-aerosol-shield.md)
-  * [The "MalaMask" Project \(N95 Alternative Filter\)](covid-19/3d-printed-masks.md)
+  * [The "MalaMask" Project (N95 Alternative Filter)](covid-19/3d-printed-masks.md)
 
 ## Guides
 
 * [Contributing to the Wiki](guides/contributing.md)
 * [POS Terminal Setup](guides/pos-terminal-setup.md)
 * [Caterpillar Foundation Matching](guides/caterpillar-foundation-matching.md)
-
