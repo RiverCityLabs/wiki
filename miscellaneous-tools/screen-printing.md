@@ -8,9 +8,7 @@ description: >-
 
 **Stored in the back room**
 
-![](../.gitbook/assets/img_20190827_192101.jpg)
+![](../.gitbook/assets/IMG\_20190827\_192101.jpg)
 
-![](../.gitbook/assets/4colorscreenprintingmachine.png)
-
-
+![](../.gitbook/assets/4ColorScreenPrintingMachine.png)
 

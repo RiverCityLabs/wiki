@@ -2,7 +2,7 @@
 
 \*\*\*\*\* **Stored in the back room \*\*\*\*\***
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](<../.gitbook/assets/image (62).png>)
 
 Bends round or square bar stock up to 5/8 in. thick with a maximum width up to 1-15/16 in.
 
@@ -11,4 +11,3 @@ Bends round or square bar stock up to 5/8 in. thick with a maximum width up to 1
 * Handle telescopes to 44 in.
 
 [Manual](https://drive.google.com/open?id=1X5wdgNt47RzIoGUEzllrHGrx9u6ddlvE)
-

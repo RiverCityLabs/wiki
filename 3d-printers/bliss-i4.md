@@ -11,29 +11,29 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
 ## Slicer Setup
 
 1. Open Cura LE
-2. Go to Settings &gt; Printers &gt; Add printer
-3. Click Other \(see figure 1\)
-4. Click "Custom" then "Custom FDM Printer" then click Add Printer \(see figure 2\)
+2. Go to Settings > Printers > Add printer
+3. Click Other (see figure 1)
+4. Click "Custom" then "Custom FDM Printer" then click Add Printer (see figure 2)
 5. Click Add Printer
 6. Enter Machine Setting config noted below
    1. Follow the Green Boxes
    2. Printer Tab
-      1. Configure Printer \(see figure 3.1\)
-      2. Enter custom start Gcode \(see figure 3.2\)
-      3. Enter custom end Gcode \(See figure 3.3\)
+      1. Configure Printer (see figure 3.1)
+      2. Enter custom start Gcode (see figure 3.2)
+      3. Enter custom end Gcode (See figure 3.3)
    3. Hot End Tab
-      1. Configure Hotend \(see figure 4\)
+      1. Configure Hotend (see figure 4)
 7. Click Finish
 
-![figure 1](../.gitbook/assets/image%20%2849%29.png)
+![figure 1](<../.gitbook/assets/image (46).png>)
 
-![Figure 2](../.gitbook/assets/image%20%2860%29.png)
+![Figure 2](<../.gitbook/assets/image (47).png>)
 
-![Figure 3.1](../.gitbook/assets/image%20%2840%29.png)
+![Figure 3.1](<../.gitbook/assets/image (49).png>)
 
 Custom Start Gcode - Figure 3.2
 
-```text
+```
 ;This profile is designed specifically for RCLi4 3D Printer
 ;Basic slice data:
 ;Sliced at: {day} {date} {time}
@@ -100,7 +100,7 @@ M117 RCLi4 Printing...         ; LCD status message
 
 Custom End Gcode - Figure 3.3
 
-```text
+```
 ;End GCode
 M104 S0                     ;extruder heater off
 M140 S0                     ;heated bed heater off (if you have it)
@@ -113,5 +113,4 @@ G90                         ;absolute positioning
 ;{profile_string}
 ```
 
-![Figure 4](../.gitbook/assets/image%20%285%29.png)
-
+![Figure 4](<../.gitbook/assets/image (50).png>)

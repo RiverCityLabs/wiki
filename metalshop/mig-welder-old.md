@@ -2,13 +2,13 @@
 description: 'Chicago Electric Dual MIG Welder. Model: 94164'
 ---
 
-# MIG Welder \(old\)
+# MIG Welder (old)
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](<../.gitbook/assets/image (14).png>)
 
 ## Useful Links
 
-[Manual](https://drive.google.com/open?id=1sEncS-QVZqNk-edpvJrYu_3Ug3rL3Ajw)
+[Manual](https://drive.google.com/open?id=1sEncS-QVZqNk-edpvJrYu\_3Ug3rL3Ajw)
 
 ## Specifications
 
@@ -18,17 +18,16 @@ description: 'Chicago Electric Dual MIG Welder. Model: 94164'
 
 ## Consumables
 
-We can get the gas bottle refilled with 75% Argon/25% CO2 here:  
-  
-[ILMO Products Company ](https://goo.gl/maps/YxWouCqeBWZy4DWVA)  
-1025 W Olympia Dr  
-\# B  
- Peoria, IL 61615  
+We can get the gas bottle refilled with 75% Argon/25% CO2 here:\
+\
+[ILMO Products Company ](https://goo.gl/maps/YxWouCqeBWZy4DWVA)\
+1025 W Olympia Dr\
+\# B\
+&#x20;Peoria, IL 61615\
 309-282-1913
 
 ## Guides
 
 [Beginners Guide to MIG Welding](https://www.youtube.com/watch?v=QlmOb1tIJ4Y)
 
-[How NOT TO Weld: Most Common MIG Welding Mistakes](https://www.youtube.com/watch?v=Xod-ByrxHg4&t=329s)
-
+[How NOT TO Weld: Most Common MIG Welding Mistakes](https://www.youtube.com/watch?v=Xod-ByrxHg4\&t=329s)

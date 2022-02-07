@@ -4,11 +4,11 @@ description: Kreg Pocket-Hole Jig K4 Master System
 
 # Kreg Pocket-Hole Jig
 
-**\*\*\*\*\*\* Stored in a bin in cabinet \#1 in the back room \*\*\*\*\***
+**\*\*\*\*\*\* Stored in a bin in cabinet #1 in the back room \*\*\*\*\***
 
 **\*\*\* This tool was purchased with a donation from Fred Bliss**
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](<../.gitbook/assets/image (113).png>)
 
 ## Useful Links
 
@@ -17,4 +17,3 @@ description: Kreg Pocket-Hole Jig K4 Master System
 [How to use the Kreg Pocket-Hole Jig](https://youtu.be/ebCb70dcynA)
 
 [How to select the correct pocket-hole screw](https://learn.kregtool.com/learn/how-to-select-right-pocket-hole-screw/)
-

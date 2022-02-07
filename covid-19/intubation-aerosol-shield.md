@@ -8,9 +8,8 @@ This is a large see through box with arm holes and a slot on the side meant for 
 
 We made modifications based on requirements from local HCP for their specific needs. The modifications were made by members of River City Labs
 
-The goal is to minimize edges and metal from the original design to increase the ease of sterilization, and add a slot on the right side so the shield can be removed after intubation. 
+The goal is to minimize edges and metal from the original design to increase the ease of sterilization, and add a slot on the right side so the shield can be removed after intubation.&#x20;
 
 This is the current design that is being approved at this time. Once we finalize a design and get it approved by our local HCP's we'll share the files.
 
-![](../.gitbook/assets/image%20%2841%29.png)
-
+![](<../.gitbook/assets/image (76).png>)

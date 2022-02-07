@@ -4,13 +4,13 @@ description: Everlast Power i-MIG 200
 
 # MIG Welder
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](<../.gitbook/assets/image (139).png>)
 
 ## Useful Links
 
-[Manual](https://drive.google.com/file/d/1hVSEWdR_c4G5G67je7SYSmlv4JCDpSMw/view?usp=sharing)
+[Manual](https://drive.google.com/file/d/1hVSEWdR\_c4G5G67je7SYSmlv4JCDpSMw/view?usp=sharing)
 
-[Quick Adjustment Guide](https://drive.google.com/file/d/18Gtr1K74MjmGCXqpJdKfGpsiv-fv7k_q/view?usp=sharing)
+[Quick Adjustment Guide](https://drive.google.com/file/d/18Gtr1K74MjmGCXqpJdKfGpsiv-fv7k\_q/view?usp=sharing)
 
 ## Specifications
 
@@ -22,17 +22,16 @@ description: Everlast Power i-MIG 200
 
 ## Consumables
 
-We can get the gas bottle refilled with 75% Argon/25% CO2 here:  
-  
-[ILMO Products Company ](https://goo.gl/maps/YxWouCqeBWZy4DWVA)  
-1025 W Olympia Dr  
-\# B  
- Peoria, IL 61615  
+We can get the gas bottle refilled with 75% Argon/25% CO2 here:\
+\
+[ILMO Products Company ](https://goo.gl/maps/YxWouCqeBWZy4DWVA)\
+1025 W Olympia Dr\
+\# B\
+&#x20;Peoria, IL 61615\
 309-282-1913
 
 ## Guides
 
 [Beginners Guide to MIG Welding](https://www.youtube.com/watch?v=QlmOb1tIJ4Y)
 
-[How NOT TO Weld: Most Common MIG Welding Mistakes](https://www.youtube.com/watch?v=Xod-ByrxHg4&t=329s)
-
+[How NOT TO Weld: Most Common MIG Welding Mistakes](https://www.youtube.com/watch?v=Xod-ByrxHg4\&t=329s)

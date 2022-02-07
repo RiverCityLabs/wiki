@@ -2,7 +2,7 @@
 
 ## Technology
 
-The website was created in Hugo, a Go based static site generator. We used the Meghna theme and made some modifications for branding. 
+The website was created in Hugo, a Go based static site generator. We used the Meghna theme and made some modifications for branding.&#x20;
 
 The new RCL site is hosted on [Gitlab Pages](https://about.gitlab.com/product/pages/) in [this repo](https://gitlab.com/RiverCityLabs/website).  The repo is owned by the riveritylabs gmail account.
 
@@ -25,18 +25,17 @@ Any changes to the website must be made through that repo:
 
 DNS for gitlab proved obnoxious. [This thread](https://stackoverflow.com/questions/48913026/gitlab-pages-failed-to-verify-domain-ownership) helped.
 
-![It required setting up two different domains in gitlab pages to have the site with with and without www.](../.gitbook/assets/image%20%2816%29.png)
+![It required setting up two different domains in gitlab pages to have the site with with and without www.](<../.gitbook/assets/image (59).png>)
 
 
 
-For the current gitlab pages ip address, go [here](https://docs.gitlab.com/ee/user/gitlab_com/#gitlab-pages). Use this address for the `@` and `www` A-records
+For the current gitlab pages ip address, go [here](https://docs.gitlab.com/ee/user/gitlab\_com/#gitlab-pages). Use this address for the `@` and `www` A-records
 
-For the verification codes, you can get them from the gitlab project under Settings &gt; Pages &gt; click the domain you want the code for. There are different codes for `@` and `www`.
+For the verification codes, you can get them from the gitlab project under Settings > Pages > click the domain you want the code for. There are different codes for `@` and `www`.
 
-| Record Name | Record Type | Record Value |
-| :--- | :--- | :--- |
-| @ | A | 35.185.44.232 |
-| www | A | 35.185.44.232 |
-| @ | TXT | gitlab-pages-verification-code=aaabbbcccdddeeefffggg |
-| www | TXT | gitlab-pages-verification-code=aaabbbcccdddeeefffggg |
-
+| Record Name | Record Type | Record Value                                         |
+| ----------- | ----------- | ---------------------------------------------------- |
+| @           | A           | 35.185.44.232                                        |
+| www         | A           | 35.185.44.232                                        |
+| @           | TXT         | gitlab-pages-verification-code=aaabbbcccdddeeefffggg |
+| www         | TXT         | gitlab-pages-verification-code=aaabbbcccdddeeefffggg |

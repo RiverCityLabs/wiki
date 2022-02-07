@@ -1,10 +1,10 @@
 # Vinyl Cutter - Redsail
 
-![](../.gitbook/assets/img_20190827_191840.jpg)
+![](../.gitbook/assets/IMG\_20190827\_191840.jpg)
 
 ## Useful Links
 
-[Manual](https://drive.google.com/open?id=12Fksn53m9qx8DPYEIUvpSVd3hyfBDd6_)
+[Manual](https://drive.google.com/open?id=12Fksn53m9qx8DPYEIUvpSVd3hyfBDd6\_)
 
 [Redsail site](http://www.hflaser.com/Vinyl-Cutter.html)
 
@@ -40,7 +40,7 @@ Note that cutter must NOT be in "Online" mode in order to set pressure and speed
 
 #### Test Blade Pressure and Speed
 
-Test the pressure and speed by first selecting "Online" on the controller and then pressing the "Test" button. It will cut a .5" \(approx.\) square. Peel back the vinyl to see the cut. If it peels off with no resistance, and the blade didn't cut through your backing paper, you should be set to go.
+Test the pressure and speed by first selecting "Online" on the controller and then pressing the "Test" button. It will cut a .5" (approx.) square. Peel back the vinyl to see the cut. If it peels off with no resistance, and the blade didn't cut through your backing paper, you should be set to go.
 
 The pressure and speed you use will vary across materials and also depends on how sharp the blade is. It's always best to just test until you get the ideal cut for your project.
 
@@ -63,30 +63,28 @@ When you are ready to cut, choose "Cutter" at the top of the program window. Mos
 
 Origin point cutting mode uses the bottom right corner of your image as the starting point. On the preview in the Cutter menu, you'll see your image aligned to the bottom right corner of the cutting mat. The origin you set your vinyl cutter blade at is where that bottom right corner will be.
 
-WYSIWYG \(What You See Is What You Get\) cutting mode uses the cutting mat workspace in Sure Cuts a Lot as the reference for where to place your design. The origin you set your vinyl cutter blade at will align with the bottom right corner of the preview.
+WYSIWYG (What You See Is What You Get) cutting mode uses the cutting mat workspace in Sure Cuts a Lot as the reference for where to place your design. The origin you set your vinyl cutter blade at will align with the bottom right corner of the preview.
 
 **For most projects, it is easiest to use the Origin Point mode.**
 
-#### Send your design to the cutter to begin cutting. If you need to stop the cut \(especially if the vinyl bunches or gets stuck\), press the "Stop" or "Pause" button on the computer.
+#### Send your design to the cutter to begin cutting. If you need to stop the cut (especially if the vinyl bunches or gets stuck), press the "Stop" or "Pause" button on the computer.
 
 ## Specifications
 
-| Model | RS720C | RS800C | RS1120C | RS1360C |
-| :--- | :--- | :--- | :--- | :--- |
-| Control system | Risc micro-controller |  |  |  |
-| Drive type | Stepper motor |  |  |  |
-| Media Size \(mm\) | 720 | 800 | 1120 | 1360 |
-| Cutting size \(mm\) | 620 | 700 | 1000 | 1200 |
-| Cutting speed | 600 mm/s |  |  |  |
-| Cutting force | 10-500 g |  |  |  |
-| Lcd display | English |  |  |  |
-| Resolution | 1000 DPI |  |  |  |
-| Repeatability\(mm\) | 0.01 |  |  |  |
-| Command | HPGL |  |  |  |
-| Interface | 232/USB |  |  |  |
-| Power | 90~240V / 50~60Hz |  |  |  |
-
-
+| Model             | RS720C                | RS800C | RS1120C | RS1360C |
+| ----------------- | --------------------- | ------ | ------- | ------- |
+| Control system    | Risc micro-controller |        |         |         |
+| Drive type        | Stepper motor         |        |         |         |
+| Media Size (mm)   | 720                   | 800    | 1120    | 1360    |
+| Cutting size (mm) | 620                   | 700    | 1000    | 1200    |
+| Cutting speed     | 600 mm/s              |        |         |         |
+| Cutting force     | 10-500 g              |        |         |         |
+| Lcd display       | English               |        |         |         |
+| Resolution        | 1000 DPI              |        |         |         |
+| Repeatability(mm) | 0.01                  |        |         |         |
+| Command           | HPGL                  |        |         |         |
+| Interface         | 232/USB               |        |         |         |
+| Power             | 90\~240V / 50\~60Hz   |        |         |         |
 
 
 

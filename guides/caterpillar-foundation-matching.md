@@ -14,7 +14,7 @@ If you have any questions, please feel free to contact us at info@rivercitylabs.
 
 ## Caterpillar Foundation Donation Match Guidelines
 
-[Here ](https://www.cybergrants.com/caterpillarfoundation/docs/Matching_Gifts_Program_Guidelines.pdf)is a link to the Foundation's guidelines for donation matching
+[Here ](https://www.cybergrants.com/caterpillarfoundation/docs/Matching\_Gifts\_Program\_Guidelines.pdf)is a link to the Foundation's guidelines for donation matching
 
 ## Request a Donation Match
 
@@ -25,32 +25,31 @@ If you need us to provide you with your tax-deductible gift information, please 
 1. First, go to the [website](https://www.caterpillar.com/en/company/caterpillar-foundation/matching-gifts.html):
 2. Click `Visit Website`
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](<../.gitbook/assets/image (53).png>)
 
-3. If it's your first time submitting a request, you'll need to create a password. If not, type in your PeopleSoft ID and password then click `Login`
+3\. If it's your first time submitting a request, you'll need to create a password. If not, type in your PeopleSoft ID and password then click `Login`
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](<../.gitbook/assets/image (58).png>)
 
-4. Read through and `ACCEPT` that you understand the terms of the program guidelines.
+4\. Read through and `ACCEPT` that you understand the terms of the program guidelines.
 
-5. Click `MATCHING GIFTS`
+5\. Click `MATCHING GIFTS`
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](<../.gitbook/assets/image (55).png>)
 
-6. Enter the following info and click `Search`
+6\. Enter the following info and click `Search`
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](<../.gitbook/assets/image (56).png>)
 
-7. Find "RIVER CITY LABS" and click `SELECT` on the right
+7\. Find "RIVER CITY LABS" and click `SELECT` on the right
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](<../.gitbook/assets/image (57).png>)
 
-8. Fill in the information on your gift, then click `SAVE AND PROCEED`.
+8\. Fill in the information on your gift, then click `SAVE AND PROCEED`.
 
-9. Verify your gift information and click `SUBMIT`.
+9\. Verify your gift information and click `SUBMIT`.
 
-10. You will be asked how you wish to let the non-profit know about the gift, and offered two choices:
+10\. You will be asked how you wish to let the non-profit know about the gift, and offered two choices:
 
-1. **\(recommended\)** Email Match Request to Non-Profit: you will be asked to give a Recipient email address; please type: **info@rivercitylabs.space**.
+1. **(recommended)** Email Match Request to Non-Profit: you will be asked to give a Recipient email address; please type: **info@rivercitylabs.space**.
 2. Print Match Request for Non-Profit, which allows you to print the form and mail it to us
-

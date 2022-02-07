@@ -1,6 +1,6 @@
 # Door Access
 
-![Yale Nextouch NTB610-ZW2-626](../.gitbook/assets/image%20%289%29.png)
+![Yale Nextouch NTB610-ZW2-626](<../.gitbook/assets/image (67).png>)
 
 ## Door Lock
 
@@ -26,5 +26,4 @@
 
 _\*25 Users Stand-alone without Wireless, 500 Users with Wireless_
 
-## 
-
+##

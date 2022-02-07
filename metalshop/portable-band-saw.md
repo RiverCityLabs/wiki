@@ -6,7 +6,7 @@ description: 'DeWALT Deep Cut Band Saw. Model: DWM120'
 
 **\*\*\* The portable band saw is on loan to the space from Patrick Black**
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](<../.gitbook/assets/image (18).png>)
 
 ## Useful Links
 
@@ -19,4 +19,3 @@ description: 'DeWALT Deep Cut Band Saw. Model: DWM120'
 Model: DWM120 w/ SWAG V3.0 Portaband Table
 
 Blade size: standard 44-7/8"x1/2"x.020" blade
-

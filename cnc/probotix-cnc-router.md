@@ -4,19 +4,19 @@ description: Probotix Asteroid - GX3725
 
 # Probotix CNC Router
 
-![](../.gitbook/assets/img_20190827_191941.jpg)
+![](../.gitbook/assets/IMG\_20190827\_191941.jpg)
 
-![](../.gitbook/assets/cnc_router_rotary_axis%20%281%29.jpg)
+![](<../.gitbook/assets/CNC\_router\_rotary\_axis (1).jpg>)
 
 ## Useful Links
 
 [Product Page](https://www.probotix.com/CNC-ROUTERS/CNC-ROUTER-GX3725)
 
-[Getting Started Guide](https://drive.google.com/open?id=1w_1fAvfdo5E_BJbUVDhZ0cz-6_iwIFR7)
+[Getting Started Guide](https://drive.google.com/open?id=1w\_1fAvfdo5E\_BJbUVDhZ0cz-6\_iwIFR7)
 
 [Recommended Maintenance](https://www.probotix.com/wiki/index.php/Maintenance)
 
-[RCL Router Training Videos on Youtube](https://www.youtube.com/playlist?list=PLcwu5-Mumv-a1A_1BLDorSAILYLmQ7sUR)
+[RCL Router Training Videos on Youtube](https://www.youtube.com/playlist?list=PLcwu5-Mumv-a1A\_1BLDorSAILYLmQ7sUR)
 
 ## Recommended Materials
 
@@ -29,7 +29,7 @@ description: Probotix Asteroid - GX3725
 
 ### Wood
 
-* \*\*\*\*[**Surfacing Planing Tool**](https://www.amazon.com/gp/product/B07BF5ZHD1/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)\*\*\*\*
+* ****[**Surfacing Planing Tool**](https://www.amazon.com/gp/product/B07BF5ZHD1/ref=ppx\_yo\_dt\_b\_asin\_title\_o03\_s00?ie=UTF8\&psc=1)****
 
 ### Aluminum
 
@@ -46,22 +46,20 @@ description: Probotix Asteroid - GX3725
 
 ## Technical Specifications
 
-| \*\*\*\* |  |
-| :--- | :--- |
-| **Work Envelope** |  |
-| X Travel | 37+ Inches |
-| Y Travel | 25+ Inches |
-| Z Travel | 5+ Inches |
-| **Performance** |  |
-| Maximum Speed | 200 Inches Per Minute \(per axis\), 330 Inches Per Minute \(combined\) |
-| Resolution | 0.00125 Inches |
-| **Mechanical** |  |
-| Drive Mechanism | 1/2" 5-Start ACME Screws w/ Anti-backlash Nuts |
-| Linear Rails | 16mm Fully Supported Rails on X & Y Axis, 16mm Open Rail on Z Axis |
-| Machine Frame | 3060M Aluminum T-slot Extrusion |
-| **Electrical** |  |
-| Control System | Unity CNC Controller \(5x 4.2Amp Bi-polar Drivers\), LinuxCNC Control PC |
-| Power Requirements | 10A@110VAC for Control System, 20A@220VAC for optional VFD Spindle |
-
-
+| ****               |                                                                        |
+| ------------------ | ---------------------------------------------------------------------- |
+| **Work Envelope**  |                                                                        |
+| X Travel           | 37+ Inches                                                             |
+| Y Travel           | 25+ Inches                                                             |
+| Z Travel           | 5+ Inches                                                              |
+| **Performance**    |                                                                        |
+| Maximum Speed      | 200 Inches Per Minute (per axis), 330 Inches Per Minute (combined)     |
+| Resolution         | 0.00125 Inches                                                         |
+| **Mechanical**     |                                                                        |
+| Drive Mechanism    | 1/2" 5-Start ACME Screws w/ Anti-backlash Nuts                         |
+| Linear Rails       | 16mm Fully Supported Rails on X & Y Axis, 16mm Open Rail on Z Axis     |
+| Machine Frame      | 3060M Aluminum T-slot Extrusion                                        |
+| **Electrical**     |                                                                        |
+| Control System     | Unity CNC Controller (5x 4.2Amp Bi-polar Drivers), LinuxCNC Control PC |
+| Power Requirements | 10A@110VAC for Control System, 20A@220VAC for optional VFD Spindle     |
 

@@ -1,22 +1,22 @@
 ---
-description: 'LightBurn is layout, editing, and control software for your laser cutter'
+description: LightBurn is layout, editing, and control software for your laser cutter
 ---
 
 # LightBurn
 
-![](../.gitbook/assets/title_lightburn_360x.jpg)
+![](../.gitbook/assets/Title\_LightBurn\_360x.jpg)
 
 ## Overview
 
 With LightBurn you can:
 
-- Import artwork in a variety of common vector graphic and image formats \(including AI, PDF, SVG, DXF, PLT, PNG, JPG, GIF, BMP\)
+\- Import artwork in a variety of common vector graphic and image formats (including AI, PDF, SVG, DXF, PLT, PNG, JPG, GIF, BMP)
 
-- Arrange, edit, and even create new vector shapes within the editor, with powerful features like offsetting, boolean operations, welding, and node editing
+\- Arrange, edit, and even create new vector shapes within the editor, with powerful features like offsetting, boolean operations, welding, and node editing
 
-- Apply settings like power, speed, number of passes, cut order, brightness & contrast, dithering mode, and much more
+\- Apply settings like power, speed, number of passes, cut order, brightness & contrast, dithering mode, and much more
 
-- Send the result directly to your laser cutter
+\- Send the result directly to your laser cutter
 
 LightBurn is a native application written for Windows, Mac OS, and Linux.
 
@@ -39,18 +39,16 @@ LightBurn lets you design your creativity in the software. We know you have your
 
 Really depends on what job are you about to do. Most likely a trial and error practice
 
-## Power settings \(Minimum and Maximum\)
+## Power settings (Minimum and Maximum)
 
-* BFL can go as low and 12% in power and a maximum of 80%. \(At 80% you're maxing-out the laser tube's efficiency and decreasing it's life\)
-* K40's can go as low as XX% in power and a maximum of 80%. 
+* BFL can go as low and 12% in power and a maximum of 80%. (At 80% you're maxing-out the laser tube's efficiency and decreasing it's life)
+* K40's can go as low as XX% in power and a maximum of 80%.&#x20;
 
-#### 
+####
 
 ## FAQs
 
 ### Cannot send file or Transfer failed
 
 ### Engrave Vs Cut a.k.a RED color Vs BLACK color
-
-
 

@@ -2,5 +2,4 @@
 
 \*\*\*\*\* **Stored in the back room \*\*\*\*\***
 
-![](../.gitbook/assets/sandblastingcabinet.png)
-
+![](../.gitbook/assets/SandBlastingCabinet.png)

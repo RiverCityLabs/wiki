@@ -2,7 +2,7 @@
 
 ## Statement of Purpose
 
-River City Labs, NFP \(Not For Profit\) is organized exclusively for charitable, educational, and scientific purposes within the meaning of Section 501\(c\)\(3\) of the Internal Revenue Code of 1986 \(or the corresponding section of any future United States Internal Revenue law\). Its mission is to foster a collaborative environment wherein people can explore and create intersections between technology, science, art, and culture. Specific Goals
+River City Labs, NFP (Not For Profit) is organized exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code of 1986 (or the corresponding section of any future United States Internal Revenue law). Its mission is to foster a collaborative environment wherein people can explore and create intersections between technology, science, art, and culture. Specific Goals
 
 * Acquire and maintain a collaborative workspace for communal use by all members.
 * Foster a creative, collaborative environment for experimentation and development in science, technology, engineering, mathematics, and art.
@@ -29,10 +29,10 @@ In order to be a member of River City Labs, a person must support the purpose an
 
 Full Members shall have the following privileges:
 
-*  Twenty-four hour access to the physical workspace.
-  * Access is granted in accordance with the “Membership Terms and Conditions” 
-*  Twenty-four hour access to equipment he/she is certified to use.
-*  Access to membership exclusive communication systems and information repositories.
+* &#x20;Twenty-four hour access to the physical workspace.
+  * Access is granted in accordance with the “Membership Terms and Conditions”&#x20;
+* &#x20;Twenty-four hour access to equipment he/she is certified to use.
+* &#x20;Access to membership exclusive communication systems and information repositories.
 * Membership pricing on all classes.
 * Eligibility to vote on any issue put before the membership.
 * Eligibility to vote for officers and directors.
@@ -64,9 +64,9 @@ Regular meetings for River City Labs shall be held quarterly. Additional meeting
 
 ### Annual Meetings
 
-The annual meeting shall occur at the standard meeting time and the standard meeting place in the first quarter. The date and time can be changed by the procedures for a Vote of the Membership, as defined in these bylaws. 
+The annual meeting shall occur at the standard meeting time and the standard meeting place in the first quarter. The date and time can be changed by the procedures for a Vote of the Membership, as defined in these bylaws.&#x20;
 
-The following issues shall be addressed at the annual meeting: 
+The following issues shall be addressed at the annual meeting:&#x20;
 
 * Election of all officers.
 * Any other issues that members have placed before the membership to be discussed at the annual meeting, pursuant to the proposal and voting rules stated in these bylaws for Votes of the Membership.
@@ -178,7 +178,7 @@ Every officer has the right to rename the office they hold for the duration of h
 
 ### President
 
-The President shall preside over all meetings of the membership and directors. He or she also serves the organization in all functions where a President may be called for by law or any other outside requirements. The President shall assist the officers in fulfilling their responsibilities by providing guidance, coordinating efforts, and overseeing goals and direction. The President is responsible for making sure that the corporation files its annual report, Illinois charitable organization statements, and any other papers required to maintain legal nonprofit status by the law of Illinois or Federal law. The President, acting in the best interest of River City Labs is hereby authorized at the discretion of the board \[via a vote of the board\] to enter in contractual agreements on behalf of River City Labs where no liability or financial commitment is assumed by the organization. Agreements which include a clause placing risk on the organization such as fines for breach of contract or claims to property as recourse, for example, are not eligible to be approved by the board. Upon entering in a contract on behalf of River City Labs, the President is required to immediately notify the membership and make a signed copy available for review. The President is strongly encouraged to continue consulting with the membership on such issues, but will not require full member approval. This provision is intended to expedite business operations where no risk is assumed.
+The President shall preside over all meetings of the membership and directors. He or she also serves the organization in all functions where a President may be called for by law or any other outside requirements. The President shall assist the officers in fulfilling their responsibilities by providing guidance, coordinating efforts, and overseeing goals and direction. The President is responsible for making sure that the corporation files its annual report, Illinois charitable organization statements, and any other papers required to maintain legal nonprofit status by the law of Illinois or Federal law. The President, acting in the best interest of River City Labs is hereby authorized at the discretion of the board \[via a vote of the board] to enter in contractual agreements on behalf of River City Labs where no liability or financial commitment is assumed by the organization. Agreements which include a clause placing risk on the organization such as fines for breach of contract or claims to property as recourse, for example, are not eligible to be approved by the board. Upon entering in a contract on behalf of River City Labs, the President is required to immediately notify the membership and make a signed copy available for review. The President is strongly encouraged to continue consulting with the membership on such issues, but will not require full member approval. This provision is intended to expedite business operations where no risk is assumed.
 
 ### Vice President
 
@@ -198,7 +198,7 @@ The Public Relations Officer shall be responsible for raising awareness of the o
 
 ### Event Coordinator
 
-The Event Coordinator is responsible for organizing and facilitating events that involve participation from the organization or membership outside of the physical space. The Event Coordinator may work with outside individuals or groups that share similar specific goals to the organization to find existing events or to assist in creating new events that the organization can participate in to support its specific goals. 
+The Event Coordinator is responsible for organizing and facilitating events that involve participation from the organization or membership outside of the physical space. The Event Coordinator may work with outside individuals or groups that share similar specific goals to the organization to find existing events or to assist in creating new events that the organization can participate in to support its specific goals.&#x20;
 
 ### Facilities Officer
 
@@ -210,7 +210,7 @@ The Membership Officer is responsible for creating positive social interactions 
 
 ### Education Officer
 
-The Education Officer is responsible for organizing and facilitating events that utilize the physical space and the equipment therein. The Education Officer will oversee the certification of members as necessary for the safe use of any equipment provided by the organization within the physical space. The Education Officer may coordinate with the Membership Officer, Public Relations Officer, and Event Coordinator to promote events to both the Membership and public. 
+The Education Officer is responsible for organizing and facilitating events that utilize the physical space and the equipment therein. The Education Officer will oversee the certification of members as necessary for the safe use of any equipment provided by the organization within the physical space. The Education Officer may coordinate with the Membership Officer, Public Relations Officer, and Event Coordinator to promote events to both the Membership and public.&#x20;
 
 ### Expiration of Term
 
@@ -238,7 +238,7 @@ Elections for at-large directors shall take place at the annual meeting. All dir
 
 If only two people are timely nominated to run for at-large director positions and accept their nominations, they shall run unopposed. If only one person is timely nominated to run for at-large director, then he shall run unopposed. An election for the second seat shall occur at the meeting. Nominations for candidates to fill the unfilled seat shall be accepted at the meeting, and an election shall follow. That election shall follow all rules for a Vote of the Membership as defined in these bylaws.
 
-If nobody is timely nominated to run for at-large director, an election for both seats shall occur at the meeting. Nominations for candidates to fill both seats shall be accepted at the meeting, and an election shall follow. That election shall follow all rules for a Vote of the Membership as defined in the bylaws, except that each Full Member shall get two votes, and the two candidates with the most votes shall become at-large directors. If nobody accepts nomination to run for at-large director positions, the existing at-large directors may choose to retain their positions or choose to appoint another member to their seat. 
+If nobody is timely nominated to run for at-large director, an election for both seats shall occur at the meeting. Nominations for candidates to fill both seats shall be accepted at the meeting, and an election shall follow. That election shall follow all rules for a Vote of the Membership as defined in the bylaws, except that each Full Member shall get two votes, and the two candidates with the most votes shall become at-large directors. If nobody accepts nomination to run for at-large director positions, the existing at-large directors may choose to retain their positions or choose to appoint another member to their seat.&#x20;
 
 If only one person runs for at-large director but nobody accepts nomination to run for the second seat, one of the then-existing at-large directors may choose to retain his seat or appoint another person to it. The at-large directors may choose who retains this power by agreement or, if both want to retain it or appoint a successor, may settle the dispute by calling the result of a coin flip. The coin shall be official United States legal tender, and shall be flipped at the annual meeting by the Vice President.
 
@@ -286,7 +286,7 @@ River City Labs NFP is a nonprofit, tax-exempt organization. Maintenance of its 
 
 ### Section 2: Persons Concerned:
 
-This statement is directed not only to directors and officers, but to all who can influence the actions of River City Labs, NFP. For example, this would include all full membership members, and anyone who has proprietary information concerning River City Labs NFP. 
+This statement is directed not only to directors and officers, but to all who can influence the actions of River City Labs, NFP. For example, this would include all full membership members, and anyone who has proprietary information concerning River City Labs NFP.&#x20;
 
 ### Section 3: Areas in Which Conflict May Arise
 
@@ -294,36 +294,34 @@ Conflicts of interest may arise in the relations of directors and officers with 
 
 1. Persons and firms supplying goods and services to River City Labs NFP.
 2. Persons and firms from whom River City Labs NFP leases property and equipment.
-3. Persons and firms with whom River City Labs NFP is dealing or planning to deal in
+3.  Persons and firms with whom River City Labs NFP is dealing or planning to deal in
 
-   connection with the gift, purchase or sale of real estate, securities, or other property.
-
+    connection with the gift, purchase or sale of real estate, securities, or other property.
 4. Competing organizations.
-5. Agencies, organizations and associations which affect the operations of River City
+5.  Agencies, organizations and associations which affect the operations of River City
 
-   Labs NFP.
+    Labs NFP.
 
 ### Section 4: Nature of Conflicting Interest
 
 A conflicting interest may be defined as an interest, direct or indirect, with any persons or firms mentioned in Section 3. Such an interest might arise through:
 
 1. Owning stock or holding debt or other proprietary interests in any third party dealing with River City Labs NFP.
-2. Holding office, serving on the board, participating in management, or being otherwise employed \(or formerly employed\) with any third party dealing with River City Labs NFP.
-3. Receiving remuneration for services with respect to individual transactions involving
+2. Holding office, serving on the board, participating in management, or being otherwise employed (or formerly employed) with any third party dealing with River City Labs NFP.
+3.  Receiving remuneration for services with respect to individual transactions involving
 
-   River City Labs NFP.
+    River City Labs NFP.
+4.  Receiving personal gifts or loans from third parties dealing or competing with River City
 
-4. Receiving personal gifts or loans from third parties dealing or competing with River City
+    Labs NFP. Receipt of any gift is disapproved except gifts of a value less than $50,
 
-   Labs NFP. Receipt of any gift is disapproved except gifts of a value less than $50,
+    which could not be refused without discourtesy. No personal gift of money should ever
 
-   which could not be refused without discourtesy. No personal gift of money should ever
-
-   be accepted.
+    be accepted.
 
 ### Section 5: Interpretation of this Statement of Policy
 
-The areas of conflicting interest listed in Section 3, and the relations in those areas which may give rise to conflict, as listed in Section 4, are not exhaustive. Conflicts might arise in other areas or through other relations. It is assumed that the directors and officers will recognize such areas and relation by analogy. The fact that one of the interests described in Section 4 exists does not necessarily mean that a conflict exists, or that the conflict, if it exists, is material enough to be of practical importance, or if material, that upon full disclosure of all relevant facts and circumstances it is necessarily adverse to the interests of River City Labs NFP. However, it is the policy of the board that the existence of any of the interests described in Section 4 shall be disclosed before any transaction is consummated. It shall be the continuing responsibility of the board and officers to scrutinize their transactions and outside business interests and relationships for potential conflicts and to immediately make such disclosures. Section 6: 
+The areas of conflicting interest listed in Section 3, and the relations in those areas which may give rise to conflict, as listed in Section 4, are not exhaustive. Conflicts might arise in other areas or through other relations. It is assumed that the directors and officers will recognize such areas and relation by analogy. The fact that one of the interests described in Section 4 exists does not necessarily mean that a conflict exists, or that the conflict, if it exists, is material enough to be of practical importance, or if material, that upon full disclosure of all relevant facts and circumstances it is necessarily adverse to the interests of River City Labs NFP. However, it is the policy of the board that the existence of any of the interests described in Section 4 shall be disclosed before any transaction is consummated. It shall be the continuing responsibility of the board and officers to scrutinize their transactions and outside business interests and relationships for potential conflicts and to immediately make such disclosures. Section 6:&#x20;
 
 ## Disclosure Policy and Procedure
 
@@ -334,13 +332,12 @@ Transactions with parties with whom a conflicting interest exists may be underta
 * A competitive bid or comparable valuation exists
 * The board has determined that the transaction is in the best interest of the organization.
 
-Disclosure in the organization should be made to the president \(or if she or he is the one with the conflict, then to the vice-president, who shall bring the matter to the attention of the board. Disclosure involving directors should be made to the president or if she or he is the one with the conflict, then to the board vice-president who shall bring these matters to the board or a duly constituted committee. The board or a duly constituted committee shall determine whether a conflict exists and in the case of an existing conflict, whether the contemplated transaction may be authorized as just, fair, and reasonable to River City Labs NFP. The decision of the board or a duly constituted committee thereof on these matters will rest in their sole discretion, and their concern must be the welfare of River City Labs NFP and the advancement of its purpose.
+Disclosure in the organization should be made to the president (or if she or he is the one with the conflict, then to the vice-president, who shall bring the matter to the attention of the board. Disclosure involving directors should be made to the president or if she or he is the one with the conflict, then to the board vice-president who shall bring these matters to the board or a duly constituted committee. The board or a duly constituted committee shall determine whether a conflict exists and in the case of an existing conflict, whether the contemplated transaction may be authorized as just, fair, and reasonable to River City Labs NFP. The decision of the board or a duly constituted committee thereof on these matters will rest in their sole discretion, and their concern must be the welfare of River City Labs NFP and the advancement of its purpose.
 
 ## Dissolution
 
-If River City Labs is forced to dissolve due to unfortunate circumstances, court order, or planned dissolution, the remaining assets and funds of River City Labs One will be dispersed to a 501\(c\)\(3\) organization with similar purpose, as determined by the board of directors, after an auction of assets relieves any and all debts owed by River City Labs.
+If River City Labs is forced to dissolve due to unfortunate circumstances, court order, or planned dissolution, the remaining assets and funds of River City Labs One will be dispersed to a 501(c)(3) organization with similar purpose, as determined by the board of directors, after an auction of assets relieves any and all debts owed by River City Labs.
 
 ## Amendment of Bylaws
 
 These bylaws shall be amended by a majority vote of the membership, using the procedures stated in the Votes of the Membership section of these bylaws. Membership Agreement Amendment All members and their guests shall abide by the membership agreement while at River City Labs facilities and events. These bylaws are hereby enacted on this day May 1, 2014 by the following signatories as Founding Members of River City Labs, NFP.
-
