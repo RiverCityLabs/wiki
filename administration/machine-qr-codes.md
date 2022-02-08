@@ -1,4 +1,7 @@
-# Machine QR Posters
+# Machine QR Codes
 
-This line came from github.
-
+| Machine   | QR | Poster |
+| --------- | -- | ------ |
+| bfl       | 1  | 2      |
+| glowforge | 1  | 2      |
+|           |    |        |
