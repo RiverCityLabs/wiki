@@ -136,6 +136,7 @@
       * [7-9-2020](meetings/officers/2020/7-9-2020.md)
   * [Members](meetings/members/README.md)
     * [2022](meetings/members/2022/README.md)
+      * [02/17/2022](meetings/members/2022/02-17-2022.md)
       * [01/20/2022](meetings/members/2022/01-20-2022.md)
     * [2021](meetings/members/2021/README.md)
       * [09-16-2021](meetings/members/2021/09-16-2021.md)
