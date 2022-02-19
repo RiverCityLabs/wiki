@@ -46,7 +46,7 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
 
 **Average Print Speed:** 30 - 50 mm/sec (1.18 - 1.97in) Using default nGen profile
 
-**Layer Thickness with 0.5 mm nozzle:** 0.050 mm to 0.5 mm (0.002 in - 0.02 in)
+**Layer Thickness with 0.4 mm nozzle:** 0.040 mm to 0.4 mm (0.002 in - 0.02 in)
 
 **Capable Materials:**
 
