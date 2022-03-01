@@ -4,7 +4,7 @@ description: LightBurn is layout, editing, and control software for your laser c
 
 # LightBurn
 
-![](../.gitbook/assets/Title\_LightBurn\_360x.jpg)
+![](../.gitbook/assets/title\_lightburn\_360x.jpg)
 
 ## Overview
 

@@ -20,7 +20,7 @@ How to edit:
    1. We recommend signing in with your rivercitylabs.space gsuite (google) account. If you don't have one, please reach out in slack.
 2. Login to [app.gitbook.com/@rivercitylabs/](https://app.gitbook.com/@rivercitylabs/) with the account you created
 
-![Select the Wiki Space](<../.gitbook/assets/image (6).png>)
+![Select the Wiki Space](<../.gitbook/assets/image (5).png>)
 
 
 

@@ -1,6 +1,6 @@
 # Huber - Lulzbot TAZ 6
 
-![Huber Lulzbot TAZ 6](../.gitbook/assets/Lulzbot-TAZ6.jpg)
+![Huber Lulzbot TAZ 6](../.gitbook/assets/lulzbot-taz6.jpg)
 
 ## Useful Links
 

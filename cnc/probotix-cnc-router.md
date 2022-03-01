@@ -4,9 +4,9 @@ description: Probotix Asteroid - GX3725
 
 # Probotix CNC Router
 
-![](../.gitbook/assets/IMG\_20190827\_191941.jpg)
+![](../.gitbook/assets/img\_20190827\_191941.jpg)
 
-![](<../.gitbook/assets/CNC\_router\_rotary\_axis (1).jpg>)
+![](<../.gitbook/assets/cnc\_router\_rotary\_axis (1).jpg>)
 
 ## Useful Links
 

@@ -1,6 +1,6 @@
 # Function Generator
 
-![BK 4017A 100MHz Sweep/Function Generator](<../.gitbook/assets/BK4017A Function Generator.jpg>)
+![BK 4017A 100MHz Sweep/Function Generator](../.gitbook/assets/bk4017a-function-generator.jpg)
 
 ## [BK 4017A Instruction Manual](https://drive.google.com/file/d/1cu61\_vBeW5LVZwT0s1\_PaB8Vqcy4Fto7/view?usp=sharing)
 

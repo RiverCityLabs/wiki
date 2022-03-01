@@ -1,6 +1,6 @@
 # Vinyl Cutter - Redsail
 
-![](../.gitbook/assets/IMG\_20190827\_191840.jpg)
+![](../.gitbook/assets/img\_20190827\_191840.jpg)
 
 ## Useful Links
 

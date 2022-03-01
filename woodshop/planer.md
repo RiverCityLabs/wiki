@@ -4,7 +4,7 @@ description: Delta DC-380 15" Planer
 
 # Planer
 
-![](../.gitbook/assets/Delta-DC380-Planer.png)
+![](../.gitbook/assets/delta-dc380-planer.png)
 
 ## Useful Links
 

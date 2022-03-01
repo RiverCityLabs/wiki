@@ -42,7 +42,7 @@ These masks are purely meant as a way to reduce the spread of airborne pathogens
 
 [Printable Instructions Available Here](https://drive.google.com/file/d/1ukfH8wKdKXp9abZJC\_FFVxrq1VGjvsKY/view?usp=sharing) (5 page Google Doc)
 
-![shareable infographic instructions.](<../.gitbook/assets/masks infographic 2.jpg>)
+![shareable infographic instructions.](../.gitbook/assets/masks-infographic-2.jpg)
 
 ****
 
