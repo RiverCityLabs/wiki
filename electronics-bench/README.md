@@ -1,3 +1,3 @@
 # Electronics Bench
 
-![](<../.gitbook/assets/image (136).png>)
+![](<../.gitbook/assets/image (135) (1).png>)

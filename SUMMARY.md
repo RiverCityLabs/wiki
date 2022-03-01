@@ -73,6 +73,7 @@
   * [Miscellaneous Air Tools](metalshop/miscellaneous-air-tools.md)
 * [Miscellaneous Tools](miscellaneous-tools/README.md)
   * [Circut Maker](miscellaneous-tools/circut-maker.md)
+  * [Brother SE-400](miscellaneous-tools/brother-se-400.md)
   * [Screen Printing](miscellaneous-tools/screen-printing.md)
   * [Vinyl Cutter - Redsail](miscellaneous-tools/vinyl-cutter.md)
   * [Sewing Machines](miscellaneous-tools/sewing-machines.md)
