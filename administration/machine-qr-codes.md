@@ -7,8 +7,8 @@ If you need access to the Gitlab group to make changes, please message Aaron Pet
 
 ## Files
 [download all files below as a single zip archive](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/download?job=generate_pdf)
-| **Machine** | **QR** | **Poster** | **wiki URL** |
-| --------- | - | ---- | ----- |
+| **Machine** | **QR** | **Poster** |
+| --------- | -- | ------ |
 | [Big Fred's Laser (BFL)](https://wiki.rivercitylabs.space/lasers/bfl) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_bfl.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_bfl.pdf?job=generate_pdf) |
 | [Glowforge Laser Printer](https://wiki.rivercitylabs.space/lasers/glowforge) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_glowforge.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_glowforge.pdf?job=generate_pdf) |
 | [K40 Laser](https://wiki.rivercitylabs.space/lasers/k40) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_k40.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_k40.pdf?job=generate_pdf) |
@@ -36,4 +36,4 @@ If you need access to the Gitlab group to make changes, please message Aaron Pet
 | [Brother SE-400](https://wiki.rivercitylabs.space/miscellaneous-tools/brother-se-400) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_brotherse400.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_brotherse400.pdf?job=generate_pdf) |
 | [Vinyl Cutter - Redsail](https://wiki.rivercitylabs.space/miscellaneous-tools/vinyl-cutter) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_vinylcutter.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_vinylcutter.pdf?job=generate_pdf) |
 | [Screen Printing](https://wiki.rivercitylabs.space/miscellaneous-tools/screen-printing) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_screenprinting.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_screenprinting.pdf?job=generate_pdf) |
-| [Test](https://wiki.rivercitylabs.space/miscellaneous-tools/screen-printing) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_test.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_test.pdf?job=generate_pdf) |
+| [Testt](https://wiki.rivercitylabs.space/miscellaneous-tools/screen-printing) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_test.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_test.pdf?job=generate_pdf) |
