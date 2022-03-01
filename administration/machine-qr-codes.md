@@ -7,7 +7,7 @@ If you need access to the Gitlab group to make changes, please message Aaron Pet
 
 ## Files
 [download all files below as a single zip archive](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/download?job=generate_pdf)
-| Machine | QR | Poster |
+| **Machine** | **QR** | **Poster** |
 | --------- | -- | ------ |
 | Big Fred's Laser (BFL) | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_bfl.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_bfl.pdf?job=generate_pdf) |
 | Glowforge Laser Printer | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_glowforge.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_glowforge.pdf?job=generate_pdf) |
@@ -23,6 +23,7 @@ If you need access to the Gitlab group to make changes, please message Aaron Pet
 | Joiner | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_joiner.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_joiner.pdf?job=generate_pdf) |
 | Oscillating Spindle Sander | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_oscillatingspindlesander.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_oscillatingspindlesander.pdf?job=generate_pdf) |
 | Scroll Saw | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_scrollsaw.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_scrollsaw.pdf?job=generate_pdf) |
+| Kreg Pocket-Hole Jig | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_kregpocket-holejig.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_kregpocket-holejig.pdf?job=generate_pdf) |
 | Radford Lulzbot TAZ 6 | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_lulzbot1.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_lulzbot1.pdf?job=generate_pdf) |
 | Huber Lulzbot TAZ 6 | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_lulzbot2.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_lulzbot2.pdf?job=generate_pdf) |
 | Prusa Mini | [img](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/img/rcl_qr_prusamini.png?job=generate_pdf) | [pdf](https://gitlab.com/river-city-labs/qr-code-posters/-/jobs/artifacts/main/raw/pdf/rcl_qr_poster_prusamini.pdf?job=generate_pdf) |
