@@ -46,4 +46,4 @@ Here's the string to use to create a deep link into the slack app:
 slack://channel?team=T046HEHJB&id=C016R8V6GR2
 ```
 
-All you need to do is find the channel id and replace the id after the '=' in the above link. The team name will stay the same.
+All you need to do is find the channel id and replace the id after the 'id=' in the above link. The team name will stay the same.
