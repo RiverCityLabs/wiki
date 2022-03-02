@@ -79,6 +79,7 @@
   * [Sewing Machines](miscellaneous-tools/sewing-machines.md)
   * [Dremel](miscellaneous-tools/dremel.md)
 * [Members](members/README.md)
+  * [Active Channel Directory](members/active-channel-directory.md)
   * [Forms](members/forms.md)
   * [General Safety Rules](members/general-safety-rules.md)
   * [Onboarding](members/onboarding.md)

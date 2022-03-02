@@ -22,5 +22,5 @@ Blade size 12" with 5/8" arbor
 
 This DIABLO 100-tooth saw blade is very expensive! **** It is only to be used for finishing cuts on things like trim. **It is not to be used for general wood cutting.**
 
-![](<../.gitbook/assets/image (126) (1).png>)
+![](<../.gitbook/assets/image (126) (1) (1).png>)
 
