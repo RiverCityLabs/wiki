@@ -8,9 +8,9 @@ description: >-
 
 ## Makerspace Administration
 
-| Channel Name                                                         | Description                            |
-| -------------------------------------------------------------------- | -------------------------------------- |
-| [# administration](https://rclpeoria.slack.com/archives/C016R8V6GR2) | general makerspace administration chat |
-| # administration-bylaws-updates                                      |                                        |
-|                                                                      |                                        |
+| Channel Name                                                       | Description                            |
+| ------------------------------------------------------------------ | -------------------------------------- |
+| [# administration](slack://channel?team=T046HEHJB\&id=C016R8V6GR2) | general makerspace administration chat |
+| # administration-bylaws-updates                                    |                                        |
+|                                                                    |                                        |
 
