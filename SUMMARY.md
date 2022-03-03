@@ -103,6 +103,7 @@
 * [Events](events/README.md)
   * [Lost Wax Casting Class](events/untitled.md)
   * [NOMCon 2019](events/nomcon-2019.md)
+  * [RCL Classes](events/rcl-classes.md)
 * [Administration](administration/README.md)
   * [Machine QR Codes](administration/machine-qr-codes.md)
   * [Network](administration/network.md)
