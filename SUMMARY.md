@@ -101,7 +101,7 @@
     * [2017](operations/leadership/2017-officers.md)
   * [Marketing](operations/marketing.md)
 * [Events](events/README.md)
-  * [Untitled](events/untitled.md)
+  * [Lost Wax Casting Class](events/untitled.md)
   * [NOMCon 2019](events/nomcon-2019.md)
 * [Administration](administration/README.md)
   * [Machine QR Codes](administration/machine-qr-codes.md)
