@@ -120,6 +120,7 @@
     * [2022](meetings/officers/2022/README.md)
       * [01/11/2022](meetings/officers/2022/1-11-2022.md)
       * [02/08/2022](meetings/officers/2022/02-08-2022.md)
+      * [03/08/2022](meetings/officers/2022/03-08-2022.md)
     * [2021](meetings/officers/2021/README.md)
       * [12/14/2021](meetings/officers/2021/12-14-2021.md)
       * [11/09/2021](meetings/officers/2021/11-09-2021.md)
