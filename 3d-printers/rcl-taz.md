@@ -6,7 +6,7 @@
 
 ## Useful Links
 
-[Remote Radford Taz 6 Octoprint](https://3dprinter2.rivercitylabs.space) - login info is on the printer
+[Remote Radford Taz 6 Octoprint](https://3dprinter3.rivercitylabs.space) - login info is on the printer
 
 If you cannot reach the Remote Site use [this link](http://192.68.111.201) When in the space to reach the octoprint\
 **(works only when the space connected to the RCL's Wi-Fi)**
