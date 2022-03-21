@@ -13,7 +13,6 @@ We as members, contributors, and leaders pledge to make participation in our com
 * ethnicity
 * sex characteristics
 * gender identity and expression
-* level of experience
 * education
 * socio-economic status
 * nationality
