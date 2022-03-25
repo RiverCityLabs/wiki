@@ -22,6 +22,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 * color
 * religion
 * sexual identity and orientation
+* relationship status and style
 * level of experience
 * chosen craft
 
