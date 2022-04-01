@@ -55,7 +55,6 @@
   * [Bader BIII Belt Grinder](metalshop/bader-biii-belt-grinder.md)
   * [Metal Break](metalshop/metal-break.md)
   * [MIG Welder](metalshop/mig-welder.md)
-  * [MIG Welder (old)](metalshop/mig-welder-old.md)
   * [TIG-Welder](metalshop/tig-welder.md)
   * [Stick Welder](metalshop/stick-welder.md)
   * [Lathe](metalshop/lathe.md)
