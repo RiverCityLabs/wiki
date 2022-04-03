@@ -73,7 +73,7 @@ The following issues shall be addressed at the annual meeting:&#x20;
 
 ### Notice of Meetings
 
-Notice of all meetings of Members, including regular meetings and the annual meeting, must be sent at least 5 days in advance. Notice shall be sent electronically to all members, to the e-mail addresses they have on file with the corporation. Notice of meetings shall also be posted at the corporation’s registered location. Meetings shall also be posted on the website at least 5 days in advance.
+Notice of all meetings of Members, including regular meetings and the annual meeting, must be sent at least 5 days in advance. Notice shall be sent electronically to all members, either to the e-mail addresses they have on file with the corporation or through a posting on a communication platform that is accessible by all members. Notice of meetings shall also be posted at the corporation’s registered location. Meetings shall also be posted on the website at least 5 days in advance.
 
 ### Meeting Procedure
 
@@ -97,11 +97,11 @@ Any Full Member may submit an issue for vote by the membership, unless the issue
 
 #### Notice
 
-Notice of all issues properly submitted for vote by the membership shall be given to all members no later than 5 days before the meeting at which they will be voted on. Notice shall be sent electronically, to the e-mail address that members have provided to the corporation. Notice of all issues to be voted on shall be consolidated with the notice of the member meeting at which the issues will be voted on. The Board of Directors is responsible for sending out the notice of the meeting, with the agenda of timely submitted issues to be considered.
+Notice of all issues properly submitted for vote by the membership shall be given to all members no later than 5 days before the meeting at which they will be voted on. Notice shall be sent electronically, either to the e-mail address that members have provided to the corporation or through a posting on a communication platform that is accessible by all members. Notice of all issues to be voted on shall be consolidated with the notice of the member meeting at which the issues will be voted on. The Board of Directors is responsible for sending out the notice of the meeting, with the agenda of timely submitted issues to be considered.
 
 #### Voting By Proxy
 
-Members may vote by proxy. The proxy vote must come from the members e-mail address on file. The email must state the member’s intention that he shall vote by proxy, state which issues he intends to vote on by proxy, and state how he intends to vote on each issue. Proper proxy statements shall count as attendance at the meeting for the purposes of calculating the quorum.
+Members may vote by proxy. The proxy vote must come from the members e-mail address on file. The email must state the member’s intention that he shall vote by proxy, state which issues he intends to vote on by proxy, and state how he intends to vote on each issue. Alternatively, an online survey platform may be used to collect proxy votes. In order for a survey response to be considered a valid proxy vote, an e-mail address must be collected in order to verify the identity and eligibility of the proxy voter. If a survey platform is used to collect proxy votes, members must be able to cast votes starting at least 48 hours prior to the date and time the vote is scheduled to happen. All proxy votes (email or otherwise) must be received 1 hour before the date and time the vote is scheduled to happen. Proper proxy statements shall count as attendance at the meeting for the purposes of calculating the quorum.
 
 #### Voting Procedures
 
@@ -134,7 +134,7 @@ These bylaws are deemed placed before the Board of Directors for a vote by opera
 
 #### Notice
 
-Notice of all issues properly submitted for vote by the board of directors shall be given to all directors no later than 5 days before the meeting at which they will be voted on. Notice shall be sent electronically, to the e-mail address that each director has provided to the corporation.
+Notice of all issues properly submitted for vote by the board of directors shall be given to all directors no later than 5 days before the meeting at which they will be voted on. Notice shall be sent electronically, either to the e-mail address that each director has provided to the corporation or on a communication platform that is accessible by all members.
 
 #### **Remote Attendance**
 
@@ -256,7 +256,7 @@ The Board of Directors is responsible for collecting a list of the issues on the
 
 ### Meetings
 
-The Board of Directors shall have an annual meeting, as required by Illinois law. The annual meeting of the board of directors shall be on the third Tuesday in January. Notice of this annual meeting shall be provided electronically to all directors and members of the organization, at the e-mail address provided to the corporation, at least 5 days in advance. Notice shall also be posted at the corporation’s registered address. The Board of Directors may also call special meetings other than the annual meeting, as necessary. Notice of any special meeting shall be provided electronically to all directors and members of the organization, at the e-mail address provided to the corporation, at least 5 days in advance. Notice shall also be posted at the corporation’s registered address. All full members may attend any meeting of the board of directors.
+The Board of Directors shall have an annual meeting, as required by Illinois law. The annual meeting of the board of directors shall be on the third Tuesday in January. Notice of this annual meeting shall be provided electronically to all directors and members of the organization, either at the e-mail address provided to the corporation or through a posting on a communication platform that is accessible by all members, at least 5 days in advance. Notice shall also be posted at the corporation’s registered address. The Board of Directors may also call special meetings other than the annual meeting, as necessary. Notice of any special meeting shall be provided electronically to all directors and members of the organization, either at the e-mail address provided to the corporation or on a communication platform that is accessible by all members, at least 5 days in advance. Notice shall also be posted at the corporation’s registered address. All full members may attend any meeting of the board of directors.
 
 ### Board Budget
 
