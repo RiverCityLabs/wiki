@@ -137,5 +137,5 @@ Consequence: A permanent ban from any sort of public interaction within the comm
 
 ### Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/2//code-of-conduct.html)
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at [www.contributor-covenant.org/version/2//code-of-conduct.html](https://www.contributor-covenant.org/version/2//code-of-conduct.html)
 
