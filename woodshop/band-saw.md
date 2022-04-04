@@ -4,7 +4,7 @@ description: Delta 14" Band Saw
 
 # Band Saw
 
-![](../.gitbook/assets/delta-band-saw.jpg)
+![](../.gitbook/assets/Delta-Band-Saw.jpg)
 
 ## Useful Links
 

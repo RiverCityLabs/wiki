@@ -4,7 +4,7 @@ description: 80 watt CO2 Laser
 
 # BFL Laser
 
-![](../.gitbook/assets/bfl-laser.jpg)
+![](<../.gitbook/assets/BFL Laser.jpg>)
 
 ## Useful Links
 
@@ -33,7 +33,7 @@ What makes this fan great is that just about every part on this fan is user serv
 
 Before you question this decision over the obvious static pressure concerns, this decision was based off a [reddit thread](https://www.reddit.com/r/lasercutting/comments/5f0wmn/on\_extraction\_fans/) which said these fans are engineered to work under static pressure (kids bouncing in a bouncy house) and will actually burn out if they don't have that pressure. So far the random internet engineer seems to be correct in his findings!
 
-![Off the shelf HVAC ducting was used to create an input and output adapter for the fan](<../.gitbook/assets/image (64).png>)
+![Off the shelf HVAC ducting was used to create an input and output adapter for the fan](<../.gitbook/assets/image (63).png>)
 
 ### Assembly
 

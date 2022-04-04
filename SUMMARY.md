@@ -38,7 +38,7 @@
   * [Band Saw](woodshop/band-saw.md)
   * [Disc Sanding Center](woodshop/disc-sanding-center.md)
   * [Planer](woodshop/planer.md)
-  * [Jointer](woodshop/jointer.md)
+  * [Joiner](woodshop/joiner.md)
   * [Oscillating Spindle Sander](woodshop/oscillating-spindle-sander.md)
   * [Scroll Saw](woodshop/scroll-saw.md)
   * [Air Filtration System](woodshop/air-filtration-system.md)
