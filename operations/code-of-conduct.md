@@ -60,7 +60,7 @@ Examples of unacceptable behavior include:
 * Children under the age of 18 years must be accompanied and supervised by an adult.
 * Ask for help when you are uncertain how to use equipment.
 * Never use a tool unless you’ve been trained to use it safely.
-* Do not work when tired or in a hurry.
+* Do not work when tired, in a hurry, or under the influence of any drugs or alcohol.
 
 #### Use Protective Gear & Dress Right
 
