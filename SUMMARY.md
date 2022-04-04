@@ -114,6 +114,7 @@
   * [RCL Website](administration/rcl-website.md)
   * [RCL Automation](administration/rcl-automation.md)
   * [RCL Reverse Proxy](administration/rcl-reverse-proxy.md)
+  * [HASSIO](administration/hassio.md)
   * [YouTube Upload Process](administration/youtube-upload-process.md)
   * [Trello](administration/trello.md)
 * [Meetings](meetings/README.md)
