@@ -8,12 +8,13 @@ description: >-
 
 ## Administration
 
-| Channel Name                                                                                  | Description                                     |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [administration](slack://channel?team=T046HEHJB\&id=C016R8V6GR2)                              | general makerspace administration chat          |
-| [administration-bylaws-updates](slack://channel?team=T046HEHJB\&id=C034R05BNRG)               | chat about updating our bylaws                  |
-| [administration-code-of-conduct-updates-2022](slack://channel?team=T046HEHJB\&id=C037YRSC883) | discuss proposed updates to the code of conduct |
-| [rcl-expansion-2022](slack://channel?team=T046HEHJB\&id=C030S6U1MPD)                          | discuss expanding into adjacent rooms           |
+| Channel Name                                                                                  | Description                                                                    |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [administration](slack://channel?team=T046HEHJB\&id=C016R8V6GR2)                              | general makerspace administration chat                                         |
+| [administration-bylaws-updates](slack://channel?team=T046HEHJB\&id=C034R05BNRG)               | chat about updating our bylaws                                                 |
+| [administration-code-of-conduct-updates-2022](slack://channel?team=T046HEHJB\&id=C037YRSC883) | discuss proposed updates to the code of conduct                                |
+| [rcl-expansion-2022](slack://channel?team=T046HEHJB\&id=C030S6U1MPD)                          | discuss expanding into adjacent rooms                                          |
+| [tools-on-loan](slack://channel?team=T046HEHJB\&id=C02DCJ7DZNH)                               | if you borrow something from the space, please post it here so we can track it |
 
 ## Classes
 
