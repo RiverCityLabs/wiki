@@ -52,6 +52,7 @@
   * [Blacksmith Shop](metalshop/blacksmith-shop/README.md)
     * [Forge](metalshop/blacksmith-shop/forge.md)
     * [Forge Press](metalshop/blacksmith-shop/forge-press.md)
+  * [WEN Belt Sander + Disc](metalshop/wen-belt-sander-+-disc.md)
   * [Bader BIII Belt Grinder](metalshop/bader-biii-belt-grinder.md)
   * [Metal Break](metalshop/metal-break.md)
   * [MIG Welder](metalshop/mig-welder.md)

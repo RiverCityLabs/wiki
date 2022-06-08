@@ -26,7 +26,7 @@ description: Grizzly G0704
 
 [Tormach Machining Tips and How To's](https://www.youtube.com/playlist?list=PLD30BEC599D6128AE)
 
-Quinn Dunki from Blondihacks has a great set of videos on various machining topics. Check out her website [here](http://blondihacks.com) or her YouTube videos [here](https://www.youtube.com/c/Blondihacks/featured). For first time mill users check out her mill skills videos [here](https://www.youtube.com/playlist?list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ).
+Quinn Dunki from Blondihacks has a great set of videos on various machining topics. Check out her website [here](http://blondihacks.com/) or her YouTube videos [here](https://www.youtube.com/c/Blondihacks/featured). For first time mill users check out her mill skills videos [here](https://www.youtube.com/playlist?list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ).
 
 ## Tooling
 

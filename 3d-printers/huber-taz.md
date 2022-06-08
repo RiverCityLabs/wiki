@@ -4,7 +4,7 @@
 
 ## Useful Links
 
-[Remote Huber Taz 6 Octoprint](https://3dprinter2.rivercitylabs.space) - login info is on the printer
+[Remote Huber Taz 6 Octoprint](https://3dprinter2.rivercitylabs.space/) - login info is on the printer
 
 If you cannot reach the Remote Site, use [this link](http://0.0.0.192/168.111.202) When in the space to reach the octoprint\
 **(works only when the space connected to the RCL's Wi-Fi)**

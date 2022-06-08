@@ -16,7 +16,7 @@ There is a computer setup near the 3D printers that is preconfigured with all th
 
 ## Print Server
 
-Each 3D Printer at RCL has a raspberry pi running [Octoprint ](https://octoprint.org)on it. The URL for accessing the Octoprint server is located on that printers' wiki page. The login info will be physically located near the printer itself.
+Each 3D Printer at RCL has a raspberry pi running [Octoprint ](https://octoprint.org/)on it. The URL for accessing the Octoprint server is located on that printers' wiki page. The login info will be physically located near the printer itself.
 
 ## Preparing the Printer
 

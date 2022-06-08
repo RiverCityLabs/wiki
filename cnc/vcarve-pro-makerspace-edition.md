@@ -17,7 +17,7 @@ RCL owns a license of VCarve Pro Makerspace Edition. This license entitles RCL t
 * [Tips & Tricks (videos)](https://support.vectric.com/tips-and-tricks/select.php)
 * [Take the tour](https://youtu.be/q\_Or6ELVc4Q)
 * [Tutorials](https://www.vectric.com/support/tutorials/vcarve-pro)
-* [Vectric Forum](https://forum.vectric.com)
+* [Vectric Forum](https://forum.vectric.com/)
 * [Carbide Motion User Guide](https://docs.carbide3d.com/assembly/carbidemotion/userguide/)
 
 ## Recommended Bits

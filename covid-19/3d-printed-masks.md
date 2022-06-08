@@ -117,7 +117,7 @@ Assembly: Mask and Filter Housing ([Video](https://youtu.be/YwvNQjdSqFs), [Docum
 How-To: Layer, Install, and Replace the Filter ([Video](https://youtu.be/1FXvWiC53C4), [Document](https://docs.google.com/document/d/1yKOHnSMgm-e6Z8X17Z6A7H6JHU2vfUYysx4Voldt6K0/edit?usp=sharing))\
 How-To: Cut Mask Straps (Video, Document)\
 How-To: Silicone Cast ([Video](https://youtu.be/L90IB3giH6Y), [Document](https://drive.google.com/open?id=1bBn6we59EhEJGxuu8Jw91gFQSqiNRVyPfK25RIz3c6E))\
-How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com)
+How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 
 #### Supporting Information and Research
 
