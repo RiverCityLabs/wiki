@@ -34,4 +34,4 @@ How to edit:
 
 ![Click the checkmark to save your changes and add them to the commit. X will cancel your changes.](<../.gitbook/assets/image (9).png>)
 
-![Click the 'A' content button then the "Merge" button to finalize your changes. You can save multiple changes before clicking the Merge button to batch them together.](../.gitbook/assets/image.png)
+![Click the 'A' content button then the "Merge" button to finalize your changes. You can save multiple changes before clicking the Merge button to batch them together.](<../.gitbook/assets/image (3).png>)
