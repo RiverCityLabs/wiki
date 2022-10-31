@@ -52,7 +52,7 @@ Starving Makers shall have the following privileges:
 
 All members must also fulfill the following responsibilities:
 
-* A member must adhere to River City Labs direction and policies at all times.
+* A member must adhere to River City Labs direction and policies at all times, including the Code of Conduct.
 * A member must pay the monthly fee as determined by the board of directors.
 * At the time a member’s eligibility expires, they must forfeit their method of entry in addition to any other property owned by River City Labs to a member of the board of directors or an agent designated by the board of directors for this purpose.
 
