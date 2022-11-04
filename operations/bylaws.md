@@ -47,11 +47,11 @@ The account holder and all individuals that reside at the account holder's place
 * &#x20;Twenty-four hour access to equipment one is certified to use.
 * &#x20;Access to membership exclusive communication systems and information repositories.
 * Membership pricing on all classes.
-* Eligibility to vote on any issue put before the membership.
-* Eligibility to vote for officers and directors.
 
 The account holder shall have the following privileges:
 * Eligibility to run for office and be elected into the board of directors
+* Eligibility to vote on any issue put before the membership.
+* Eligibility to vote for officers and directors.
 
 ### Starving Makers
 
