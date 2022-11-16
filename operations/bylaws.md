@@ -89,7 +89,7 @@ Any lawful issue may be brought before the membership for a vote. A vote of the 
 
 #### Quorum
 
-Quorum for a vote of the membership of River City Labs shall require at least 51% of the existing voting membership on the day of the vote. For the purposes of calculating the quorum, properly submitted proxy statements by members shall count as attendance.
+Quorum for a vote of the membership of River City Labs shall require at least 40% of the existing voting membership on the day of the vote. For the purposes of calculating the quorum, properly submitted proxy statements by members shall count as attendance.
 
 **Submitting an Issue for Vote**
 
