@@ -92,7 +92,7 @@ Notice of all meetings of Members, including regular meetings and the annual mee
 
 ### Meeting Procedure
 
-Meeting procedure shall follow the MIBS Simplified Rules of Coordinated Consensus Through Chaos, available at MIBS Rules.
+Meeting procedure shall follow the [MIBS Simplified Rules of Coordinated Consensus Through Chaos](https://drive.google.com/file/d/0B0r0p556Yr-BLUVsQmFGOURmNEE/view?usp=sharing&resourcekey=0-EyRYuTgGQRcZReVjkNyujw).
 
 ## Voting
 
@@ -120,7 +120,7 @@ Members may vote by proxy. The proxy vote must come from the members e-mail addr
 
 #### Voting Procedures
 
-Voting procedures, including time limits for discussion before taking a vote, shall be defined by the MIBS Simplified Rules of Coordinated Consensus Through Chaos.
+Voting procedures, including time limits for discussion before taking a vote, shall be defined by the [MIBS Simplified Rules of Coordinated Consensus Through Chaos](https://drive.google.com/file/d/0B0r0p556Yr-BLUVsQmFGOURmNEE/view?usp=sharing&resourcekey=0-EyRYuTgGQRcZReVjkNyujw).
 
 #### Majority
 
@@ -157,7 +157,7 @@ Votes by the Directors may not be made by proxy. Directors must attend the meeti
 
 #### Voting Procedures
 
-Voting procedures, including time limits for discussion before taking a vote, shall be defined by the MIBS Simplified Rules of Coordinated Consensus Through Chaos.
+Voting procedures, including time limits for discussion before taking a vote, shall be defined by the [MIBS Simplified Rules of Coordinated Consensus Through Chaos](https://drive.google.com/file/d/0B0r0p556Yr-BLUVsQmFGOURmNEE/view?usp=sharing&resourcekey=0-EyRYuTgGQRcZReVjkNyujw).
 
 #### Majority
 
