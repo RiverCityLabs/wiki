@@ -38,6 +38,21 @@ Full Members shall have the following privileges:
 * Eligibility to vote for officers and directors.
 * Eligibility to run for office and be elected into the board of directors
 
+### Family Members
+
+The account holder and all individuals that reside at the account holder's place of residence shall have the following privileges:
+
+* Twenty-four hour access to the physical workspace.
+  * Access is granted in accordance with the “Membership Terms and Conditions”&#x20;
+* &#x20;Twenty-four hour access to equipment one is certified to use.
+* &#x20;Access to membership exclusive communication systems and information repositories.
+* Membership pricing on all classes.
+
+The account holder shall have the following privileges:
+* Eligibility to run for office and be elected into the board of directors
+* Eligibility to vote on any issue put before the membership.
+* Eligibility to vote for officers and directors.
+
 ### Starving Makers
 
 Starving Makers shall have the following privileges:
