@@ -50,7 +50,7 @@ add links on using dial indicators
 \
 [In this video](https://www.youtube.com/watch?v=lCJyCT\_Tqo8), Tormach machinist, Scott Johnson, provides some insight about one of the most important, yet under-emphasized, elements of machining - workholding.
 
-![](<../.gitbook/assets/image (132).png>)
+![](<../.gitbook/assets/image (131).png>)
 
 
 

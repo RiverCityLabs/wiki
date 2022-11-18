@@ -6,7 +6,7 @@ description: Professional Cabinet Saw (PCS)
 
 ![](../.gitbook/assets/IMG\_20190827\_191948.jpg)
 
-![](<../.gitbook/assets/professional-cabinet-saw (1) (1) (3).jpg>)
+![](<../.gitbook/assets/professional-cabinet-saw (1) (1) (1) (1).jpg>)
 
 ## Miscelanous Info
 

@@ -25,7 +25,7 @@ _**A mask is only as good as the filter that it uses... Filter First, mask secon
 
 Welcome to the "MalaMask" project, a project focused on giving healthcare providers and first responders access to alternative PPE when N95 masks are not available. The reusable MalaMask holds a one time use filter (not included).
 
-![](<../.gitbook/assets/image (79).png>)
+![](<../.gitbook/assets/image (77).png>)
 
 This mask project is completely open source ([CC BY-NC license](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)). We want to share this with the world to help protect the healthcare workers and first responders that are taking care of the people with this horrible virus. Feel free to distribute, share, and print your own under the MalaMask legal agreement ([see link here](https://drive.google.com/open?id=1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp)). If you share this, please link back to the River City Labs wiki.
 
