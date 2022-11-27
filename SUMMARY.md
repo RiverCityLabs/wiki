@@ -95,6 +95,7 @@
   * [Code of Conduct](operations/code-of-conduct.md)
   * [Bylaws](operations/bylaws.md)
   * [Leadership](operations/leadership/README.md)
+    * [2023](operations/leadership/2023.md)
     * [2022](operations/leadership/2022.md)
     * [2021](operations/leadership/2021.md)
     * [2020](operations/leadership/2020.md)
