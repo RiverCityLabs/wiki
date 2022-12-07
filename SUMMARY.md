@@ -139,6 +139,7 @@
       * [3-4-2020](meetings/officers/2020/3-4-2020.md)
       * [7-9-2020](meetings/officers/2020/7-9-2020.md)
     * [2022](meetings/officers/2022/README.md)
+      * [12/13/2022](meetings/officers/2022/12-13-2022.md)
       * [11/08/2022](meetings/officers/2022/11-08-2022.md)
       * [01/11/2022](meetings/officers/2022/1-11-2022.md)
       * [02/17/2022](meetings/officers/2022/02-17-2022.md)
