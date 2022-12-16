@@ -161,6 +161,7 @@
       * [07/21/2022](meetings/members/2022/07-21-2022.md)
       * [10/20/2022](meetings/members/2022/2022.md)
       * [11/17/2022](meetings/members/2022/11-17-2022.md)
+      * [12/15/2022](meetings/members/2022/12-15-2022.md)
     * [2021](meetings/members/2021/README.md)
       * [09-16-2021](meetings/members/2021/09-16-2021.md)
       * [08-19-2021](meetings/members/2021/08-19-2021.md)
