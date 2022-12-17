@@ -8,10 +8,10 @@ description: 80 watt CO2 Laser
 
 ## Useful Links
 
-* [**User Manual**](https://drive.google.com/file/d/0BysG132m5sYncWg0Y1Z1M2hjTjA/view?usp=sharing)****
+* ****[**User Manual**](https://drive.google.com/file/d/1kQMyLdXNTFXQCsm6kDc78eY-7jx1DYtM/view?usp=sharing)****
 * ****[**Lightburn Documentation**](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)****
 * ****[**Lightburn Forum**](https://forum.lightburnsoftware.com/)****
-* ****[**Controller manual**](https://img.banggood.com/file/products/20170110002219AWC708CPLUS%20LCD%20Display%20Operation%20Manuals-1-25%20\(1\)-2-25%20\(2\).pdf)****
+* ****[**Controller manual**](https://drive.google.com/file/d/1hlf5GRhv--c80ah0OGflIeHqLngUTZLS/view?usp=sharing)****
 
 {% content-ref url="bfl.md" %}
 [bfl.md](bfl.md)
