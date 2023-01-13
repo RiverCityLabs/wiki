@@ -60,6 +60,8 @@ Seal all mating surfaces with HVAC foil ducting tape to eliminate any air leaks
 * Power: 80 watt CO2
 * Working area: 900mm x 1200mm (36" x 48")
 * Speed: X: 900mm/s, Y: 500mm/s
+* Focal Length of the Lens used: 50.8mm
+* Diameter of the Lens used: 20mm
 * Based on: Light Objects XLE1200 X-Y Stage
 * Custom built by: River City Labs
 
