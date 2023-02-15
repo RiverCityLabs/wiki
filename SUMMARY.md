@@ -152,6 +152,7 @@
       * [09/13/2022](meetings/officers/2022/09-13-2022.md)
       * [10/11/2022](meetings/officers/2022/10-11-2022.md)
     * [2023](meetings/officers/2023/README.md)
+      * [02/14/2023](meetings/officers/2023/02-14-2023.md)
       * [10/01/2023](meetings/officers/2023/10-01-2023.md)
   * [Members](meetings/members/README.md)
     * [2022](meetings/members/2022/README.md)
