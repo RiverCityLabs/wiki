@@ -1,4 +1,3 @@
 # Router Table
 
-**\*\*\*\*\*\* Stored in cabinet \#1 in the back room \*\*\*\*\***
-
+**\*\*\*\*\*\* Stored in cabinet #1 in the woodshop room \*\*\*\*\***
