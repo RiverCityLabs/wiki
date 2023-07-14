@@ -14,7 +14,6 @@
   * [VCarve Pro Makerspace Edition](cnc/vcarve-pro-makerspace-edition.md)
   * [Probotix CNC Router](cnc/probotix-cnc-router.md)
   * [Shapeoko XXL CNC Router](cnc/shapeoko-xxl-cnc-router.md)
-  * [Pocket NC V2-50](cnc/pocket-nc-v2-50.md)
   * [Grizzly CNC Mill](cnc/grizzly-cnc-mill.md)
 * [Electronics Bench](electronics-bench/README.md)
   * [Rigol Oscilloscope](electronics-bench/rigol\_oscilloscope.md)
