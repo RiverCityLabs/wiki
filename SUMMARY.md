@@ -46,6 +46,7 @@
   * [Biscuit Joiner](woodshop/biscuit-joiner.md)
   * [Router](woodshop/router.md)
   * [Router Table](woodshop/router-table.md)
+  * [Kreg Precision Router Table](woodshop/kreg-precision-router-table.md)
   * [Panel Saw](woodshop/panel-saw-1.md)
   * [Kreg Pocket-Hole Jig](woodshop/kreg-pocket-hole-jig.md)
   * [Dust Collector](woodshop/dust-collector.md)

@@ -1,6 +1,6 @@
 # Ameribrade 2x72 Belt Grinder
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 
 
