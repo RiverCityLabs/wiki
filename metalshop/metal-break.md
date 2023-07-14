@@ -4,7 +4,11 @@ description: Central Machinery 36" Metal Break with Stand
 
 # Metal Break
 
-![](../.gitbook/assets/break.png)
+<div align="left">
+
+<img src="../.gitbook/assets/break.png" alt="">
+
+</div>
 
 ## Useful Links
 

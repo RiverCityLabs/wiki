@@ -6,7 +6,11 @@ description: Probotix Asteroid - GX3725
 
 ![](../.gitbook/assets/IMG\_20190827\_191941.jpg)
 
-![](<../.gitbook/assets/CNC\_router\_rotary\_axis (1).jpg>)
+<div align="left">
+
+<img src="../.gitbook/assets/CNC_router_rotary_axis (1).jpg" alt="">
+
+</div>
 
 ## Useful Links
 
@@ -29,7 +33,7 @@ description: Probotix Asteroid - GX3725
 
 ### Wood
 
-* ****[**Surfacing Planing Tool**](https://www.amazon.com/gp/product/B07BF5ZHD1/ref=ppx\_yo\_dt\_b\_asin\_title\_o03\_s00?ie=UTF8\&psc=1)****
+* [**Surfacing Planing Tool**](https://www.amazon.com/gp/product/B07BF5ZHD1/ref=ppx\_yo\_dt\_b\_asin\_title\_o03\_s00?ie=UTF8\&psc=1)
 
 ### Aluminum
 
@@ -46,7 +50,7 @@ description: Probotix Asteroid - GX3725
 
 ## Technical Specifications
 
-| ****               |                                                                        |
+|                    |                                                                        |
 | ------------------ | ---------------------------------------------------------------------- |
 | **Work Envelope**  |                                                                        |
 | X Travel           | 37+ Inches                                                             |

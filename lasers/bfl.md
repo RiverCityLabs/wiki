@@ -4,24 +4,32 @@ description: 80 watt CO2 Laser
 
 # BFL Laser
 
-![](<../.gitbook/assets/BFL Laser.jpg>)
+<div align="left">
+
+<img src="../.gitbook/assets/BFL Laser.jpg" alt="">
+
+</div>
 
 ## Useful Links
 
-* ****[**User Manual**](https://drive.google.com/file/d/1kQMyLdXNTFXQCsm6kDc78eY-7jx1DYtM/view?usp=sharing)****
-* ****[**Lightburn Documentation**](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)****
-* ****[**Lightburn Forum**](https://forum.lightburnsoftware.com/)****
-* ****[**Controller manual**](https://drive.google.com/file/d/1hlf5GRhv--c80ah0OGflIeHqLngUTZLS/view?usp=sharing)****
+* [**User Manual**](https://drive.google.com/file/d/1kQMyLdXNTFXQCsm6kDc78eY-7jx1DYtM/view?usp=sharing)
+* [**Lightburn Documentation**](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)
+* [**Lightburn Forum**](https://forum.lightburnsoftware.com/)
+* [**Controller manual**](https://drive.google.com/file/d/1hlf5GRhv--c80ah0OGflIeHqLngUTZLS/view?usp=sharing)
 
 {% content-ref url="bfl.md" %}
 [bfl.md](bfl.md)
 {% endcontent-ref %}
 
-****
+
 
 ## **Maintenance**
 
-![](<../.gitbook/assets/image (100).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (100).png" alt="">
+
+</div>
 
 * [Focus lens Oring 20mm diameter](https://www.amazon.com/dp/B07MY2YBKL/ref=cm\_sw\_r\_cp\_apa\_i\_u9HjEbS4N5DD2)
 
@@ -33,7 +41,7 @@ What makes this fan great is that just about every part on this fan is user serv
 
 Before you question this decision over the obvious static pressure concerns, this decision was based off a [reddit thread](https://www.reddit.com/r/lasercutting/comments/5f0wmn/on\_extraction\_fans/) which said these fans are engineered to work under static pressure (kids bouncing in a bouncy house) and will actually burn out if they don't have that pressure. So far the random internet engineer seems to be correct in his findings!
 
-![Off the shelf HVAC ducting was used to create an input and output adapter for the fan](<../.gitbook/assets/image (64).png>)
+![Off the shelf HVAC ducting was used to create an input and output adapter for the fan](<../.gitbook/assets/image (63).png>)
 
 ### Assembly
 

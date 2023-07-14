@@ -1,6 +1,10 @@
 # Huber - Lulzbot TAZ 6
 
-![Huber Lulzbot TAZ 6](../.gitbook/assets/Lulzbot-TAZ6.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/Lulzbot-TAZ6.jpg" alt="Huber Lulzbot TAZ 6">
+
+</div>
 
 ## Useful Links
 

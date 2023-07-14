@@ -6,7 +6,11 @@ description: 'Ryobi Biscuit Joiner Model: JM82'
 
 **\*\*\*\*\*\* Stored in a bin in cabinet #1 in the back room \*\*\*\*\***
 
-![](<../.gitbook/assets/image (99).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (99).png" alt="">
+
+</div>
 
 ## Useful Links
 

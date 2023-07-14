@@ -4,9 +4,17 @@ description: Powermatic PM1200 AIR FILTRATION SYSTEM
 
 # Air Filtration System
 
-![](<../.gitbook/assets/image (23).png>)
+<div align="left">
 
-![](<../.gitbook/assets/image (91).png>)
+<img src="../.gitbook/assets/image (23).png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="../.gitbook/assets/image (91).png" alt="">
+
+</div>
 
 ## Useful Links
 

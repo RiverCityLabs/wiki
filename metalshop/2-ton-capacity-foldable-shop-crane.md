@@ -6,9 +6,17 @@ description: Pittsburgh Automotive 2 Ton Capacity Foldable Shop Crane
 
 **\*\*\* The shop crane was donated to the space by Alan Hennis**
 
-![](<../.gitbook/assets/image (86).png>)
+<div align="left">
 
-![](<../.gitbook/assets/image (87).png>)
+<img src="../.gitbook/assets/image (86).png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="../.gitbook/assets/image (87).png" alt="">
+
+</div>
 
 
 

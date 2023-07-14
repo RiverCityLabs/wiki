@@ -4,7 +4,11 @@ description: Grizzly G0704
 
 # Grizzly CNC Mill
 
-![](<../.gitbook/assets/image (115).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (115).png" alt="">
+
+</div>
 
 ## Specifications
 
@@ -50,7 +54,11 @@ add links on using dial indicators
 \
 [In this video](https://www.youtube.com/watch?v=lCJyCT\_Tqo8), Tormach machinist, Scott Johnson, provides some insight about one of the most important, yet under-emphasized, elements of machining - workholding.
 
-![](<../.gitbook/assets/image (131).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (132).png" alt="">
+
+</div>
 
 
 

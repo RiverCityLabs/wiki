@@ -10,5 +10,9 @@ description: >-
 
 ![](../.gitbook/assets/IMG\_20190827\_192101.jpg)
 
-![](../.gitbook/assets/4ColorScreenPrintingMachine.png)
+<div align="left">
+
+<img src="../.gitbook/assets/4ColorScreenPrintingMachine.png" alt="">
+
+</div>
 

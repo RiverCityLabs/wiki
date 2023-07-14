@@ -1,6 +1,10 @@
 # VCarve Pro Makerspace Edition
 
-![](<../.gitbook/assets/image (124).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (124).png" alt="">
+
+</div>
 
 RCL owns a license of VCarve Pro Makerspace Edition. This license entitles RCL to install the full version of VCarve Pro on up to five computers at our facility. It also entitles members to a free copy of VCarve Pro Makerspace Edition Desktop Client to load on their computer. The desktop client allows you to have an almost fully working copy of VCarve Pro on your computer so you can work on your projects at home without having to come to the space. The only limitation of the desktop client is that it can not export your designs in a way that you can use on a CNC machine. To use your design you will need to come into the space and use one of the full copies of VCarve Pro to export your design and cut it on a CNC machine.
 
@@ -24,7 +28,7 @@ RCL owns a license of VCarve Pro Makerspace Edition. This license entitles RCL t
 
 ### Wood
 
-* ****[**Surfacing Planing Tool**](https://www.amazon.com/gp/product/B07BF5ZHD1/ref=ppx\_yo\_dt\_b\_asin\_title\_o03\_s00?ie=UTF8\&psc=1)****
+* [**Surfacing Planing Tool**](https://www.amazon.com/gp/product/B07BF5ZHD1/ref=ppx\_yo\_dt\_b\_asin\_title\_o03\_s00?ie=UTF8\&psc=1)
 
 ### Aluminum
 

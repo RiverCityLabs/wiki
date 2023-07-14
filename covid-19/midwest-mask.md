@@ -44,7 +44,7 @@ These masks are purely meant as a way to reduce the spread of airborne pathogens
 
 ![shareable infographic instructions.](<../.gitbook/assets/masks infographic 2.jpg>)
 
-****
+
 
 ### **Materials**
 
@@ -58,7 +58,7 @@ These masks are purely meant as a way to reduce the spread of airborne pathogens
 
 100% cotton sewn using the instructions below _OR use 100% cotton twill tape OR bias tape OR use NWPP folded in half and sewn down the side._
 
-_I_[_nformation on why we don't suggest elastic ties here._](midwest-mask.md#elastic)__
+_I_[_nformation on why we don't suggest elastic ties here._](midwest-mask.md#elastic)
 
 ### **Strap Instructions**
 
@@ -76,7 +76,11 @@ Description automatically generated](../.gitbook/assets/image3.jpg)
 
 Fold in half again along the center and iron.
 
-![](../.gitbook/assets/image2.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/image2.jpg" alt="">
+
+</div>
 
 Sew along the edge to secure the fold.
 
@@ -88,7 +92,11 @@ Cut to 16”-18” in length. [\[3\]](midwest-mask.md#footnotes)
 
 Stack the two 6” by 9” rectangles right sides together. [\[4\]](midwest-mask.md#footnotes)
 
-![](../.gitbook/assets/image5.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/image5.jpg" alt="">
+
+</div>
 
 Sew along the top starting about 2” from the corner. Insert the end of one strap in the corner and sew in place. As long as it’s secured, you’re good. We’re looking for efficiency and effectiveness, not beauty.
 
@@ -106,11 +114,19 @@ Description automatically generated](../.gitbook/assets/image9.jpg)
 
 Turn the mask right side out. Sew up the little gap that’s left open.
 
-![](../.gitbook/assets/image8.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/image8.jpg" alt="">
+
+</div>
 
 Form three pleats on each edge and pin in place. [\[5\]](midwest-mask.md#footnotes) It doesn’t matter if they go up or down, but both sides must go the same way.
 
-![](../.gitbook/assets/image12.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/image12.jpg" alt="">
+
+</div>
 
 Sew (topstitch) around the whole mask once more to secure pleats and seal.
 

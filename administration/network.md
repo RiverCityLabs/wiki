@@ -2,10 +2,18 @@
 
 
 
-![Unifi Cloud Key](<../.gitbook/assets/image (72).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (72).png" alt="Unifi Cloud Key">
+
+</div>
 
 
 
-![Unifi Security Gateway](<../.gitbook/assets/image (71).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (71).png" alt="Unifi Security Gateway">
+
+</div>
 
 ![](<../.gitbook/assets/image (130).png>)

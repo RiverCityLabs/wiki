@@ -4,7 +4,11 @@ description: Neycraft Ceramic Burnout Kiln
 
 # Kiln
 
-![](<../.gitbook/assets/image (26).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (26).png" alt="">
+
+</div>
 
 ## Useful Links
 

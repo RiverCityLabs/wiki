@@ -4,7 +4,11 @@ description: Everlast Power i-MIG 200
 
 # MIG Welder
 
-![](<../.gitbook/assets/image (139).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (139).png" alt="">
+
+</div>
 
 ## Useful Links
 

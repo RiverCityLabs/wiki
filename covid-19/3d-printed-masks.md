@@ -25,7 +25,7 @@ _**A mask is only as good as the filter that it uses... Filter First, mask secon
 
 Welcome to the "MalaMask" project, a project focused on giving healthcare providers and first responders access to alternative PPE when N95 masks are not available. The reusable MalaMask holds a one time use filter (not included).
 
-![](<../.gitbook/assets/image (77).png>)
+![](<../.gitbook/assets/image (79).png>)
 
 This mask project is completely open source ([CC BY-NC license](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)). We want to share this with the world to help protect the healthcare workers and first responders that are taking care of the people with this horrible virus. Feel free to distribute, share, and print your own under the MalaMask legal agreement ([see link here](https://drive.google.com/open?id=1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp)). If you share this, please link back to the River City Labs wiki.
 
@@ -130,7 +130,7 @@ How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 [Part Fit-up Guidance](https://www.youtube.com/watch?v=6mm9OmD3Bnk)\
 \
 \
-[_Release, Waiver of Liability, Defense, Indemnification and Hold Harmless Agreement_](https://drive.google.com/file/d/1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp/view?usp=sharing)__
+[_Release, Waiver of Liability, Defense, Indemnification and Hold Harmless Agreement_](https://drive.google.com/file/d/1q88C3IJNmO3mrFJA7bNemfwyZMHMTiKp/view?usp=sharing)
 
 ## Justifications
 
@@ -147,7 +147,7 @@ River City Labs: info@rivercitylabs.space
 ## Project License
 
 **Open Source Licensed under CC BY-NC**\
-**Project License can be found at** [**https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs\_NAjh6ygaVKa2f**](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)****
+**Project License can be found at** [**https://drive.google.com/open?id=121YNJ0pGxR9wrBPxTs\_NAjh6ygaVKa2f**](https://drive.google.com/open?id=1us-Ttjg2yxOiB2sW7Vn7yeu1NlD7gDf2)
 
 ## Project Contributors
 
@@ -178,5 +178,5 @@ Mask Name Contributed by... Alec Randazzo (@AlecRandazzo) @ Nova Labs MakerSpace
 Special Thanks to all Financial Contributors. This project would not be what it is without your support! Thank you.\
 \
 **Thank you to all the healthcare workers putting themselves in harms way to care for the COVID-19 patients and patients in general!**\
-****\
-****_**You are the heroes!**_
+\
+_**You are the heroes!**_

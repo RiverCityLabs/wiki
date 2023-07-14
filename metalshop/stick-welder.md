@@ -6,7 +6,11 @@ description: Lincoln Buzz Box
 
 **\*\*\* The stick welder is on loan to the space from Alan Hennis**
 
-![](../.gitbook/assets/LincolnBuzzbox.png)
+<div align="left">
+
+<img src="../.gitbook/assets/LincolnBuzzbox.png" alt="">
+
+</div>
 
 ## Guides
 

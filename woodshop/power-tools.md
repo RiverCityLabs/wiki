@@ -6,7 +6,11 @@ description: Various Porter Cable battery powered tools
 
 **\*\*\* These tools were generously donated to the space by Joe Spanier**
 
-![](<../.gitbook/assets/image (119).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (119).png" alt="">
+
+</div>
 
 **Porter Cable Power Tools**
 

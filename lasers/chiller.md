@@ -2,8 +2,8 @@
 
 ![](../.gitbook/assets/chiller.jpg)
 
-_**Periodic Maintenance** _ \
-__\
+_**Periodic Maintenance**_ \
+\
 _- the air_ inlet filters on the left and right side of the chiller need to be cleaned monthly or when they appear dirty. The radiator inside the chiller behind the rear air outlet exhaust fans must also be cleaned monthly. This can be accomplished by using the compressor to blow out the inside of the chiller.\
 \
 \- The coolant level needs to be checked weekly or before each use. There is a coolant level gauge on the back of the unit. It should be filled until the coolant level is in the GREEN zone of the gauge. Use distilled water or other approved coolants only.

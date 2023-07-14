@@ -8,7 +8,11 @@ description: Kreg Pocket-Hole Jig K4 Master System
 
 **\*\*\* This tool was purchased with a donation from Fred Bliss**
 
-![](<../.gitbook/assets/image (113).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (113).png" alt="">
+
+</div>
 
 ## Useful Links
 

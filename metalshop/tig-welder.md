@@ -4,7 +4,11 @@ description: Eastwood TIG 200 AC/DC Welder
 
 # TIG-Welder
 
-![](<../.gitbook/assets/image (16).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (16).png" alt="">
+
+</div>
 
 ## Useful Links
 

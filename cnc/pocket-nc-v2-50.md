@@ -4,7 +4,11 @@
 
 **\*\*\* The Pocket NC V2-50 is on loan to the space from William Staple**s
 
-![](<../.gitbook/assets/image (117).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (117).png" alt="">
+
+</div>
 
 
 

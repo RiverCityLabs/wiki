@@ -12,4 +12,4 @@ In the unfortunate event we need to reinstall the reverse proxy server, here are
    1. change the default pi password
    2. expand the filesystem
 4. run `sudo apt update && apt upgrade`
-5. ``
+5.

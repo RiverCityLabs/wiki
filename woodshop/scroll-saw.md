@@ -6,7 +6,11 @@ description: 'Makita Model: SJ401'
 
 **\*\*\*\*\*\* Stored in cabinet #1 in the back room \*\*\*\*\***
 
-![](<../.gitbook/assets/image (24).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (24).png" alt="">
+
+</div>
 
 ## Useful Links
 

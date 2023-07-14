@@ -1,6 +1,10 @@
-# Radford Lulzbot TAZ 6
+# Radford - Lulzbot TAZ 6
 
-![Radford Lulzbot TAZ 6](../.gitbook/assets/Lulzbot-TAZ6.jpg)
+<div align="left">
+
+<img src="../.gitbook/assets/Lulzbot-TAZ6.jpg" alt="Radford Lulzbot TAZ 6">
+
+</div>
 
 
 
