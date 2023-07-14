@@ -10,5 +10,7 @@
 
 [Precision Router Table Fence Manual](https://www.kregtool.com/on/demandware.static/-/Library-Sites-RefArchSharedLibrary/default/dwa0194e15/manuals/PRS1015\_NA.pdf)
 
+[Multi-Purpose Shop Stand Manual](http://127.0.0.1:5000/s/RJVekAiInLPya98lY3Kw/)
+
 
 
