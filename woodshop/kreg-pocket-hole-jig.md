@@ -4,7 +4,7 @@ description: Kreg Pocket-Hole Jig K4 Master System
 
 # Kreg Pocket-Hole Jig
 
-**\*\*\*\*\*\* Stored in a bin in cabinet #1 in the back room \*\*\*\*\***
+**\*\*\*\*\*\* Stored in a bin in cabinet #1 in the woodshop room \*\*\*\*\***
 
 **\*\*\* This tool was purchased with a donation from Fred Bliss**
 

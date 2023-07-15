@@ -4,7 +4,7 @@ description: 'Ryobi Biscuit Joiner Model: JM82'
 
 # Biscuit Joiner
 
-**\*\*\*\*\*\* Stored in a bin in cabinet #1 in the back room \*\*\*\*\***
+**\*\*\*\*\*\* Stored in a bin in cabinet #1 in the woodshop room \*\*\*\*\***
 
 <div align="left">
 
