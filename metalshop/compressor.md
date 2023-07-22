@@ -1,6 +1,6 @@
 # Compressor
 
-**\*\*\*\*\*\* The Frankenpressor is in the back room above the double doors \*\*\*\*\***
+**\*\*\*\*\*\* The Frankenpressor is located above the paint room \*\*\*\*\***
 
 **\*\*\* The Frankenpressor was donated to the Space by Josh Malavolti**
 
