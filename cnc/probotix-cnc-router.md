@@ -67,3 +67,71 @@ description: Probotix Asteroid - GX3725
 | Control System     | Unity CNC Controller (5x 4.2Amp Bi-polar Drivers), LinuxCNC Control PC |
 | Power Requirements | 10A@110VAC for Control System, 20A@220VAC for optional VFD Spindle     |
 
+## 1.5KW VFD, Variable Frequency Drive (KL-VFD15), 110VAC input
+
+**Product Description**
+
+Led Display
+
+Input: 110VAC ±15%  1 or 3 phase (R,S or R, T or S,T)    50/60Hz
+
+Output: 110VAC 3 Phase (U,V,W)  1.5KW
+
+Frequency Range: 0.1-400Hz
+
+0-10V Analog interface capability
+
+Variable speed potentiometer
+
+**VFD Parameter set:**
+
+PD000=1 for Parameter unlock ( 1 ) for Parameter Lock
+
+PD001=1 (1 For Remote Control)
+
+PD002=1 ( 1 For 0-10v Terminal Control or Remote Trim Pot Control ) ( J1 Also Needs to be set for Terminal Control )
+
+PD003=400
+
+PD004=400
+
+PD005=400
+
+PD007=20
+
+PD008=120 (Motor Rated Voltage, If you have 120v spindle then set to 120v )
+
+PD009=15
+
+PD010=8
+
+PD011=120 ( 100 Minimum Setting with Quality VFD, 120 is Safe)
+
+PD13= 08 is for Factory reset, Only use this to set VFD to Factory Default Settings
+
+PD014 Acceleration=12 ( Adjust to suit)
+
+PD015 Deceleration=12 (Adjust to suit) ( PD15 is ignored IF PD26=1 Then the Spindle will Coast to a Stop)
+
+PD141=120 ( Motor Rated Voltage ) (120 for VFD Rated for 120v )
+
+PD142= ( Motor Max Amps)\
+PD142=( 220vSet for your motor Amp Rating 2.2Kw Spindle 9 amp )\
+PD142=( 220VSet for your motor Amp Rating 1.5Kw Spindle 7 amp )\
+PD142=( 220v Set for your motor Amps Rating 800w Spindle 4 amps )\
+PD142=( 120v Set for your motor Amp Rating 800w Spindle 7 amp )
+
+PD143=2 ( Motor Number of Poles)
+
+PD144=3000 (Max Motor RPM) =3,000= (24,000)
+
+PD70=0 ( This may need to be set to 1 if Control Voltage is 0-5v )
+
+PD72=400
+
+PD73=120 ( 100 Minimum Setting )
+
+**Manuals & Downloads**\
+[VFD User Manual (1708 downloads)](http://www.automationtechnologiesinc.com/download/17521/)\
+Thanks to our customer.
+
