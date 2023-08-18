@@ -115,7 +115,7 @@ PD015 Deceleration=12 (Adjust to suit) ( PD15 is ignored IF PD26=1 Then the Spin
 
 PD141=120 ( Motor Rated Voltage ) (120 for VFD Rated for 120v )
 
-PD142= ( Motor Max Amps)\
+PD142= 7\
 PD142=( 220vSet for your motor Amp Rating 2.2Kw Spindle 9 amp )\
 PD142=( 220VSet for your motor Amp Rating 1.5Kw Spindle 7 amp )\
 PD142=( 220v Set for your motor Amps Rating 800w Spindle 4 amps )\
