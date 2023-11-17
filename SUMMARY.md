@@ -175,6 +175,7 @@
       * [07/27/23](meetings/members/2023/07-27-23.md)
       * [08/19/2023](meetings/members/2023/08-19-2023.md)
       * [09/21/2023](meetings/members/2023/09-21-2023.md)
+      * [11/16/2023](meetings/members/2023/11-16-2023.md)
     * [2022](meetings/members/2022/README.md)
       * [01/20/2022](meetings/members/2022/01-20-2022.md)
       * [02/08/2022](meetings/members/2022/02-08-2022.md)
