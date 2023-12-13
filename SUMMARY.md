@@ -164,6 +164,7 @@
       * [9/12/2023](meetings/officers/2023/9-12-2023.md)
       * [10/10/2023](meetings/officers/2023/10-10-2023.md)
       * [11/14/2023](meetings/officers/2023/11-14-2023.md)
+      * [12/12/2023](meetings/officers/2023/12-12-2023.md)
   * [Members](meetings/members/README.md)
     * [2023](meetings/members/2023/README.md)
       * [01/19/2023](meetings/members/2023/01-19-2023.md)
