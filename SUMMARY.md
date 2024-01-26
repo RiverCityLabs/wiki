@@ -23,6 +23,7 @@
   * [Power Supply 60V](electronics-bench/power-supply.md)
   * [Power Supply 30V](electronics-bench/power-supply-1.md)
   * [SMD Rework Station](electronics-bench/smd-rework-station.md)
+* [Graphic Drawing Tablet](graphic-drawing-tablet.md)
 * [Lasers](lasers/README.md)
   * [LightBurn](lasers/lightburn.md)
   * [BFL Laser](lasers/bfl.md)
