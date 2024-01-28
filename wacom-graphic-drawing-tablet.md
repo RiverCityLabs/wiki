@@ -1,8 +1,8 @@
 ---
-description: 'Graphic Drawing Tablet Instructions:'
+description: 'Wacom Graphic Drawing Tablet Instructions:'
 ---
 
-# Graphic Drawing Tablet
+# Wacom Graphic Drawing Tablet
 
 
 

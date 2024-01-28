@@ -44,7 +44,7 @@ Really depends on what job are you about to do. Most likely a trial and error pr
 * BFL can go as low and 12% in power and a maximum of 80%. (At 80% you're maxing-out the laser tube's efficiency and decreasing it's life)
 * K40's can go as low as XX% in power and a maximum of 80%.&#x20;
 
-####
+## Sending files to the machine
 
 ## FAQs
 
