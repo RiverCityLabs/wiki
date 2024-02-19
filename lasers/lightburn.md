@@ -48,7 +48,9 @@ Really depends on what job are you about to do. Most likely a trial and error pr
 
 ## FAQs
 
-### Cannot send file or Transfer failed
+*   ## Explore LIGHTBURN hotkeys
 
-### Engrave Vs Cut a.k.a RED color Vs BLACK color
+    [LIGHTBURN](https://lightburnsoftware.com/) has a lot of evolving hotkeys to enable users which we recommend and can be found [here](https://docs.lightburnsoftware.com/img/Hot\_keyguideV1\_2.svg)
+* Cannot send file or Transfer failed
+* Engrave Vs Cut a.k.a RED color Vs BLACK color
 
