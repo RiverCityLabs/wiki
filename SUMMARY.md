@@ -213,6 +213,7 @@
       * [12/21/2023](meetings/members/2023/12-21-2023.md)
     * [2024](meetings/members/2024/README.md)
       * [3/21/2024](meetings/members/2024/3-21-2024.md)
+      * [4/18/2024](meetings/members/2024/4-18-2024.md)
 * [Covid-19](covid-19/README.md)
   * [Midwest Mask](covid-19/midwest-mask.md)
   * [How you can help](covid-19/how-you-can-help.md)
