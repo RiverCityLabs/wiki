@@ -174,6 +174,8 @@
       * [3/12/2024](meetings/officers/2024/3-12-2024.md)
       * [4/9/2024](meetings/officers/2024/4-9-2024.md)
       * [5/14/2024](meetings/officers/2024/5-14-2024.md)
+      * [6/11/2024](meetings/officers/2024/6-11-2024.md)
+      * [7/9/2024](meetings/officers/2024/7-9-2024.md)
   * [Members](meetings/members/README.md)
     * [2020](meetings/members/2020/README.md)
       * [11-10-20](meetings/members/2020/11-10-20.md)
