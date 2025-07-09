@@ -9,11 +9,11 @@ description: The "Reusable Mask with one time use filters tested at N95 filter s
 _**\*\*\* 202 Masks and 948 Filters Requested \*\*\***_\
 _**\*\*\* 202 Masks and 948 Filters Delivered \*\*\***_
 
-### [See the Product Catalog.](https://drive.google.com/open?id=1FoY\_FYsGw0ZyuOSSahGh\_H9WUuawBCYa)
+### [See the Product Catalog.](https://drive.google.com/open?id=1FoY_FYsGw0ZyuOSSahGh_H9WUuawBCYa)
 
-### [Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC\_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf\_link)
+### [Submit a Request for Product and Supplies.](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)
 
-### [Donate to support River City Labs COVID efforts.](https://www.paypal.com/cgi-bin/webscr?cmd=\_s-xclick\&hosted\_button\_id=RGVSQCSW872VL\&source=url)
+### [Donate to support River City Labs COVID efforts.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick\&hosted_button_id=RGVSQCSW872VL\&source=url)
 
 Due to high demand of PPE at this time we will do our best to fulfill the orders that are placed. We will contact you regarding fulfillment and arrange delivery.
 
@@ -21,7 +21,7 @@ Due to high demand of PPE at this time we will do our best to fulfill the orders
 
 _**A mask is only as good as the filter that it uses... Filter First, mask second!**_
 
-#### _**IT PASSED!  We have found filters that have passed the**_ [_**95% efficiency at the 0.3 micron**_](https://www.ncbi.nlm.nih.gov/pubmed/9487666) _**spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg\_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+#### _**IT PASSED!  We have found filters that have passed the**_ [_**95% efficiency at the 0.3 micron**_](https://www.ncbi.nlm.nih.gov/pubmed/9487666) _**spec!**_  [See the conclusion in the filter research document](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
 Welcome to the "MalaMask" project, a project focused on giving healthcare providers and first responders access to alternative PPE when N95 masks are not available. The reusable MalaMask holds a one time use filter (not included).
 
@@ -33,7 +33,7 @@ See "[The Playbook!](https://wiki.rivercitylabs.space/covid-19/3d-printed-masks#
 
 ![](<../.gitbook/assets/image (81).png>)
 
-**Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask filter specs".** Disclaimer: River City Labs is a MakerSpace organization that is 100% volunteer run and operated. We are filling a need in the community. The MalaMask is not medical grade. We have done testing ([see link here](https://docs.google.com/document/d/1PvpCbRg\_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)) and believe it will help when no other medical equipment is available. We do not certify the design or components will operate properly or satisfy any regulatory requirements.
+**Please note this mask project is formally defined as a "Reusable Mask with one time use filters tested at N95 mask filter specs".** Disclaimer: River City Labs is a MakerSpace organization that is 100% volunteer run and operated. We are filling a need in the community. The MalaMask is not medical grade. We have done testing ([see link here](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)) and believe it will help when no other medical equipment is available. We do not certify the design or components will operate properly or satisfy any regulatory requirements.
 
 ## The Filter
 
@@ -41,13 +41,13 @@ The filter is comprise of 5 layers of Merv 13 and 2 layers of cotton with a dens
 
 ![Layering Order](<../.gitbook/assets/image (83).png>)
 
-**Have you had this filter professionally tested?** YES! [See the results](https://docs.google.com/document/d/1PvpCbRg\_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+**Have you had this filter professionally tested?** YES! [See the results](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
-**How efficient is this filter when lab tested?** Average of 99.9697% efficient over 3 samples at the 0.3 micron spec @ 32 liters/minute. [See the results](https://docs.google.com/document/d/1PvpCbRg\_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+**How efficient is this filter when lab tested?** Average of 99.9697% efficient over 3 samples at the 0.3 micron spec @ 32 liters/minute. [See the results](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
-**What is the best efficiency you have found?** Average of 97.66% efficient over 5 samples at the 0.3 micron spec.  Average of 93.067% efficient over 3 samples at the 0.3 micron spec over 80 minutes.  Efficiency Range of 92.5% - 98.1% over all 8 samples. 5 of the 5 samples were at or above 95% for initial efficiency. Then why not this combination... well you have to balance breath-ability.  [See the results](https://drive.google.com/open?id=1yupGFIhwD8AysjFTFQhwAgz6Ek0EjDfb) and [See our filter research](https://docs.google.com/document/d/1PvpCbRg\_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
+**What is the best efficiency you have found?** Average of 97.66% efficient over 5 samples at the 0.3 micron spec.  Average of 93.067% efficient over 3 samples at the 0.3 micron spec over 80 minutes.  Efficiency Range of 92.5% - 98.1% over all 8 samples. 5 of the 5 samples were at or above 95% for initial efficiency. Then why not this combination... well you have to balance breath-ability.  [See the results](https://drive.google.com/open?id=1yupGFIhwD8AysjFTFQhwAgz6Ek0EjDfb) and [See our filter research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing).
 
-**Where can I find the supplies needed to make this filter?** [See our Material Sourcing doc](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing) or you can request filter media through our "[Request Product and Supplies](https://docs.google.com/forms/d/e/1FAIpQLSeHAC\_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf\_link)" form.  We also have a DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing) where you can make these yourself.
+**Where can I find the supplies needed to make this filter?** [See our Material Sourcing doc](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing) or you can request filter media through our "[Request Product and Supplies](https://docs.google.com/forms/d/e/1FAIpQLSeHAC_TNfr9oT7GbtTdVPqMini52MBla2alOWfOZqBjBwrcTw/viewform?usp=sf_link)" form.  We also have a DIY section in the [manufacturing resources document](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing) where you can make these yourself.
 
 **Is this the right filter and mask for me?** A majority of people do not need this level of filtering and a sealed mask.  If you are exposed to an aerosol environment, a "Maximum Filtration" mask and filter is appropriate.  Typically people that are exposed to these conditions are going to be in emergent healthcare, ICU healthcare and first responders (Fire and EMT).  For the majority of people who are not exposed to these conditions, a "ASTM Level... \[1-3]" mask / alternative would be appropriate.  [See River City Labs "Midwest Mask"](https://wiki.rivercitylabs.space/covid-19/midwest-mask).
 
@@ -112,7 +112,7 @@ Printable Parts ([Thingiverse](https://www.thingiverse.com/thing:4247401) / [You
 Information: [MalaMask 1 Pager](https://drive.google.com/open?id=11IRQGlzJXB24tk5LriO70lpKRo6jtcAE)\
 Information: [Material Sourcing](https://docs.google.com/document/d/1D2JJbhaYfgdTknCVutDJhhNwSaVdwMeYBe52wzRGStc/edit?usp=sharing)\
 Information: [Manufacturing Resources](https://docs.google.com/document/d/1jeWSGgiAR2baAT94O83xQv42Ih72nSFfywWchpVEivE/edit?usp=sharing)\
-Information: [Sterilization](https://docs.google.com/document/d/1Ypl\_NjmrNBdD1M0ZRKel6y71uFnt\_XHuzYRLHQ0F3Yk/edit?usp=sharing)\
+Information: [Sterilization](https://docs.google.com/document/d/1Ypl_NjmrNBdD1M0ZRKel6y71uFnt_XHuzYRLHQ0F3Yk/edit?usp=sharing)\
 Assembly: Mask and Filter Housing ([Video](https://youtu.be/YwvNQjdSqFs), [Document](https://docs.google.com/document/d/1SpCyWQBgHfW2ePIzmhA3BqtUgzyOQMz8X0SAy0sHsE8/edit?usp=sharing))\
 How-To: Layer, Install, and Replace the Filter ([Video](https://youtu.be/1FXvWiC53C4), [Document](https://docs.google.com/document/d/1yKOHnSMgm-e6Z8X17Z6A7H6JHU2vfUYysx4Voldt6K0/edit?usp=sharing))\
 How-To: Cut Mask Straps (Video, Document)\
@@ -121,9 +121,9 @@ How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 
 #### Supporting Information and Research
 
-[Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg\_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)\
+[Filter Materials Research](https://docs.google.com/document/d/1PvpCbRg_Sh6PIX0ziEDmQvnjWnJY5d0YOeTuWkOZNnA/edit?usp=sharing)\
 [Public Project Folder](https://drive.google.com/drive/folders/17v80mLmWdSHgmpojCnGb660X7t5SeWA5?usp=sharing)\
-[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3\_MaskEnomics\_Poster\_2012.pdf) (produced by CrossTex)
+[Guide to Face Mask Selection](https://healthcentricadvisors.org/wp-content/uploads/2017/04/3_MaskEnomics_Poster_2012.pdf) (produced by CrossTex)
 
 #### Supporting Videos
 
@@ -179,4 +179,4 @@ Special Thanks to all Financial Contributors. This project would not be what it 
 \
 **Thank you to all the healthcare workers putting themselves in harms way to care for the COVID-19 patients and patients in general!**\
 \
-_**You are the heroes!**_
+&#xNAN;_**You are the heroes!**_

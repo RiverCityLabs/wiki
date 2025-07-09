@@ -5,7 +5,7 @@
 * Always wear safety glasses, even if you are not using any tools yourself, as chips and debris can fly considerable distances.  Prescription eyeglasses are rated as safety glasses, and may be used as such, but remember that they do not protect from the sides unless you add side shields.
 * Take off all jewelry, roll up your sleeves and tie back your hair; do not give the machines something to grab hold of.
 * Learn where the following things are:  Exits, fire extinguishers, first aid kits, electrical switchboxes and cutoff valves.  Learn the use of each.
-* Never interrupt or distract anyone using power tools, unless you see a safety hazard that the person does not see.  If you must get someone’s attention, move into their field of vision and wait for them to notice you**.**
+* Never interrupt or distract anyone using power tools, unless you see a safety hazard that the person does not see.  If you must get someone’s attention, move into their field of vision and wait for them to notice yo&#x75;**.**
 * Inspect any tool or piece of equipment before using it; if there seems to be anything wrong with it, do not use it, and bring it to the attention of someone in charge of maintenance.
 * Always ensure that the cutting tools you use are as sharp as possible; this includes sandpaper, which can get clogged or the abrasive dulled with use.  The more dull a tool is, the more energy must be used to get it to cut at all, leaving less energy available for control.
 * Always remember:  What a tool can do to wood or metal, it can do to your fingers, and usually more easily.  Follow ALL safety rules, and use ALL safety devices. &#x20;

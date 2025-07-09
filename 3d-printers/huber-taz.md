@@ -1,17 +1,13 @@
 # Huber - Lulzbot TAZ 6
 
-<div align="left">
-
-<img src="../.gitbook/assets/Lulzbot-TAZ6.jpg" alt="Huber Lulzbot TAZ 6">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Lulzbot-TAZ6.jpg" alt="Huber Lulzbot TAZ 6"></div>
 
 ## Useful Links
 
 [Remote Huber Taz 6 Octoprint](https://3dprinter2.rivercitylabs.space/) - login info is on the printer
 
 If you cannot reach the Remote Site, use [this link](http://0.0.0.192/168.111.202) When in the space to reach the octoprint\
-**(works only when the space connected to the RCL's Wi-Fi)**
+&#xNAN;**(works only when the space connected to the RCL's Wi-Fi)**
 
 [Official TAZ 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 

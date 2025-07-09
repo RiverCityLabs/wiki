@@ -1,10 +1,6 @@
 # Radford - Lulzbot TAZ 6
 
-<div align="left">
-
-<img src="../.gitbook/assets/Lulzbot-TAZ6.jpg" alt="Radford Lulzbot TAZ 6">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/Lulzbot-TAZ6.jpg" alt="Radford Lulzbot TAZ 6"></div>
 
 
 
@@ -13,7 +9,7 @@
 [Remote Radford Taz 6 Octoprint](https://3dprinter3.rivercitylabs.space) - login info is on the printer
 
 If you cannot reach the Remote Site use [this link](http://192.68.111.201) When in the space to reach the octoprint\
-**(works only when the space connected to the RCL's Wi-Fi)**
+&#xNAN;**(works only when the space connected to the RCL's Wi-Fi)**
 
 
 
