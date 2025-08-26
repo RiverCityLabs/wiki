@@ -186,6 +186,7 @@
       * [05/13/2025](meetings/officers/2025/05-13-2025.md)
       * [06/10/2025](meetings/officers/2025/06-10-2025.md)
       * [07/08/2025](meetings/officers/2025/07-08-2025.md)
+      * [15/08/2025](meetings/officers/2025/15-08-2025.md)
   * [Members](meetings/members/README.md)
     * [2020](meetings/members/2020/README.md)
       * [11-10-20](meetings/members/2020/11-10-20.md)
