@@ -234,6 +234,7 @@
     * [2025](meetings/members/2025/README.md)
       * [03/20/2025](meetings/members/2025/03-20-2025.md)
       * [04/17/25](meetings/members/2025/04-17-25.md)
+      * [07//17/2025](meetings/members/2025/07-17-2025.md)
 * [Covid-19](covid-19/README.md)
   * [Midwest Mask](covid-19/midwest-mask.md)
   * [How you can help](covid-19/how-you-can-help.md)
