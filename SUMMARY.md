@@ -240,7 +240,7 @@
       * [04/17/25](meetings/members/2025/04-17-25.md)
       * [5/15/2025](meetings/members/2025/5-15-2025.md)
       * [6/19/2025](meetings/members/2025/6-19-2025.md)
-      * [07//17/2025](meetings/members/2025/07-17-2025.md)
+      * [07/17/2025](meetings/members/2025/07-17-2025.md)
       * [8/21/2025](meetings/members/2025/8-21-2025.md)
       * [9/18/2025](meetings/members/2025/9-18-2025.md)
       * [10/16/2025](meetings/members/2025/10-16-2025.md)
