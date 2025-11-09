@@ -234,6 +234,8 @@
       * [6/20/2024](meetings/members/2024/6-20-2024.md)
       * [7/18/2024](meetings/members/2024/7-18-2024.md)
     * [2025](meetings/members/2025/README.md)
+      * [1/16/2025](meetings/members/2025/1-16-2025.md)
+      * [2/20/2025](meetings/members/2025/2-20-2025.md)
       * [03/20/2025](meetings/members/2025/03-20-2025.md)
       * [04/17/25](meetings/members/2025/04-17-25.md)
       * [5/15/2025](meetings/members/2025/5-15-2025.md)
