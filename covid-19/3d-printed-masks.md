@@ -139,8 +139,7 @@ How-To: [Get a PPE Manufacturing Node Going](http://test.elandahl.com/)
 ## Contacts
 
 Joshua Malavolti (Lead Design Engineer and Researcher): joshua@rivercitylabs.space\
-Jared Malavolti (Researcher): jared@rivercitylabs.space\
-
+Jared Malavolti (Researcher): jared@rivercitylabs.space<br>
 
 River City Labs: info@rivercitylabs.space
 

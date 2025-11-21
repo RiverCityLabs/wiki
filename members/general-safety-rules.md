@@ -26,4 +26,4 @@
 * Before turning a power tool on, check to make sure all retaining and adjustment screws/nuts are tight, all locks are unlocked, and all chuck keys or other adjustment tools are removed.  Make sure nothing will be in contact with the cutting tool, especially your fingers.
 * After turning off a power tool, wait for it to come to a complete stop before making any adjustments or leaving it unattended.
 * Try to keep your body parts out of the plane of rotation of a power tool.  I have seen an abrasive wheel explode and throw fragments 30 feet, and I have seen a 2X4, fed the wrong way into a table saw, thrown 10 feet to make a half-inch-deep hole in a cinderblock wall.
-* Whenever possible, brace the power tool against something other than yourself; this makes controlling it much easier and less tiring.  The closer the brace is to the workpiece, the better.\
+* Whenever possible, brace the power tool against something other than yourself; this makes controlling it much easier and less tiring.  The closer the brace is to the workpiece, the better.<br>
