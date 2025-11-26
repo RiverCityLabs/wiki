@@ -6,7 +6,7 @@
 
 ## How to Print
 
-Please refer to the [How to Print](how-to-print.md) guide for detailed instructions
+Please refer to the [How to Print](../how-to-print.md) guide for detailed instructions
 
 ## Slicer Setup
 
@@ -25,11 +25,11 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
       1. Configure Hotend (see figure 4)
 7. Click Finish
 
-![figure 1](<../.gitbook/assets/image (46).png>)
+![figure 1](<../../.gitbook/assets/image (46).png>)
 
-![Figure 2](<../.gitbook/assets/image (47).png>)
+![Figure 2](<../../.gitbook/assets/image (47).png>)
 
-![Figure 3.1](<../.gitbook/assets/image (49).png>)
+![Figure 3.1](<../../.gitbook/assets/image (49).png>)
 
 Custom Start Gcode - Figure 3.2
 
@@ -113,4 +113,4 @@ G90                         ;absolute positioning
 ;{profile_string}
 ```
 
-![Figure 4](<../.gitbook/assets/image (50).png>)
+![Figure 4](<../../.gitbook/assets/image (50).png>)

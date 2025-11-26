@@ -1,25 +1,23 @@
-# Huber - Lulzbot TAZ 6
+# Radford - Lulzbot TAZ 6
 
-<div align="left"><img src="../.gitbook/assets/Lulzbot-TAZ6.jpg" alt="Huber Lulzbot TAZ 6"></div>
+<div align="left"><img src="../../.gitbook/assets/Lulzbot-TAZ6.jpg" alt="Radford Lulzbot TAZ 6"></div>
+
+
 
 ## Useful Links
 
-[Remote Huber Taz 6 Octoprint](https://3dprinter2.rivercitylabs.space/) - login info is on the printer
+[Remote Radford Taz 6 Octoprint](https://3dprinter3.rivercitylabs.space) - login info is on the printer
 
-If you cannot reach the Remote Site, use [this link](http://0.0.0.192/168.111.202) When in the space to reach the octoprint\
+If you cannot reach the Remote Site use [this link](http://192.68.111.201) When in the space to reach the octoprint\
 &#xNAN;**(works only when the space connected to the RCL's Wi-Fi)**
+
+
 
 [Official TAZ 6 Site](https://www.lulzbot.com/store/printers/lulzbot-taz-6)
 
-[Titan Aero assembly](https://e3d-online.dozuki.com/Guide/Titan+Aero+Assembly/23?lang=en)
-
-[Hot end tool assembly ](https://ohai.lulzbot.com/project/dual-extruder-v3/hot-end-tool-head-assembly/)
-
-
-
 ## How to Print
 
-Please refer to the [How to Print](how-to-print.md) guide for detailed instructions
+Please refer to the [How to Print](../how-to-print.md) guide for detailed instructions
 
 ## Slicer Setup
 
@@ -30,7 +28,7 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
 4. Click Add Printer
 5. Accept default Machine Settings
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (44).png>)
 
 ## Technical Specs
 
@@ -46,7 +44,7 @@ Please refer to the [How to Print](how-to-print.md) guide for detailed instructi
 
 **Average Print Speed:** 30 - 50 mm/sec (1.18 - 1.97in) Using default nGen profile
 
-**Layer Thickness with 0.4 mm nozzle:** 0.040 mm to 0.4 mm (0.002 in - 0.02 in)
+**Layer Thickness with 0.5 mm nozzle:** 0.050 mm to 0.5 mm (0.002 in - 0.02 in)
 
 **Capable Materials:**
 
