@@ -1,17 +1,21 @@
+---
+description: We have 2 Prusa Mini 3D printers
+---
+
 # Prusa Mini+
 
-![](../.gitbook/assets/MINI\_title.jpg)\
+![](../.gitbook/assets/MINI_title.jpg)\
 Prusa Mini
 
 ## Useful Links <a href="#useful-links" id="useful-links"></a>
 
-[​​PrusaSlicer Manual](https://help.prusa3d.com/en/article/first-print-with-prusaslicer\_1753)&#x20;
+[​​PrusaSlicer Manual](https://help.prusa3d.com/en/article/first-print-with-prusaslicer_1753)&#x20;
 
 [Service Manuals](https://help.prusa3d.com/en/tag/mini-2/)
 
 ## How to Print <a href="#how-to-print" id="how-to-print"></a>
 
-Please refer to the [How to Print](https://app.gitbook.com/o/-LmtnbDJj\_0DicA61Vpp/s/-LmtjMpkq7lmFcCnBcpE/\~/changes/x3cB2oeEcfRTQ9ZS71Wl/3d-printers/how-to-print) guide for detailed instructions
+Please refer to the [How to Print](https://app.gitbook.com/o/-LmtnbDJj_0DicA61Vpp/s/-LmtjMpkq7lmFcCnBcpE/~/changes/x3cB2oeEcfRTQ9ZS71Wl/3d-printers/how-to-print) guide for detailed instructions
 
 ## Slicer Setup <a href="#slicer-setup" id="slicer-setup"></a>
 
