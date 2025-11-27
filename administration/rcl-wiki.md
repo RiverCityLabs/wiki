@@ -2,7 +2,7 @@
 
 ## Hosting
 
-The wiki is a fully cloud hosted by [Gitbook](https://www.gitbook.com/). The monthly cost is waived for non-profit organizations and open-source projects, so it costs us nothing to host and there's no maintenance required to keep it operating.
+The wiki is fully cloud hosted by [Gitbook](https://www.gitbook.com/). The monthly cost is waived for non-profit organizations and open-source projects, so it costs us nothing to host and there's no maintenance required to keep it operating.
 
 ## Backups
 
@@ -11,6 +11,4 @@ The entire wiki is currently synced with a [Github Repo](https://github.com/Rive
 ## Updating the wiki
 
 The preferred method of updating the wiki is through the gitbook web app. See the [contributing ](../guides/contributing.md)page for more info.
-
-
 
