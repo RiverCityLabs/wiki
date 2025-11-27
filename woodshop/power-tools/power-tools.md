@@ -2,15 +2,11 @@
 description: Various Porter Cable battery powered tools
 ---
 
-# Power Tools
+# Porter Cable
 
 **\*\*\* These tools were generously donated to the space by Joe Spanier**
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (119).png" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image (119).png" alt=""></div>
 
 **Porter Cable Power Tools**
 
