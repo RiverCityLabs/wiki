@@ -1,2 +1,2 @@
-# Other Band Saw
+# Laguna 14BX Bandsaw
 

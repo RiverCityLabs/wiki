@@ -52,7 +52,7 @@
   * [Drill Press](woodshop/drill-press.md)
   * [Band Saws](woodshop/band-saws/README.md)
     * [Laguna 14BX Bandsaw](woodshop/band-saws/laguna-14bx-bandsaw.md)
-    * [Delta 14" Band Saw](woodshop/band-saws/band-saw.md)
+    * [Delta 14" Band Saw](woodshop/band-saw.md)
   * [Disc Sanding Center](woodshop/disc-sanding-center.md)
   * [Planer](woodshop/planer.md)
   * [Joiner](woodshop/joiner.md)

@@ -2,9 +2,9 @@
 description: Delta 14" Band Saw
 ---
 
-# Band Saw
+# Delta 14" Band Saw
 
-<div align="left"><img src="../../.gitbook/assets/Delta-Band-Saw.jpg" alt=""></div>
+<div align="left"><img src="../.gitbook/assets/Delta-Band-Saw.jpg" alt=""></div>
 
 ## Useful Links
 
