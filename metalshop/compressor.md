@@ -6,31 +6,15 @@
 
 
 
-<div align="left">
+<div align="left"><img src="../.gitbook/assets/image (73).png" alt="Franken-pressor"></div>
 
-<img src="../.gitbook/assets/image (73).png" alt="Franken-pressor">
+The compressor and air tanks are located above the paint room
 
-</div>
+<div align="left"><img src="../.gitbook/assets/image (74).png" alt="Water seperator"></div>
 
-The compressor and air tanks are located in the back room on a platform above the double door
+The water separator is located on the wall below the compressor .
 
-<div align="left">
+<div align="left"><img src="../.gitbook/assets/image (75).png" alt="Metal Shop Air Station"></div>
 
-<img src="../.gitbook/assets/image (74).png" alt="Water seperator">
-
-</div>
-
-The water separator is located in the back room on the wall below the compressor to the left of the double door.
-
-<div align="left">
-
-<img src="../.gitbook/assets/image (75).png" alt="Metal Shop Air Station">
-
-</div>
-
-<div align="left">
-
-<img src="../.gitbook/assets/image (84).png" alt="Regulator  ">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (84).png" alt="Regulator  "></div>
 

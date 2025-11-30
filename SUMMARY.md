@@ -39,7 +39,7 @@
   * [SA Laser Razor-2](lasers/sa-laser-razor-2.md)
   * [Fiber Laser](lasers/fiber-laser.md)
   * [Roly LaserMATIC](lasers/roly-lasermatic.md)
-  * [K40](lasers/k40.md)
+  * [K40 Rotary](lasers/k40.md)
   * [Glowforge](lasers/glowforge.md)
   * [BFL Laser (decommissioned)](lasers/bfl.md)
   * [Chiller](lasers/chiller.md)

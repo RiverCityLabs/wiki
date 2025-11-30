@@ -1,6 +1,6 @@
 # Kreg Precision Router Table
 
-## ![](<../.gitbook/assets/image (1) (1) (1).png>)
+## ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ## Useful Links
 

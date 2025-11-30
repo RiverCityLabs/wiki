@@ -74,10 +74,10 @@ PLACE HOLDER FOR USER MANUAL CONTENTS
     Refer to [Lightburn](lightburn.md) section on our wiki for more info on how to use [LB](lightburn.md) with [SA Laser Razer-2](sa-laser-razor-2.md)
 14. Align origin in design with actual laser head's origin position
 
-    Depending on the origin settings on the lightburn design, you may to adjust you gantry position to align with your desired laser head origin position.
+    Depending on the origin settings on the LightBurn design, you may to adjust you gantry position to align with your desired laser head origin position.
 15. Press the '[Laser button](sa-laser-razor-2.md#laser-button)" and get the chiller going first.
     1. This step helps the laser tube to get chilling process first before the laser stars firing
-    2. Also help auditorily that makes sure chiller is turned on before the laser is getting fired
+    2. Also help auditory that makes sure chiller is turned on before the laser is getting fired
 16. Press the "[Exhaust button](sa-laser-razor-2.md#exhaust-button)" and start the exhaust
     1. This may start and loud noise, use hearing protection if needed.
 17. Move the gantry to your desired position and hit origin on the [Remote Control](sa-laser-razor-2.md#remote-control) or the [Control Panel](sa-laser-razor-2.md#control-panel)
@@ -86,7 +86,7 @@ PLACE HOLDER FOR USER MANUAL CONTENTS
     Note: this will burn the material at the current position of the head with the power setting on the [Control Panel](sa-laser-razor-2.md#control-panel)
 19. You may now use the "Frame Button" on the [Remote Control](sa-laser-razor-2.md#remote-control) or the [Control Panel](sa-laser-razor-2.md#control-panel) to see the gantry moving along the largest polygon area bounded by your design.
 
-    If you wish to adjust your design in Lightburn you will have [to resend the design](lightburn.md#sending-files-to-the-machine)
+    If you wish to adjust your design in LightBurn you will have [to resend the design](lightburn.md#sending-files-to-the-machine)
 
     If you re-align your material repeat from step 17
 20. Once you're comfortable with the power settings and the position of your material hit [start button](sa-laser-razor-2.md#start-button) on the [Control Panel](sa-laser-razor-2.md#control-panel)
@@ -94,7 +94,7 @@ PLACE HOLDER FOR USER MANUAL CONTENTS
 
 
 
-## Get Trained before you can Operate
+## <mark style="color:red;">Get Trained before you can Operate</mark>
 
 Hope you have read through this wiki guide and are familiar with the overall machine and its operation.
 
@@ -107,7 +107,7 @@ Get hold of one of members in our [laser channel in slack](https://app.slack.com
 ### from RCL Desktop
 
 * #### Desktop PC has a mopped drive to the BFL PC where you can use/transfer files to the BFL PC
-* #### files can be any lightburn supported files extensions .
+* #### files can be any LightBurn supported files extensions .
 
 ## References:&#x20;
 
