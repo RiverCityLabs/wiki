@@ -1,5 +1,5 @@
 ---
-description: We have 2 Prusa Mini 3D printers
+description: We have two Prusa Mini 3D printers
 ---
 
 # Prusa Mini+
