@@ -4,6 +4,7 @@
 
 ## Tools
 
+* [Wacom Graphic Drawing Tablet](tools/wacom-graphic-drawing-tablet.md)
 * [3D Printers](tools/3d-printers/README.md)
   * [How to Print](tools/3d-printers/how-to-print.md)
   * [Prusa Mini+](tools/3d-printers/prusa-mini+.md)
@@ -31,7 +32,7 @@
   * [Power Supply 60V](tools/electronics-bench/power-supply.md)
   * [Power Supply 30V](tools/electronics-bench/power-supply-1.md)
   * [SMD Rework Station](tools/electronics-bench/smd-rework-station.md)
-* [Lasers](tools/lasers/README.md)
+* [LASERS](tools/lasers/README.md)
   * [LightBurn](tools/lasers/lightburn.md)
   * [SA Laser Razor-2](tools/lasers/sa-laser-razor-2.md)
   * [Fiber Laser](tools/lasers/fiber-laser.md)
@@ -103,7 +104,6 @@
 
 ***
 
-* [Wacom Graphic Drawing Tablet](wacom-graphic-drawing-tablet.md)
 * [Members](members/README.md)
   * [Active Channel Directory](members/active-channel-directory.md)
   * [Forms](members/forms.md)
