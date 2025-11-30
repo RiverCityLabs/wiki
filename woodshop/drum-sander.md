@@ -1,8 +1,9 @@
 # Drum Sander
 
-<mark style="color:red;">**The drum sander is not a thickness planer! The drum sander is designed to remove very small amounts of material. NEVER remove more than 1/64" or a maximum of 1/32" of material in a single pass. If too much material is removed at one time the sanding belt on the drum will become clogged and destroy the belt.**</mark>
+<mark style="color:red;">**The drum sander is not a thickness planer! The drum sander is designed to remove very small amounts of material. NEVER remove more than 1/64" or a maximum of 1/32" of material in a single pass. If too much material is removed at one time the sanding belt on the drum will become clogged and the belt will be destroyed.**</mark>
 
-**Laguna SuperMax 19-38 Drum Sander**
+**Laguna SuperMax 19-38 Drum Sander with Folding Infeed/Outfeed Tables &** \
+**Wixey Digital Read Out**
 
 <div align="left"><figure><img src="../.gitbook/assets/7d994134-f94e-48fe-8f1a-d96b91e9f7ac.webp" alt="" width="375"><figcaption></figcaption></figure></div>
 

@@ -4,7 +4,9 @@ description: 'DeWALT Deep Cut Band Saw. Model: DWM120'
 
 # Portable Band Saw
 
-## ![](../.gitbook/assets/IMG_4439-11_ca9182ee-47e4-4951-a00f-34405f7a1b0a_1024x1024@2x.webp)
+
+
+![](../.gitbook/assets/IMG_4439-11_ca9182ee-47e4-4951-a00f-34405f7a1b0a_1024x1024@2x.webp)
 
 ## Useful Links
 
