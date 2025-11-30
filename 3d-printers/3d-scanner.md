@@ -4,7 +4,7 @@ description: Revopoint POP-2 v2.0
 
 # 3D Scanner
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ## Useful Links
 
