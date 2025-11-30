@@ -10,5 +10,5 @@ The entire wiki is currently synced with a [Github Repo](https://github.com/Rive
 
 ## Updating the wiki
 
-The preferred method of updating the wiki is through the gitbook web app. See the [contributing ](../guides/contributing.md)page for more info.
+The preferred method of updating the wiki is through the gitbook web app. See the [contributing ](../../guides/contributing.md)page for more info.
 

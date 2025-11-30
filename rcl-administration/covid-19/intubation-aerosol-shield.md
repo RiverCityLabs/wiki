@@ -12,4 +12,4 @@ The goal is to minimize edges and metal from the original design to increase the
 
 This is the current design that is being approved at this time. Once we finalize a design and get it approved by our local HCP's we'll share the files.
 
-![](<../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (76).png>)

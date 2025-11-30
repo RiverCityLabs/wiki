@@ -22,7 +22,7 @@ Our supply is constantly in flux and dependent on local volunteers making them.
 
 There is no guarantee you will receive them by signing up. We will do our best and will contact you to arrange delivery if we have enough on hand to donate.
 
-[Mask Request Form](https://docs.google.com/forms/d/e/1FAIpQLSd4ZRjCT11ue2HLUsixIadBMptkuXtzpHWXqZMkVfGbQv8kvg/viewform?usp=sf\_link)
+[Mask Request Form](https://docs.google.com/forms/d/e/1FAIpQLSd4ZRjCT11ue2HLUsixIadBMptkuXtzpHWXqZMkVfGbQv8kvg/viewform?usp=sf_link)
 
 ## Overview
 
@@ -40,9 +40,9 @@ These masks are purely meant as a way to reduce the spread of airborne pathogens
 
 ### Overview
 
-[Printable Instructions Available Here](https://drive.google.com/file/d/1ukfH8wKdKXp9abZJC\_FFVxrq1VGjvsKY/view?usp=sharing) (5 page Google Doc)
+[Printable Instructions Available Here](https://drive.google.com/file/d/1ukfH8wKdKXp9abZJC_FFVxrq1VGjvsKY/view?usp=sharing) (5 page Google Doc)
 
-![shareable infographic instructions.](<../.gitbook/assets/masks infographic 2.jpg>)
+![shareable infographic instructions.](<../../.gitbook/assets/masks infographic 2.jpg>)
 
 
 
@@ -70,17 +70,13 @@ If you are familiar with making bias tape, this is the same process, with the on
 
 ![A close up of a hand
 
-Description automatically generated](../.gitbook/assets/image1.jpg)     ![A picture containing person, blue, cutting, knife
+Description automatically generated](../../.gitbook/assets/image1.jpg)     ![A picture containing person, blue, cutting, knife
 
-Description automatically generated](../.gitbook/assets/image3.jpg)
+Description automatically generated](../../.gitbook/assets/image3.jpg)
 
 Fold in half again along the center and iron.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image2.jpg" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image2.jpg" alt=""></div>
 
 Sew along the edge to secure the fold.
 
@@ -92,49 +88,37 @@ Cut to 16”-18” in length. [\[3\]](midwest-mask.md#footnotes)
 
 Stack the two 6” by 9” rectangles right sides together. [\[4\]](midwest-mask.md#footnotes)
 
-<div align="left">
-
-<img src="../.gitbook/assets/image5.jpg" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image5.jpg" alt=""></div>
 
 Sew along the top starting about 2” from the corner. Insert the end of one strap in the corner and sew in place. As long as it’s secured, you’re good. We’re looking for efficiency and effectiveness, not beauty.
 
-![](../.gitbook/assets/image4.jpg)    ![A picture containing person, hand, holding, piece
+![](../../.gitbook/assets/image4.jpg)    ![A picture containing person, hand, holding, piece
 
-Description automatically generated](../.gitbook/assets/image7.jpg)
+Description automatically generated](../../.gitbook/assets/image7.jpg)
 
 Continue sewing along the edge, inserting straps into each corner. All straps should be in between the two rectangles (like a pillow). Stop sewing when you have about a 2” wide gap left at the top.
 
 ![A picture containing indoor, holding, sitting, table
 
-Description automatically generated](../.gitbook/assets/image6.jpg)    ![A picture containing person, indoor, holding, sitting
+Description automatically generated](../../.gitbook/assets/image6.jpg)    ![A picture containing person, indoor, holding, sitting
 
-Description automatically generated](../.gitbook/assets/image9.jpg)
+Description automatically generated](../../.gitbook/assets/image9.jpg)
 
 Turn the mask right side out. Sew up the little gap that’s left open.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image8.jpg" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image8.jpg" alt=""></div>
 
 Form three pleats on each edge and pin in place. [\[5\]](midwest-mask.md#footnotes) It doesn’t matter if they go up or down, but both sides must go the same way.
 
-<div align="left">
-
-<img src="../.gitbook/assets/image12.jpg" alt="">
-
-</div>
+<div align="left"><img src="../../.gitbook/assets/image12.jpg" alt=""></div>
 
 Sew (topstitch) around the whole mask once more to secure pleats and seal.
 
 ![A picture containing indoor, person, table, sitting
 
-Description automatically generated](../.gitbook/assets/image10.jpg)   ![A picture containing person, indoor, table, chair
+Description automatically generated](../../.gitbook/assets/image10.jpg)   ![A picture containing person, indoor, table, chair
 
-Description automatically generated](../.gitbook/assets/image11.jpg)
+Description automatically generated](../../.gitbook/assets/image11.jpg)
 
 ### Packaging Instructions
 
@@ -180,6 +164,6 @@ Most patterns suggest sewing straps from elastic for DIY face masks. While I abs
 
 [Actual testing showing diy masks can offer some protection](https://smartairfilters.com/en/blog/diy-homemade-mask-protect-virus-coronavirus/)
 
-[Actual testing that shows diy mask materials can be effective and better than no mask](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/?fbclid=IwAR0xb7giemOM-f0OmPE\_g7DyBizqYqT85ndlod4KXE6XcEpLF2eBqPJd\_Wk)
+[Actual testing that shows diy mask materials can be effective and better than no mask](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/?fbclid=IwAR0xb7giemOM-f0OmPE_g7DyBizqYqT85ndlod4KXE6XcEpLF2eBqPJd_Wk)
 
 [Scientific study that found Surgical masks are as good as N95 respirators for the purpose of preventing flu and respiratory virus prevention](https://www.sciencedaily.com/releases/2019/09/190903134732.htm)
