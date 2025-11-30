@@ -4,7 +4,7 @@
 * [3D Printers](3d-printers/README.md)
   * [How to Print](3d-printers/how-to-print.md)
   * [Prusa Mini+](3d-printers/prusa-mini+.md)
-  * [Bamboo P1 AMS](3d-printers/bamboo-p1-ams.md)
+  * [Bambu A1 AMS lite](3d-printers/bambu-a1-ams-lite.md)
   * [3D Scanner](3d-printers/3d-scanner.md)
   * [Retired](3d-printers/retired/README.md)
     * [Radford - Lulzbot TAZ 6](3d-printers/retired/rcl-taz.md)
