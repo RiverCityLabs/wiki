@@ -24,6 +24,7 @@
   * [Vinyl Cutter - Redsail](tools/miscellaneous-tools/vinyl-cutter.md)
   * [Sewing Machines](tools/miscellaneous-tools/sewing-machines.md)
   * [Sawgrass SG1000](tools/miscellaneous-tools/sawgrass-sg1000.md)
+  * [Eufy E1 UV Printer](tools/miscellaneous-tools/eufy-e1-uv-printer.md)
 * [Electronics Bench](tools/electronics-bench/README.md)
   * [Rigol Oscilloscope](tools/electronics-bench/rigol_oscilloscope.md)
   * [Analog Scope](tools/electronics-bench/analog-scope.md)
