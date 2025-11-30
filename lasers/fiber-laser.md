@@ -1,6 +1,10 @@
 # Fiber Laser
 
+<div align="left"><figure><img src="../.gitbook/assets/image_720.png" alt="" width="360"><figcaption></figcaption></figure></div>
+
 ## Get Trained before you can Operate
+
+
 
 Hope you have read through this wiki guide and are familiar with the overall machine and its operation.
 

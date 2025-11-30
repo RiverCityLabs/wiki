@@ -4,7 +4,7 @@ description: 100w Co2 Laser
 
 # SA Laser Razor-2
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption><p>SALaser Razor-2 Image Courtesy: <a href="https://cyrusalbright.com/product/razor-2/">https://cyrusalbright.com/product/razor-2/</a></p></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (126).png" alt="" width="375"><figcaption><p>SALaser Razor-2 Image Courtesy: <a href="https://cyrusalbright.com/product/razor-2/">https://cyrusalbright.com/product/razor-2/</a></p></figcaption></figure></div>
 
 ## Specs
 
@@ -108,8 +108,6 @@ Get hold of one of members in our [laser channel in slack](https://app.slack.com
 
 * #### Desktop PC has a mopped drive to the BFL PC where you can use/transfer files to the BFL PC
 * #### files can be any lightburn supported files extensions .
-
-####
 
 ## References:&#x20;
 
