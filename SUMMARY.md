@@ -84,6 +84,7 @@
     * [MIG Welder](tools/metalshop/welding/mig-welder.md)
     * [TIG-Welder](tools/metalshop/welding/tig-welder.md)
     * [Stick Welder](tools/metalshop/welding/stick-welder.md)
+    * [Oxy Acetylene Torch](tools/metalshop/welding/oxy-acetylene-torch.md)
   * [Lathe](tools/metalshop/lathe.md)
   * [Horizontal Band Saw](tools/metalshop/horizontal-band-saw-1.md)
   * [Portable Band Saw](tools/metalshop/portable-band-saw.md)
