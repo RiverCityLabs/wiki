@@ -1,5 +1,5 @@
 ---
-description: 'DeWALT Deep Cut Band Saw. Model: DWM120'
+description: Milwaukee 6232-20v2
 ---
 
 # Portable Band Saw
@@ -16,6 +16,9 @@ description: 'DeWALT Deep Cut Band Saw. Model: DWM120'
 
 ## Specifications
 
-Model: DWM120 w/ SWAG V3.0 Portaband Table
+SWAG Portaband Table - Pro Model\
+SWAG "Choke Out" Trigger Control Kit\
+Foot Switch\
+Incra V27 Miter Gauge
 
 Blade size: standard 44-7/8"x1/2"x.020" blade
