@@ -1,6 +1,10 @@
 # Ameribrade 2x72 Belt Grinder
 
-![](<../.gitbook/assets/image (2) (1).png>)
+The Ameribrade Belt Grinder is in the grinding room
+
+<div align="left"><figure><img src="../.gitbook/assets/MASTERY-PACKAGE.webp" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
 
 
 

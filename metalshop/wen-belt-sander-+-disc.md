@@ -1,5 +1,7 @@
 # WEN Belt Sander + Disc
 
+The WEN Belt sander is in the grinding room
+
 ![](<../.gitbook/assets/image (40).png>)
 
 ## Useful Links
