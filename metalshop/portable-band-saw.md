@@ -4,13 +4,7 @@ description: 'DeWALT Deep Cut Band Saw. Model: DWM120'
 
 # Portable Band Saw
 
-**\*\*\* The portable band saw is on loan to the space from Patrick Black**
-
-<div align="left">
-
-<img src="../.gitbook/assets/image (18).png" alt="">
-
-</div>
+## ![](../.gitbook/assets/IMG_4439-11_ca9182ee-47e4-4951-a00f-34405f7a1b0a_1024x1024@2x.webp)
 
 ## Useful Links
 
