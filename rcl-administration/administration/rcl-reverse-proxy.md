@@ -1,5 +1,6 @@
 ---
 description: Reverse Proxy details
+hidden: true
 ---
 
 # RCL Reverse Proxy

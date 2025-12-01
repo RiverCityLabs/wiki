@@ -4,7 +4,6 @@
 
 ## Tools
 
-* [Wacom Graphic Drawing Tablet](tools/wacom-graphic-drawing-tablet.md)
 * [3D Printers](tools/3d-printers/README.md)
   * [How to Print](tools/3d-printers/how-to-print.md)
   * [Prusa Mini+](tools/3d-printers/prusa-mini+.md)
@@ -24,7 +23,6 @@
   * [Vinyl Cutter - Redsail](tools/miscellaneous-tools/vinyl-cutter.md)
   * [Sewing Machines](tools/miscellaneous-tools/sewing-machines.md)
   * [Sawgrass SG1000](tools/miscellaneous-tools/sawgrass-sg1000.md)
-  * [Eufy E1 UV Printer](tools/miscellaneous-tools/eufy-e1-uv-printer.md)
 * [Electronics Bench](tools/electronics-bench/README.md)
   * [Rigol Oscilloscope](tools/electronics-bench/rigol_oscilloscope.md)
   * [Analog Scope](tools/electronics-bench/analog-scope.md)
@@ -101,6 +99,7 @@
   * [Compressor](tools/metalshop/compressor.md)
   * [Miscellaneous Air Tools](tools/metalshop/miscellaneous-air-tools.md)
 * [Miscellaneous Tools](tools/miscellaneous-tools-1/README.md)
+  * [Wacom Graphic Drawing Tablet](tools/miscellaneous-tools-1/wacom-graphic-drawing-tablet.md)
   * [Dremel](tools/miscellaneous-tools-1/dremel.md)
 * [Paint Shop](tools/paint-shop.md)
 
@@ -147,7 +146,6 @@
   * [RCL Website](rcl-administration/administration/rcl-website.md)
   * [RCL Automation](rcl-administration/administration/rcl-automation.md)
   * [RCL Reverse Proxy](rcl-administration/administration/rcl-reverse-proxy.md)
-  * [HASSIO](rcl-administration/administration/hassio.md)
   * [YouTube Upload Process](rcl-administration/administration/youtube-upload-process.md)
   * [Trello](rcl-administration/administration/trello.md)
 * [Meetings](rcl-administration/meetings/README.md)

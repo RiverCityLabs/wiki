@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # POS Terminal Setup
 
 ## Introduction
@@ -6,36 +10,34 @@ These instructions will guide you through the process of setting up one of the P
 
 ## Download
 
-1. Download whichever Linux distribution you would like to use. For these machines, a lightweight desktop is recommended. Something like Lubuntu or Ubuntu Mate
+1.  Download whichever Linux distribution you would like to use. For these machines, a lightweight desktop is recommended. Something like Lubuntu or Ubuntu Mate
 
-   **Create Boot media**
-
+    **Create Boot media**
 2. Use a USB bootable media creation tool like [https://etcher.io/](https://etcher.io/) to create a bootable usb
 
 OR
 
-1. Use whatever tools are available to burn the ISO to a blank DVD.
+1.  Use whatever tools are available to burn the ISO to a blank DVD.
 
-   **Boot**
+    **Boot**
 
-   During the POS Boot up, there is a short window of time to choose \[1. Boot\] \[2. Setup\] \[3. No\]
-
-2. Press \[1.Boot\]
+    During the POS Boot up, there is a short window of time to choose \[1. Boot] \[2. Setup] \[3. No]
+2. Press \[1.Boot]
 3. Choose the number of the device that corresponds to the USB Optical Drive
 
 OR
 
-1. Press the \[delete\] key during startup to enter the main bios
+1. Press the \[delete] key during startup to enter the main bios
 2. Go to boot tab and change the hard drive priority to the bootable USB Drive
 3. Go to boot order and verify that your USB is in fact the first bootable device
-4. Press \[F10\] to reboot and save your changes
+4. Press \[F10] to reboot and save your changes
 
 ## Install
 
 Follow the standard guided installation:
 
 1. Wipe everything and use entire disk
-2. check install updates during install \(requires network access\)
+2. check install updates during install (requires network access)
 3. check install additional software drivers
 4. User - rcl
 5. Hostname - make it machine specific ex: "laser-station"
@@ -44,14 +46,14 @@ Follow the standard guided installation:
 
 These steps will ensure all makerspace POS terminals will provide the same interface at each station
 
-1. Update the OS via either terminal or System &gt; Administration &gt; Software Updater
+1. Update the OS via either terminal or System > Administration > Software Updater
 2. Reboot
 
 ### Touchscreen
 
-[Download](https://drive.google.com/open?id=1PVsa7Y1Hx73PfP8g3j6lGAY13vjxcRs9) the Linux \(Single Touch\)\(64-bit\) Driver from the RCL cloud drive.  
-[Here ](https://www.3m.com/3M/en_US/touch-systems-us/resources/3m-touch-drivers-and-kernel-patches/)is the official 3M download link  
-[Here ](https://multimedia.3m.com/mws/media/1436608O/linux-readme-text-file.txt)is the official 3M README link for the driver  
+[Download](https://drive.google.com/open?id=1PVsa7Y1Hx73PfP8g3j6lGAY13vjxcRs9) the Linux (Single Touch)(64-bit) Driver from the RCL cloud drive.\
+[Here ](https://www.3m.com/3M/en_US/touch-systems-us/resources/3m-touch-drivers-and-kernel-patches/)is the official 3M download link\
+[Here ](https://multimedia.3m.com/mws/media/1436608O/linux-readme-text-file.txt)is the official 3M README link for the driver\
 [Here ](https://multimedia.3m.com/mws/media/719216O/mt7-13-3-software-user-guide-for-wince.pdf)is the official 3M driver manual
 
 Open a terminal and enter the following commands one at a time:
@@ -92,4 +94,3 @@ sudo ./TwCalib
 ```
 
 follow prompts on the screen to calibrate the touch functions
-
