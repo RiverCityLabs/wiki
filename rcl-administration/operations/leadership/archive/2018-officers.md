@@ -1,3 +1,7 @@
+---
+description: River City Labs Officers for 2018
+---
+
 # 2018
 
 * President - Joe Spanier
@@ -12,4 +16,3 @@
 * Director - Jason Radford
 * Director - Karen Raab
 * Director - Tim Smith
-

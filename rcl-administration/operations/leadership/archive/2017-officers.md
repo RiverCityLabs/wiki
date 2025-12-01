@@ -1,3 +1,7 @@
+---
+description: River City Labs Officers for 2017
+---
+
 # 2017
 
 * President - Joe Spanier
@@ -9,4 +13,3 @@
 * Public Relations Officer - Christian Papach
 * Director - Jay Babin
 * Director - Josh Malavolti
-
