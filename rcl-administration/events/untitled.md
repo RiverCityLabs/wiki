@@ -1,5 +1,6 @@
 ---
 description: This goes through the prep process for the lost wax casting class.
+hidden: true
 ---
 
 # Lost Wax Casting Class
