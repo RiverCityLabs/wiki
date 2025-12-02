@@ -2,6 +2,8 @@
 
 The Ameribrade Belt Grinder is in the grinding room
 
+<mark style="color:red;">The Ameribrade Belt Grinder is for metal only. DO NOT SAND WOOD!</mark>
+
 <div align="left"><figure><img src="../../.gitbook/assets/MASTERY-PACKAGE.webp" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
