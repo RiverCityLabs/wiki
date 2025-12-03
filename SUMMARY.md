@@ -159,6 +159,7 @@
       * [08/15/2025](rcl-administration/meetings/officers/2025/08-15-2025.md)
       * [9/09/2025](rcl-administration/meetings/officers/2025/9-09-2025.md)
       * [10/15/2025](rcl-administration/meetings/officers/2025/10-15-2025.md)
+      * [11/11/2025](rcl-administration/meetings/officers/2025/11-11-2025.md)
     * [Archive](rcl-administration/meetings/officers/archive/README.md)
       * [2020](rcl-administration/meetings/officers/archive/2020/README.md)
         * [1-7-2020](rcl-administration/meetings/officers/archive/2020/1-7-2020.md)
