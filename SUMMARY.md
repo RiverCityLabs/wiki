@@ -16,7 +16,7 @@
     * [Robo3d](tools/3d-printers/retired/robo3d.md)
     * [Fred's RCL i4](tools/3d-printers/retired/bliss-i4.md)
 * [Textiles & Sewing](tools/miscellaneous-tools/README.md)
-  * [Circut Maker](tools/miscellaneous-tools/circut-maker.md)
+  * [Cricut Maker](tools/miscellaneous-tools/circut-maker.md)
   * [Cricut Access](tools/miscellaneous-tools/cricut-access.md)
   * [Brother SE-400](tools/miscellaneous-tools/brother-se-400.md)
   * [Screen Printing](tools/miscellaneous-tools/screen-printing.md)
