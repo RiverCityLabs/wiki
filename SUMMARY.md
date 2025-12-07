@@ -8,7 +8,7 @@
   * [How to Print](tools/3d-printers/how-to-print.md)
   * [Prusa Mini+](tools/3d-printers/prusa-mini+.md)
   * [Bambu A1 AMS lite](tools/3d-printers/bambu-a1-ams-lite.md)
-  * [Prusa i3](tools/3d-printers/prusa-i3.md)
+  * [Prusa I3 MK3](tools/3d-printers/prusa-i3-mk3.md)
   * [3D Scanner](tools/3d-printers/3d-scanner.md)
   * [Retired](tools/3d-printers/retired/README.md)
     * [Radford - Lulzbot TAZ 6](tools/3d-printers/retired/rcl-taz.md)
