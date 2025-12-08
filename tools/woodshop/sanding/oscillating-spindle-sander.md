@@ -4,7 +4,7 @@ description: 'Performax Model: 240-2978'
 
 # Oscillating Spindle Sander
 
-<div align="left"><img src="../../.gitbook/assets/image (30).png" alt=""></div>
+<div align="left"><img src="../../../.gitbook/assets/image (30).png" alt=""></div>
 
 ## Useful Links
 
