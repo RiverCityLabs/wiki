@@ -6,9 +6,11 @@ JET 17" Floor Drill Press - 3/4 HP 1 Ph 115V - JDP-17 Model JT9-716300
 
 
 
+## Useful Links
 
+Manual
 
-**Specifications:**
+## **Specifications:**
 
 * Motor Type: TEFC
 * Power Transfer: 2 poly v-belts
