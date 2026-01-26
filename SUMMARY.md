@@ -33,6 +33,8 @@
   * [Power Supply 60V](tools/electronics-bench/power-supply.md)
   * [Power Supply 30V](tools/electronics-bench/power-supply-1.md)
   * [SMD Rework Station](tools/electronics-bench/smd-rework-station.md)
+  * [Spot Welder](tools/electronics-bench/spot-welder.md)
+  * [Page 2](tools/electronics-bench/page-2.md)
 * [LASERS](tools/lasers/README.md)
   * [LightBurn](tools/lasers/lightburn.md)
   * [SA Laser Razor-2](tools/lasers/sa-laser-razor-2.md)
