@@ -25,6 +25,7 @@
   * [Sewing Machines](tools/crafting-textiles-and-sewing/sewing-machines.md)
   * [Sawgrass SG1000](tools/crafting-textiles-and-sewing/sawgrass-sg1000.md)
   * [Epson ecotank et-2803 inkjet printer](tools/crafting-textiles-and-sewing/epson-ecotank-et-2803-inkjet-printer.md)
+  * [eufyMake E1](tools/crafting-textiles-and-sewing/eufymake-e1.md)
 * [Electronics Bench](tools/electronics-bench/README.md)
   * [Rigol Oscilloscope](tools/electronics-bench/rigol_oscilloscope.md)
   * [Analog Scope](tools/electronics-bench/analog-scope.md)
