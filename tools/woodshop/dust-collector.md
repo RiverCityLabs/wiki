@@ -6,7 +6,7 @@ The BFV dust collector at River City Labs is a modified Harbor Freight 70 Gallon
 
 **Emptying the dust collection barrel**
 
-<mark style="color:$danger;">Please empty the dust collection barrel after each daily use of the dust collection system.</mark>
+<mark style="color:$danger;">**Please empty the dust collection barrel after each daily use of the dust collection system.**</mark>
 
 **Cleaning the filter**\
 The filter will need to be occasionally cleaned. To clean the filter use the air compressor to blow air through the outer metal mesh. Make sure to blow off the entire outer surface of the filter. Wait a few minutes for the dust to settle inside the filter and drop into the green bucket. Unscrew the green bucket in a clockwise direction to remove the bucket. Empty out the dust. Replace the bucket by screwing it in a counterclockwise direction. Do not over tighten the bucket.

@@ -12,7 +12,7 @@ The compressor and air tanks are located above the paint room
 
 <div align="left"><img src="../../.gitbook/assets/image (74).png" alt="Water seperator"></div>
 
-The water separator is located on the wall below the compressor .
+The water separator is located on the wall below the compressor.
 
 <div align="left"><img src="../../.gitbook/assets/image (75).png" alt="Metal Shop Air Station"></div>
 
