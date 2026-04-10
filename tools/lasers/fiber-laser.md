@@ -30,7 +30,7 @@ tower with 4pcs\
 lens(110/150/210/300) and 1pcs\
 rotary(D100)
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
