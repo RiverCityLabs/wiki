@@ -6,8 +6,9 @@
 
 * [3D Printers](tools/3d-printers/README.md)
   * [How to Print](tools/3d-printers/how-to-print.md)
-  * [Prusa Mini+](tools/3d-printers/prusa-mini+.md)
+  * [Snapmaker U1](tools/3d-printers/snapmaker-u1.md)
   * [Bambu A1 AMS lite](tools/3d-printers/bambu-a1-ams-lite.md)
+  * [Prusa Mini+](tools/3d-printers/prusa-mini+.md)
   * [Prusa I3 MK3](tools/3d-printers/prusa-i3-mk3.md)
   * [3D Scanner](tools/3d-printers/3d-scanner.md)
   * [Retired](tools/3d-printers/retired/README.md)
